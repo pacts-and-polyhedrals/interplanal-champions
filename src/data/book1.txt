@@ -1,0 +1,1457 @@
+INTERPLANAL CHAMPIONS
+THE THRONE OF AVERNUS
+BOOK I  |  THE GAME MASTER'S CAMPAIGN
+Interest of Asmodeus • A sequel to The Night of the Red Clause
+A LEVELS 12–17 CAMPAIGN  /  18–24 SESSIONS
+THE SEAT IS VACANT. THE CLAIMANTS ARE MANY. THE TERMS ARE FINAL.
+A darkly satirical infernal succession saga of battle, deception, governance, golem warfare and enforceable bargains. 
+Six original map locations reimagined, with procedural encounters and a mythic showdown against Misty, Hell Hag 
+Queen.
+DRAFT EDITION   •   6 NOVEMBER 2026
+
+Table of Contents
+INTERPLANAL CHAMPIONS
+THE THRONE OF AVERNUS
+Book I: The Championship of Infernal Succession
+Interest of Asmodeus. A sequel adventure to The Night of the Red Clause.
+Designed for: Four to six adventurers, levels 12-17; D&D 5e (2014 baseline), with 2024 conversion guidance.
+Recommended length: 18-24 sessions of 4-5 hours (approximately 75-110 hours), plus optional side quests. 
+Milestone advancement from level 12 to level 17.
+Structure: Six preserved original map locations expanded into a six-act political and survival campaign, with 
+optional routes across Avernus, procedural encounters, contracts, golem warfare, hag-law and the Arena of 
+Asmodeus.
+Play modes: Traditional DM; or an open-procedure DM/contestant mode where random tables and transparent 
+adjudication prevent conflicts of interest.
+THE SEAT IS VACANT. THE CLAIMANTS ARE MANY. THE TERMS ARE FINAL.
+From the Office of the Ninth Crown: The mightiest need not be the strongest. The strongest need not be 
+the cleverest. The cleverest merely needs to survive the hearing.
+Contents
+1. Running the Championship: tone, continuity, timings and rules of standing
+2. The Succession Audit: story, factions, secrets and the championship charter
+3. Chapter I — Dead Already: Map 1 Welcome to Hell; Map 2 Unexpected Findings
+4. Chapter II — The Fallen: Map 3 Greyhurst; Maps 4–5 Sorcerous Implications
+5. Chapter III — War of Claims: Avernus factions, claimant trials and legal warfare
+6. Chapter IV — Blood and Brass: the Citadel and progressive championship arenas Chapter V — The Hag Queen’s Due: Misty’s 
+realm and Heartstone Chapter VI — The Rite of the Nine: final arena and succession NPCs and bestiary: Asmodeus, Misty, 
+Janella, golems and claimants Procedural appendices: random tables, map conversion, fairness, contracts and outcomes
+Source and continuity note. The original 25-page Interplanal Champion: Interest of Asmodeus supplies the six 
+maps, the village/mansion arrangement, the construct mystery, treasure markers, random encounter ethos and the 
+Brass Arena’s environmental mechanics. The Night of the Red Clause supplies Form H-25, the surviving legal 
+verdict, the Asmodeun Scriptorium, and the Ledger’s Draft DC, Loophole Rating and soul-tithe conventions. This is a 
+connected expansion, not a silent rewrite. All newly specified mechanics in this book are playtest-ready homebrew.
+1. RUNNING THE CHAMPIONSHIP
+The five promises of this adventure
+1. The throne is real. A victor may lawfully become Lord, Lady or Council of the First. Asmodeus retains his sovereignty over 
+Hell, but the prize isn’t withdrawn through a last-minute gotcha.
+
+2. The contract is knowable. Every contestant receives the complete Charter before signing. An ordinary failed die roll never 
+transfers an unwilling soul.
+3. The random tables have guardrails. They introduce volatility, bargains, hazards and foes appropriate for level 12. They do 
+not unexpectedly drop Tiamat or an ancient dragon into combat.
+4. No compulsory PvP. Personal claims and co-regency are equally viable. Player-versus-player combat occurs only when the 
+group has opted in.
+5. Misty stays Misty. The established CR 30 mythic Hell Hag Queen remains powerful throughout. At levels 12-15 she operates 
+through counsel, covens, proxies and the Oathshard. At level 16 her real lair and Heartstone can be discovered. At level 17, a 
+well-equipped and well-prepared party can choose a brutally dangerous true-form confrontation. Her death requires defeating 
+both phases and destroying her Heartstone.
+Tone
+Begin with the bureaucratic black comedy of The Night of the Red Clause. The invitation is ostentatious, the 
+reception desks are cruelly inefficient, and demons are asked to queue. In Greyhurst, humour drains into survivor 
+guilt and the cost of souls. At the Citadel, the tone becomes political horror: allies may be purchased, testimony may 
+be weaponised, and a spectator’s cheer may be a legally significant act of consent. The final arena is magnificent, 
+lethal, and orderly in the most terrifying way.
+Campaign roadmap and milestones
+The championship is a campaign, not an overnight arena spectacle. The succession process requires proof of 
+leadership, trials of strength and cunning, public claims, alliances, discovery of fraudulent entrants, and the final Rite 
+of the Nine. A party may seek the throne jointly or split into rivals, subject to an agreed player-versus-player safety 
+policy.
+Act Sessions Levels Core developments Milestone
+I. Dead Already 1-3 12
+Arrival, lava road, initial 
+registration, contenders, 
+first evidence
+Reach level 13 after 
+Survival Proof
+II. The Fallen 4-7 13
+Greyhurst, golemancer, 
+inverse circle, soul 
+registry, Misty’s first 
+contract
+Reach level 14 after 
+freeing or ruling 
+Greyhurst
+III. The War of Claims 8-11 14
+Avernus factions, 
+champion sponsorship, 
+rival claimants, contract 
+litigation
+Reach level 15 after 
+second public trial
+IV. Blood and Brass 12-15 15
+Citadel politics, 
+progressive arenas, 
+construct war, 
+attempted coup
+Reach level 16 on 
+securing arena 
+qualification
+V. The Hag Queen’s 
+Due 16-19 16-17
+Misty’s coven, 
+Heartstone 
+investigation, bargains 
+or raid, optional mythic 
+confrontation
+Reach level 17 before 
+true Misty confrontation
+VI. The Rite of the Nine 20-24 17
+Arena of Asmodeus, 
+rival coalitions, legal 
+appeals, governance 
+and investiture
+Ending: sovereign, 
+shared council, proxy or 
+refusal
+
+Pacing: Award levels by completed meaningful objectives, never by number of creatures slain. The critical path takes 
+around 18 sessions; add six for rival arcs, side contracts, construct development or a full Misty confrontation.
+Misty fight readiness: Her true CR 30 mythic encounter is an optional tier-17 capstone; do not assign it as a required 
+check for all parties. The promised reward for defeating her is an actual political and legal advantage in the final 
+succession, not an automatic victory. The module includes the duel, escape routes, Heartstone requirements and 
+aftermath.
+Bridge from The Night of the Red Clause
+Four different invitations preserve whichever ending the previous group earned.
+Red Clause ending Sequel hook and consequence
+Unprecedented Verdict
+The Brass Arbiter’s judgment is cited as Precedent H-25. The 
+heroes receive standing to inspect the succession charter and one 
+automatic success on a legal petition concerning coerced consent.
+Hostile Takeover
+Salvaged machinery includes a Brass Court summons; the party 
+has proof of fraud but not legal precedent. A Red Clause remnant 
+may appear as a disgraced rival clerk.
+Greatest Gift
+A character who voluntarily pledged a soul receives a separate, 
+optional stay-of-collection offer to enter the tournament. Declining 
+does not rewrite the old bargain; the player can use a new 
+character.
+Ninth Bell
+The tournament advertises a writ of review among its genuine 
+prizes. A contestant may seek title partly to recover prisoners 
+transferred to Nessus.
+The party need not have played the first adventure. The introductory handout simply says that a notorious Waterdeep 
+seasonal collection programme was recently exposed, leaving Hell’s methods under scrutiny.
+Read aloud: the invitation
+A red envelope arrives with no messenger. Its seal is a crown of nine black thorns.
+The paper smells of ash, cinnamon and wet iron.
+OFFICIAL NOTICE OF CONDITIONAL SUCCESSION.
+Whereas the First Layer requires a sovereign of proven force, ingenuity and contractual competence; 
+whereas the present administration is subject to audit; and whereas the armies of Hell are weary of 
+appointments made entirely by nepotism—
+THE FIRST INTERPLANAR CHAMPIONSHIP IS HEREBY DECLARED.
+You may seek the throne alone. You may nominate partners. You may reject the invitation.
+But only those who attend will decide who rules Avernus next.
+Lawful premise: what happened to Zariel?
+In the usual Forgotten Realms continuity, Zariel rules Avernus and Bel remains an influential former ruler. This 
+adventure makes one explicit homebrew divergence: Asmodeus has placed Zariel’s appointment under a conditional 
+Succession Audit because the Blood War, infernal expenditure, and the failed Red Clause precedent have given him 
+political reasons to reassess command. Zariel remains incumbent and has full rights to be represented by a proxy. She 
+is not dead, secretly removed, or casually outmatched by level-12 heroes. Asmodeus has lawfully made the future 
+office available to a challenge under his new Ninth Article. If your ongoing campaign has redeemed or removed 
+Zariel, replace her proxy with Bel’s claimant and keep the same mechanical structure.
+
+2. THE SUCCESSION AUDIT
+What Asmodeus really wants
+Asmodeus’s immediate goal is a new precedent: a throne may be won through an enforceable competition of 
+Force, Cunning, and Legitimate Claim, rather than solely through appointment or military coup. He expects to gain 
+a ruthless, competent First-Layer ruler; a public demonstration of infernal due process; and a way to keep ambitious 
+archdevils fighting inside rules he authored. He will honour a lawful result because that result is more useful to him 
+than a fraudulent contest.
+An important tension: he values deviousness, but deviousness demonstrated by violating a Charter he himself signed 
+is incompetence, not victory. Challengers who use the rules against one another impress him. Challengers who expose 
+fraud may embarrass his staff and still earn his respect.
+Three Crown Proofs
+A contender or allied slate must earn at least one Proof of each type to seek a final investiture:
+Proof How it is earned Typical route
+Survival
+Live through a published hazard, defeat a 
+ranked foe or protect another qualified 
+claimant while threatened.
+Maps 1–2; or first arena round.
+Deviousness
+Obtain a genuine procedural advantage 
+through investigation, negotiation or a 
+discovered loophole; forgery alone doesn’t 
+count unless admitted as a lawful gambit.
+Greyhurst; Misty’s challenge; Citadel 
+litigation.
+Dominion
+Secure the voluntary allegiance of a 
+nontrivial faction, preserve a domain under 
+pressure or demonstrate command in a 
+contest.
+Janella’s golems; the Fallen survivors; final 
+arena.
+Use open Crown Marks for additional standing: each Proof earns one mark; exceptional resolutions can earn one 
+bonus mark in that category (maximum six total). A slate with all three Proofs is eligible even with only three marks. 
+Marks break ties and buy one limited procedural advantage in the arena, but cannot replace the three distinct Proofs.
+Claim types
+Sole claim: One contestant is nominated for the throne; party allies can gain offices, rewards, or seats on a council 
+without being bound as subjects.
+Joint claim: Two or more contestants sign a Covenant of Joint Regency (Book II). They share the single executive 
+office and its responsibilities. The contract has explicit decision and dissolution rules; it isn’t a secret trap.
+Proxy claim: A contestant represents a patron or faction. The identity and authority of the patron must be disclosed 
+to the Brass Arbiter before the final verdict.
+Withdrawal: Anyone can leave the tournament before final investiture under the Charter’s notice provision. No 
+automatic soul forfeiture occurs.
+
+The five factions
+Faction Wants Offers Hidden fault
+Office of the Ninth Crown A credible outcome validating 
+Asmodeus’s new succession rite
+Enforcement of the published 
+Charter, not personal friendship
+An aide is accepting influence 
+payments from Misty
+Zariel’s War Host Preserve military command and 
+win by proxy
+Battlefield intelligence, veteran 
+support
+Will sacrifice civilian assets to 
+improve tactical outcomes
+Bel’s Brass Consortium Regain economic and military 
+leverage
+Siege engines, forged metal, 
+logistics
+Has financed both sides of 
+several rival bids
+Misty’s Pyric Triune Put soul, memory, and curse 
+brokerage under her influence
+Hidden truths, memory escrow, a 
+hag-counsel’s legal expertise
+The offered assistance creates 
+future rights in a victor’s 
+administration
+Greyhurst’s Remnant Release survivors and recover 
+stolen golem work
+Witnesses, protected routes, a 
+construct ally
+The golem core itself contains 
+incriminating recorded 
+commands
+Primary adversary: Misty, Queen of Barbed Chains
+Misty is not a disposable arena monster. She is the established Hell Hag Queen: one of the feared Daughters of the 
+First Flame, patron of the Pyric Triune covens, and an expert in curse-weaving, soul custody, memory harvesting 
+and infernal precedent. Her established true form is CR 30, AC 20, initial HP 244, Charisma 26, save DC 25; Hag 
+Queen’s Deception restores 144 HP and moves the encounter to her resting place. A second defeat draws her back to 
+her Heartstone; permanent victory requires destroying it. Preserve those elements for the level-17 optional 
+confrontation rather than downscaling her.
+In this adventure her aim is not simply to wear the crown. She wants a clause granting the hags perpetual first 
+refusal on debts, memories and secrets collected by whichever ruler wins. She can sponsor her own champion if 
+negotiations fail. Her case is disturbingly competent: unlike Nicholas Red Clause, Misty avoids obvious forged 
+addresses or concealed service terms.
+Her agents are Mother Sable (coven barrister), the Oathshard (a limited manifestation for levels 13-15), and an 
+invisible Hag Eye that observes proceedings. The queen enters the story personally in Act IV, can be bargained with 
+at level 16, and may be fought in her true form at level 17. Destroying an Oathshard has no effect on her own hit 
+points or Heartstone.
+Principal reveal
+The inverted summoning circle in Greyhurst isn’t just summoning devils. It registers the town’s lost names as 
+unclaimed contestants, permitting their identities and allegiance to be put into the tournament’s asset pool. Misty 
+wants these names as collateral; Osric Kane wants military protection; Janella wants the circle undone so her family 
+and her golems can be free. This makes the original mansion, golem and summoning scenes components of the 
+succession plot.
+The Championship Charter: DM quick law
+Every contestant gets the full public Charter printed in Book II. These are its binding rules:
+1. A contestant must give informed, voluntary assent. Signing is not the same as pledging a soul.
+2. Each candidate must earn Survival, Deviousness and Dominion proofs. An approved slate may combine members’ proofs.
+3. There is no mandatory death match. PvP is prohibited unless opponents separately agree to a duel under Article VII.
+
+4. Legal challenges may be filed with the impartial Brass Arbiter; a documented challenge pauses the specific disputed process, 
+not every event across Avernus.
+5. Soul collateral requires a separate, conspicuous instrument. It cannot arise by inference from competition entry.
+6. A co-regency is permitted if all co-rulers sign and publicly disclose their governance articles before the final bell.
+7. The winner receives a real investiture, conditional obligations to defend the First Layer and obey Asmodeus’s overarching 
+laws, and enforceable rights over its government.
+Contract analysis procedure: keep the Red Clause system
+Use the existing Asmodeun Scriptorium’s Ledger for long-term bargains: drafting scope sets Draft DC 
+10/13/16/19/22 and initial Loophole Rating 3/4/5/6/8 respectively; successful drafting reduces loopholes, extra time 
+and a contract devil improve quality, scrutiny identifies gaps, and a hearing exploits them. The championship adds 
+Standing (who may file), Exhibits (why a claim is true), and Remedy (what the court can actually order).
+Safety and compatibility ruling: The Championship Charter expressly waives the Scriptorium’s ordinary 5% 
+soul court fee for all official championship petitions. Outside this Charter, treat any soul-tithe court fee as an 
+explicit cost of an agreed infernal arbitration instrument, never as an automatic deduction from an unsigned 
+character’s soul for failing a skill check. This narrow tournament interpretation prevents involuntary soul forfeiture 
+and preserves the challenge’s meaningful legal risks. Spell effects can delay collection; they do not rewrite clear 
+signed terms by fiat.
+Tribunal challenge: three stages
+A character uses an action during time-sensitive scenes, or an exchange during social scenes, to State Standing, 
+Tender Evidence, Request Remedy. Clear documentary proof of an objective violation automatically establishes it. 
+Otherwise, let the player argue a real interpretation and make an appropriate Intelligence (Investigation or Religion), 
+Wisdom (Insight), or Charisma (Persuasion or Deception) check against DC 15 (routine), 18 (disputed), or 21 (high-
+court precedent). Deception may win an improvised procedural gambit but may expose the claimant to sanctions if 
+later proven false. One petition per side per round prevents high-Charisma spam.
+Winning an objection can: remove a hostile contract effect, delay one arena tick, neutralise a hostile exhibit, or win a 
+Crown Mark. No single success both wins the championship and disposes of an unrelated adversary’s rightful claim.
+3. CHAPTER I — DEAD ALREADY
+Original maps: Map 1, Welcome to Hell; Map 2, Unexpected Findings.
+Target runtime: 2–3 hours in the full adventure, 35 minutes in the tournament cut.
+Primary goal: Obtain Proof of Survival and the first indications that identities can be taken from people who are not 
+dead.
+Map 1: Welcome to Hell
+The original adventure opens with the characters’ souls ripped from limbo by Asmodeus and dumped into Avernus, 
+their equipment stripped. To accommodate returning Red Clause survivors, this version gives the party a choice: enter 
+alive through the appointed summoning gate (retaining gear), or sign a controlled Death-in-Absence Writ, 
+temporarily separating body and soul for a greater opening reward. Do not force the second option on players. A 
+character who chooses the latter returns to their own body after the entrance trial, and receives a one-use Brass 
+Reprieve token to reroll a failed death save during this adventure.
+
+Read aloud
+Darkness with the weight of a grave presses against you. You smell hot brass. A thousand signatures 
+scratch across paper somewhere just beyond your hearing.
+Then red sand pours from a sky with no sun. A broken bridge spans a river glowing with molten light. On 
+the far bank, a sign leans sideways: WELCOME, PROSPECTIVE SOVEREIGN. ALL 
+COMPLAINTS MUST BE FILED IN TRIPLICATE.
+A voice speaks from the clouds, smooth and amused.
+“If you wish to rule Hell, do show me you can survive the reception.”
+Keyed encounter locations
+1A, the Counting Gate. Two imps ask contestants to declare their names, chosen slates, and whether they claim the 
+right of appeal. The answer yes is free and lawful. The imps pretend that it requires a filing surcharge. A successful 
+DC 15 Insight or evidence-based legal argument earns a tiny brass receipt marked EXEMPT FROM FRAUDULENT 
+FEES, an exhibit usable once later.
+1B, the Ash Bridge. The crossing is about 60 feet long, with broken platforms over burning flow. Use a three-
+success-before-two-failures group challenge (DC 16). Dexterity (Acrobatics), Strength (Athletics), vehicle 
+proficiency, magical traversal and clever support can all contribute. Failed challenges inflict 3d8 fire damage to one 
+exposed character, or consume a resource to prevent it; avoid instant death from lava at a procedural entry point.
+1C, the Three Witnesses. Three hovering skull-like notaries can confirm that the party crossed without sacrificing an 
+unwilling bystander. Obtaining their testimony creates the Proof of Survival. If the party rescued a stranded courier, 
+it also gains one bonus Survival Crown Mark.
+1D, the Damaged War Machine. This construct is not automatically hostile. It carries a shattered metal tag bearing 
+maker initials J.G. and a missing socket for infernal-glass. Investigation DC 15 reveals it is a smaller golem from the 
+same design family as the dormant alley construct in Greyhurst. This is the first breadcrumb for Janella Greenbottle.
+Map 1 roll points
+At each of the original map’s numbered encounter markers, roll once on the appropriate d100 table in Appendix A. 
+Do not roll repeatedly if characters circle the same spot. A treasure marker grants one reward from the proportional 
+loot table; no unattended artifact or ancient-dragon encounter appears here.
+Map 2: Unexpected Findings
+The rocky banks of a lava-cut channel lead towards the ruins of Greyhurst and, eventually, the Brass Citadel. A black 
+branch of the river Styx touches the ashflow in one location; drinking it or deliberately immersing oneself risks 
+memory loss, but the red lava should not be misrepresented as the Styx itself.
+The warning written in iron
+THE DEAD ARE ELIGIBLE. THE LIVING ARE EXPENDABLE. THE UNCLAIMED ARE 
+PROPERTY OF THE HOST.
+Beneath the inscription someone has carved: THERE IS NO SUCH THING AS UNCLAIMED.
+Scene 2A: the floating docket
+A sealed brass casket drifts along the current. Recovering it requires a clever crossing, telekinesis, or DC 17 Athletics 
+with proper precautions. Inside is an obsolete tournament bracket listing contestants who have been dead for decades 
+
+but have somehow been entered this year. One name is a member of Janella’s family. This is Exhibit A: The False 
+Entrants.
+Scene 2B: the bargain of safe passage
+A ferryman offers passage for “the one memory you can most easily afford to lose.” The exact memory and its 
+consequence must be named before signing; he cannot take an unspecified memory by trick. Characters may pay 
+coin, build a crossing, fly, or bargain for a defined memory instead. If they do make a bargain, use the Book II 
+Memory Escrow template. A character who pays a memory has it restored if the contract’s stated return condition is 
+met; this is not a permanent trap without recourse.
+Scene 2C: a contestant under attack
+A rival band, the Ashclad Petitioners, is being pursued by one Ash-Scrap Golem and two lesser scavengers. The party 
+can aid them, watch, or negotiate. Saving a rival earns a future witness and an optional Dominion lead. Taking them 
+prisoner is permitted by the Charter only if they actually consent to a declared duel, or if they are incapacitated 
+lawfully during a hazard.
+The Ashclad petitioners
+Their leader Vexa Corven, a sarcastic human duelist, is strong enough to survive but too politically naive to contest 
+Misty’s documents. She can become ally, rival, or sworn witness. Her declared personal claim is genuine. Treat her as 
+a living person with ambitions, not as guaranteed cannon fodder.
+Transition to Greyhurst
+As the party leaves Map 2, show the ruins of a village under an inverted red summoning circle and a field of 
+motionless metal figures. A notary announces that Greyhurst’s dead have “kindly volunteered as contestants.” That is 
+the first fully serious horror reveal.
+4. CHAPTER II — THE FALLEN
+Original maps: Map 3, The Fallen; Map 4, Sorcerous Implications; Map 5, Sorcerous Implications 2.
+Target runtime: 3–5 hours.
+Primary goal: Uncover the town’s stolen names, decide the golemancer’s fate, obtain Proof of Deviousness and a 
+path to Dominion.
+What happened to Greyhurst
+Mayor Osric Kane, called the Lemure King by horrified survivors, attempted to summon a devil army to protect 
+Greyhurst. He inverted the inscription on the town’s summoning circle. Instead of calling devils in, the mechanism 
+registered the villagers’ living identities and cast their souls into the contract machinery of Avernus. Many returned as 
+lemures, others as disoriented fragments, and some became paper-only contestants. Misty’s agents supplied the 
+missing legal phrases and now own the copied registry unless the characters intervene.
+The golemancer, Janella Greenbottle, is a halfling artificer who built defensive constructs for Greyhurst. Her family 
+includes Marus and Lila. Her most ambitious creation, the Iron Warder Prototype, lies inert in an alley because its 
+infernal-glass control core was removed by Janella herself when she learned that Kane had overlaid dangerous 
+infernal orders on its protective mandate. Kane subsequently stole the stored core and sold access to its command 
+record to Misty’s agents. The core stores original commands and evidence that Kane knew the ritual’s true purpose. 
+
+Janella can be ally, reluctant rival, or antagonist depending on how the party treats her and her family. Her creations 
+are not interchangeable loot.
+Map 3: The Fallen
+3A, the Drowned Tavern. A table is set for a celebration that never happened. The guest list has become a 
+tournament roster. The last three names have the same handwriting as the current succession registrar. Show the 
+missing name of Marus prominently. Investigation DC 15 provides a duplicate of Exhibit A if needed.
+3B, the Alley Golem. A weathered iron giant slumps beside a wall, its chest plate open around a missing core. Its 
+inscription reads JAN ELLA / WARD HOUSE, NEVER WAR HOUSE. A successful DC 15 Arcana or Investigation 
+check shows the core slot and the defensive command language. Do not run a normal Iron Golem stat block as a 
+surprise fight. This is the damaged Iron Warder Prototype in the bestiary: a CR 7 chassis until restored, with an 
+explicit initiative routine and no fire-healing loop.
+3C, the Greenbottle Family. Janella and Lila hide in a partially collapsed house. Marus was taken to the mansion 
+after discovering Kane had stolen the core Janella removed and had arranged to sell its recorded commands to 
+Misty’s agents. The family may initially fear the party. Calm explanation, proof from the tavern, or a good act toward 
+Lila opens negotiation without a check. If Janella thinks the party means to steal her work, she activates one Ash-
+Scrap Golem as a deterrent and attempts escape rather than fighting to the death.
+3D, the False Mayor’s Guard. Two armoured cadaver collectors and a brass registrar march with warrants naming 
+souls as “unclaimed.” The characters can destroy them or challenge the false basis of the warrants using Exhibit A. A 
+documented, valid challenge forces the registrar to suspend collection and creates Exhibit B: The False Service 
+Order.
+3E, the Evacuation Bell. Ringing an old village bell alerts all surviving families, but also triggers patrols. It is a 
+choice about whom to protect. If the party openly organizes the survivors into a civic defence committee, its members 
+can swear voluntary allegiance; that is a path toward Proof of Dominion, independent of Janella’s help.
+Missing core: three recoverable clues
+1. Janella’s forge ledger identifies her controller as a removable infernal-glass heart with maker initials J.G.
+2. An inverted rune found beneath the mayor’s study table matches the core’s command socket.
+3. Misty’s counsellor has prepared a custody deed offering to return the core in exchange for “the first authority exercised by the 
+future regent.” The players can reject this plainly disclosed bargain.
+Map 4: Sorcerous Implications — the mansion below
+This is Kane’s former seat of government. Its original traps, infernal script and summoning puzzle become elements 
+of an evidence-gathering sequence rather than unrelated dangers.
+Scene 4A: the house of witnesses
+A spectral mayoral clerk will testify only if the party submits an actual question and discloses its intended use. It is 
+frightened of Misty, but truthful about the terms it signed. Offer a meaningful choice: promise to protect its name in 
+exchange for testimony, or command it through magic and risk the evidence being disputed as coerced.
+Scene 4B: the inverse summoning circle
+Four plinths bear inscriptions corresponding to Name, Consent, Witness, Jurisdiction. Their correct sequence is the 
+lawful structure of a summoning contract: Name → Consent → Witness → Jurisdiction. Investigating the mayor’s 
+
+notes, seeing through illusion, or having expertise in the Red Clause’s Ledger reveals the sequence. If a player states 
+and demonstrates the logic, no roll is required.
+Incorrect combinations do not immediately unleash an army. They trigger one hazard from the Mansion 
+Consequences table and reset the mechanism. After two mistakes, the diagram visibly reveals which one term was 
+misplaced, so the challenge never becomes a blind guessing trap.
+Activating the circle correctly releases a record of the failed ritual, reveals the altered contestant registry, and awards 
+Proof of Deviousness. It also produces Exhibit C: the unmodified command transcript. The transcript shows Kane 
+deliberately concealing the soul transfer from villagers.
+Scene 4C: Misty’s first offer
+Mother Sable, a coven barrister wearing a velvet lawyer’s hood, arrives under a declared truce. She offers to return 
+the golem core and corroborate the mayor’s treason if the party signs Misty’s Memorandum of Memory Escrow. She 
+gives the full document and answers direct questions about obligations. Misty needs a ruler she can influence, not 
+another fraudulent Red Clause.
+If the party refuses, Mother Sable is courteous and tries a lawful counteroffer. If they attack her during the truce, the 
+Brass Arbiter can record the breach as a procedural disadvantage, but never steals an unsigned soul. If they prove that 
+Mother Sable has concealed a material annex, a DC 18 court challenge can strike it and force the contract to be 
+redrafted.
+Scene 4D: the soul-split mirrors
+The original mansion’s mirror-trap concept becomes a three-turn challenge. A mirror shows each character a version 
+of themselves enthroned on Avernus. The reflection offers a specific exploit, such as gaining one Crown Mark by 
+surrendering a genuine ally’s trust. A character can reject the offer without penalty; accepting requires a written or 
+spoken bargain. Using logic, Insight DC 17, or shattering the correct sigil allows the party to exit. Any mirror creature 
+that emerges uses the rival duelist statistics rather than a free additional high-CR demon.
+Map 5: Sorcerous Implications II — the mayor’s upper floor
+5A, the Treasury of Names. The party can locate Marus, or his remaining identity if already transformed. Freeing 
+him means defeating a custody lock, not necessarily a monster. Use DC 17 Investigation/Thieves’ Tools/Arcana or a 
+fight with one Cadaver Collector. The lock is a contractual seal, so a successful argument that Marus never agreed to 
+be registered also opens it.
+5B, Kane’s office. Osric Kane (bestairy) attempts to justify his actions: he believed turning the town into infernal 
+assets would earn permanent military protection. A candid, convincing confrontation can force him to confess; 
+violence can subdue him; the record offers proof regardless. If the players allow Kane to offer restitution, his 
+testimony may help rescue villagers, but it does not absolve him.
+5C, the infernal-glass core. The stolen heart lies behind a warded wall. Inserted into the Iron Warder, it wakes the 
+construct with its original defensive orders and a perfect recording of Kane’s sale. If players instead give the core to 
+Misty or Bel, they receive a different faction promise and may make Janella an enemy.
+5D, the warden’s choice. Janella asks the party to recognise the Iron Warder as a guardian with limited autonomy, 
+not a commodity to be sold by the next ruler. Granting that right creates a favourable Dominion witness and 
+establishes that the party can govern an asset without enslaving it. Refusing to help, stealing her work or coercing her 
+can still produce forceful Dominion under the Charter, but makes the later politics more dangerous.
+
+Proof of Dominion
+Award the Proof when the party either obtains the voluntary sworn support of a meaningful Greyhurst group, secures 
+Janella’s cooperation and the Warder’s protective mandate, or wins a legitimate military victory while defending the 
+town. Do not require Janella to submit personally: protect her autonomy to preserve the story’s moral tension.
+Misty’s second legal maneuver
+Once the party has at least two Proofs, Misty files Petition M-9, claiming any crown candidate using “borrowed 
+memory, replicated identity, or construct testimony” owes her guild a perpetual evidence royalty. This is weak on its 
+own, but she has a stamped annex showing consent from Osric Kane—who had no authority to contract on behalf of 
+the villagers.
+Present the annex in full. A character can defeat the claim by proving (i) Kane lacked authority over individual 
+names, (ii) the transferred memories were not his to sell, or (iii) the annex misidentifies the contracting party. Each 
+separate, persuasive argument plus appropriate evidence yields a success in a two successes before two failures 
+hearing, DC 18 when disputed. A correct document establishing lack of authority counts as one automatic success. 
+Success grants a legal Stay of Hag Lien for the final arena and deprives Misty of one interference token. Failure does 
+not end the adventure; Misty gains one interference token and offers a lawful settlement.
+Transition to the War of Claims
+After Greyhurst, the route opens toward a fortress of bronze and brass whose walls are made from ancient war 
+engines. The party sees banners of Zariel, Bel and numerous competitors. A great amphitheatre erupts with the sound 
+of combat, but the final rite is many weeks away. Claimants must survive the war of sponsorship, public trials and an 
+increasingly lethal series of preliminary arenas before the Seat of Avernus can be decided. The announcement begins: 
+ALL CLAIMANTS TO THE FIRST SHALL PRESENT THEMSELVES FOR INSPECTION.
+5. CHAPTER III - THE WAR OF CLAIMS
+Levels: 14 to 15. Sessions: 8-11. Place: The roads and outposts between Greyhurst and the Brass Citadel. Question: 
+Can the candidates gather consent, alliances and a reputation for competent rule without selling their independence?
+The three agendas
+• Asmodeus’s agenda: The First Layer needs a ruler who can hold ground in the Blood War, keep the soul economy functional, 
+and survive rivals. The tournament converts coup and patronage into repeatable governance selection. This is not a promise of 
+independence from Nessus: a First-Layer ruler remains subordinate to Asmodeus.
+• Misty’s agenda: A legally recognised monopoly on memories, curses and disputed identities in the winner’s realm. She prefers 
+victory through a perpetual service concession, but may seek the throne through a controlled candidate.
+• The hidden registrar’s agenda: Deputy Registrar Hesper Valrick survived the collapse of the Red Clause’s fiscal machinery. 
+Hesper has seeded the tournament with paper champions, stolen identities whose Crown Marks can be harvested and 
+transferred. Misty supplied the template but does not control every use of it. Exposing Hesper is the campaign’s evidence trail; 
+determining whether Misty can be held responsible is a later question of principal and agent.
+A clock that travels with the campaign
+Track three public clocks from zero to six; advance them at chapter conclusions and for conspicuous choices. Blood 
+War Pressure rises when supply lines collapse; Hag Lien rises when mortals accept broad memory/identity 
+concessions; Public Legitimacy rises when claimants keep promises, protect bystanders, and win clean hearings. 
+Clocks never erase completed adventures, but alter who shows up in the finals.
+
+Clock at 4+ Visible change At 6
+Blood War Pressure Citadel checkpoints, shortages, army 
+requisitions
+Arena finale includes a siege wave unless 
+the party stabilises supplies
+Hag Lien Witnesses lose memories; hag notaries 
+appear at public proceedings
+Misty gains a free legal opening petition in 
+the final court
+Public Legitimacy Neutral witnesses offer help; recruits 
+volunteer
+Party can nominate a genuine joint regency 
+without persuading a hostile crowd
+Fail-forward: At the end of each session, ask what political action went publicly unanswered and move only the 
+clock justified by that action. Never advance all three automatically. Remove one tick for a major public corrective 
+act, limited to once per chapter per clock.
+Session 8: The market of claimed names
+Scene: A travelling bazaar inside the ribcage of an ancient infernal siege beast. Every stall sells a legal abstraction: a 
+day of bravery, the right to disagree, the smell of one’s home. Announce that a champion named Sergeant Orro 
+offers to sell the party a regiment of names for thirty soul-coins. They are the names of Greyhurst villagers.
+Encounter objective: Recover the roster without ratifying trafficking in non-consenting persons. Three approaches: 
+prove Orro cannot transfer what he never owned (Exhibits A-C, no roll); negotiate a defined custody-of-evidence loan 
+(DC 17 Persuasion with an explicit exit clause); raid the ledger stall (2 Ash-Scrap Golems, 1 Writ Bailiff, civilian 
+complications). Orro flees if his legal authority is disproven.
+Key clue: Each false entrant bears the red serialization H-25/RETURN, linking the tournament’s fraudulent registry 
+to the Red Clause case. This is Exhibit E: Chain of Title.
+Choice: Free names immediately, forfeiting their value as evidence until they are recorded by a neutral witness; or 
+copy and notarise first at the expense of time. Both work if players propose a sensible method to protect authenticity.
+Session 9: Trial of the Ash March (Trial IV, Dominion)
+A convoy carrying food, gears, wounded devils and displaced mortals must reach an outpost before a demon skirmish 
+force. Three factions offer help: Bel’s engineers, Zariel’s cavalry, and Greyhurst’s reclaimed golems. Each asks for a 
+published, negotiable concession, not a secret soul tax.
+Mass-battle procedure (no army simulator required): Run three exchanges. Each exchange requires a group plan, 
+then two relevant checks against DC 17. Success scores an Advantage; failure scores a Cost such as lost cargo, 
+casualties, or an exhausted ally. The same character cannot make both checks in one exchange. Spells and creative 
+engineering can substitute for checks if they plausibly solve the problem. At two Advantages, convoy survives; at 
+three, survivors publicly support the claimants. At two Costs, run a short fight (2 Horned Raiders represented by Writ 
+Bailiffs with wings, 1 Ash-Scrap Golem). At three Costs, the outpost survives but loses half its supplies and Blood 
+War Pressure rises.
+Proving Dominion: The claimants must issue one clear, public order and accept responsibility for its consequences. 
+A successful evacuation, disciplined defence or negotiated alliance qualifies. Do not require all PCs to agree who 
+commands; joint command can be binding under their slate agreement.
+
+Session 10: The Whispering Docket (Trial V, Scales)
+In a courthouse attached to a moving fortress, Misty’s counsel petitions for the First Right of Collection: the right to 
+seize memories from any future Avernus debtor before other creditors. Hesper offers to testify against her in 
+exchange for immunity.
+Court facts: Hesper can prove Misty’s lawyers drafted the identity-transfer template. Misty can prove she never 
+signed the particular forged Greyhurst assignments. Both are true. The party must distinguish authoring a dangerous 
+form from authorising this instance of fraud.
+Three stages: Admissibility, authority, and remedy. In each stage, one PC presents the governing evidence and 
+another may act as witness. Correct evidence wins a stage without a check; an improvised case is DC 18 
+Investigation/Religion/Persuasion. Two winning stages deny universal first-refusal. Three also impose a two-session 
+injunction preventing the coven from collecting contestant memories. Zero or one permits a limited thirty-day 
+concession unless the party withdraws its claim before the judgment is final.
+Hesper’s lie: Hesper is not merely a witness. His immunity document attempts to cover future fraud. The words 
+including acts yet to be discovered are visible if anyone reads the document. Characters who strike that 
+phrase can still take his testimony.
+Session 11: The Trial of False Faces (Trial VI, Deception)
+Three masked champions enter a labyrinthine legal masquerade. One is a living contestant, one is a construct 
+replicating a living person, and one is a memory stitched together from a deceased volunteer. No choice should 
+depend on identifying a creature’s type as inherently illegitimate: the relevant question is who genuinely consented to 
+be represented.
+Run four chambers in sequence: Name (a written roster), Witness (two competing accounts), Consideration (who 
+received the benefit), and Remedy (who would suffer from enforcement). A group that follows the paper trail finds 
+the real fraud: the living claimant is being impersonated in writing by a validly constructed proxy beyond the scope of 
+its mandate. The party can demand a new signature, obtain witness protection, or expose Hesper. Each success earns 
+one legitimacy point; three wins a public commendation and level 15. Fewer gives the players a partial success but 
+advances Hag Lien by one.
+Rival cast for Act III
+Name Position Complication Use
+Vexa Corven Independent duelist Wants honest fame, dislikes 
+being managed Ally or honourable rival
+Corda Kain Zariel’s steel advocate Must obey a narrow proxy 
+mandate
+Can be defeated by exceeding 
+sponsor authority
+Magistrate Khel Bel’s engineer-general Needs supplies to keep an 
+outpost alive
+Competitive but capable of 
+compromise
+Isolde of Seven Masks Misty’s sponsored contestant Has pledged her future 
+memories but not her soul Sympathy, rivalry or rescue
+Hesper Valrick Deputy registrar Secretly harvests paper 
+champions
+The visible bureaucratic 
+antagonist
+
+Side quests, to place anywhere in Act III
+The Orphaned Warmachine: A sentient siege engine petitions not to be sold as chattel. If the party gives it a limited 
+civic charter, its testimony later supports Janella’s construct-rights claim.
+A Baron Without a Name: A fiendish noble lost their true name to Misty and is slowly losing the ability to testify. 
+Retrieve a memory-seal from her proxy in return for a narrow, disclosed favour.
+The Legal Duel: A rival challenges a claimant to first blood. Characters may substitute a trial by instrument, a 
+contest of controlled force, or a legal brief; the Charter recognises all three if agreed in advance.
+6. CHAPTER IV - BLOOD AND BRASS
+Levels: 15 to 16. Sessions: 12-15. Place: Brass Citadel and outer arena complex. Question: Can a claimant survive 
+the political and military machinery required to hold the throne?
+The Citadel
+Use the original adventure’s brass-coliseum artwork and arena plan as the central visual. Expand its surrounding 
+district into five keyed locations: Hall of Registrants (public brackets and legal standing); The Iron Quarter 
+(construct yards and Janella’s workshop); Gallery of Unclaimed Kings (defeated claimants’ names); The Pyric 
+Embassy (Misty’s representation); Asmodeus’s Balcony (sealed until the final rite). The Bronze/Brass names in the 
+old module can be treated as local vernacular for the same fortification.
+Session 12: Arrival and registration
+The official claims desk tries to register every member of the party as a separate contestant, even if they want shared 
+rule. The published Charter explicitly permits joint slates. Hesper has issued an unlawful circular interpreting 
+claimant as singular.
+Give players the circular. If they cite the original Charter, the clerk must register a joint slate. A DC 18 Insight check 
+reveals why Hesper opposes it: joint claims reduce the number of isolated souls that can be bought, blackmailed or 
+harvested. If they choose separate claims, document consent and establish a no-PvP contingency using the League of 
+Claimants contract.
+Encounter: A confident rival offers a formal contest on the practice floor. This is a nonlethal 3-round showcase. 
+Champions score points for controlling the centre, protecting an assigned witness, and completing a declared aim, not 
+simply damage. Reward tactical variety. Avoid a full to-the-death set piece immediately after travel.
+Session 13: The Golemancer’s War (Trial VII, Siege)
+Hesper’s agents steal Janella’s master command seal and attempt to turn her warders against the Citadel. The party 
+must choose between defending the district, exposing the stolen-order chain, and capturing the architect of the attack.
+Three simultaneous objectives (4 combat rounds): Defend the workshop civilians; disable two command pylons 
+(AC 16, 30 HP or DC 17 Arcana/Thieves’ Tools); and preserve Hesper’s authorization parchment. A PC can use an 
+action to accomplish one discrete objective; an allied autonomous warder contributes once per round rather than 
+taking a full separate turn.
+At default difficulty, deploy one Iron Warder Prototype (damaged), two Ash-Scrap Golems, and two Writ 
+Bailiffs split across entry corridors. If players restored Janella’s core and gained her trust, the Warder instead fights 
+
+alongside them and replace it with a Contract Sentinel. For four characters, remove one bailiff; for six, add one 
+bailiff after round 2.
+Janella’s dilemma: She can broadcast a universal kill command to shut the constructs down, or upload their 
+recovered personalities and relinquish exclusive control. The former is tactically easier; the latter supports her long-
+term goal of construct personhood. The party’s choice affects whether the warders support their final claim without 
+being contractually enslaved.
+Session 14: The Preliminary Pits (Trial VIII, Resolve)
+The first public arena is a showcase, not the entire championship. Roll once on the tempered Arena Table for each of 
+three distinct rounds; each has one objective: survive, control, or persuade a hostile witness. Allow applicants to 
+earn victory through evidence and diplomacy even when beasts spawn.
+Round 1, Ashfall: Defeat a chosen rival team or hold the two control braziers for three rounds. Environmental d6 at 
+initiative count 20, DC 17.
+Round 2, The Claimant’s Price: A sealed gate opens only if competitors choose who receives the prize. Three 
+paths: share the prize and fight a stronger guard, award it to one person and deal with political resentment, or identify 
+that the gate’s winner clause includes a joint legal entity under the charter.
+Round 3, The Enemy’s Witness: A prosecution witness offers damning evidence against the party. The witness is 
+being legally compelled to reveal the truth but may be quoting a forged document. Let the party impeach the source 
+rather than silencing the witness. If they protect the witness and expose the forgery, gain two Crown Marks and 
+Public Legitimacy +1.
+Session 15: The coup that cannot be filed
+Hesper attempts to transfer accumulated Crown Marks into one synthetic contender, the Vacant King, a name given 
+a body of notarised brass. The experiment is not fully Misty’s doing; it threatens her interests too. She offers a 
+temporary legal ceasefire to defeat Hesper. Bel offers siege engines; Zariel’s representative offers soldiers. Each asks 
+different concessions.
+Boss scene: Hesper directs the Vacant King while a championship stamp prints counterfeit warrants. Destroying the 
+stamp (AC 17, 40 HP) removes the King’s regeneration; proving the entrants were never validly registered also 
+suppresses the effect. Run the Vacant King (below) with one Writ Bailiff, no large additional waves. When defeated, 
+Hesper attempts to escape via an administrative elevator carrying the true roster. Pursuit or public seizure leads to a 
+tribunal and level 16.
+Reveal: Hesper was specifically testing whether an office rather than an individual could inherit a soul, opening an 
+avenue for corporate ownership of rulers. Misty despises this precedent because it bypasses her personal bargaining 
+model. Asmodeus permits the investigation, but does not intervene to protect Hesper.
+7. CHAPTER V - THE HAG QUEEN’S DUE
+Levels: 16-17. Sessions: 16-19. Place: The Pyric Triune, Misty’s domain and resting place. Question: What price 
+will the heroes pay to reach a victory that cannot be appealed?
+Misty is a campaign-scale political adversary, not a mid-level miniboss. Her actual form is the pre-existing CR 30 
+Hell Hag Queen. At this level the party has enough resources to attempt an extraordinary battle, but without 
+preparation her DC 25 magic, action economy and mythic phase are likely to overwhelm even well-equipped 
+
+characters. The campaign should make that danger legible. The Heartstone is not a surprise immunity discovered 
+after victory: rumours, documents and a direct warning establish its function beforehand.
+Three ways through this chapter
+Alliance: Sign a narrowly defined concession that gives the Pyric Triune an advisory office, explicitly excluding 
+involuntary soul collection and property in citizens’ memories. Misty honours a properly sealed pact if it gives her 
+real political influence. Contestants retain a route to the throne; later governance faces factional consequences.
+Legal defeat: Prove that Misty’s claim to the stolen Greyhurst names, false entrants or golem memories exceeds her 
+chain of title. A ruling can force her to surrender Hesper’s stolen dossiers and renounce collection priority without 
+destroying her. It wins a significant final-arena advantage.
+Personal confrontation: At level 17, locate her Heartstone, secure a means to break it, enter her resting place and 
+fight Misty in both mythic phases. This is a real optional battle, not a projection. Winning gives the party the Pyric 
+Records, the Chainbreaker Seal and the possibility of ending her reign as Hag Queen.
+Session 16: The Queens’ Due
+Misty grants the party an audience in a chamber of hanging iron roses. Every guest sees a memory they never 
+willingly told her, but she does not claim a right to own it merely by seeing it. She is personable, amused by 
+cleverness and utterly ruthless about payment.
+‘The Red Clause was a fool, my sweets. He tried to take what no one gave him. I prefer to make people 
+beg me to take it. Now tell me: which of you intends to wear the First Crown, and how much of the 
+kingdom are you prepared to sell?’
+Social encounter: Misty proposes the Perpetual First Refusal Writ (Book II). Provide the full text. She does not 
+conceal an appendix. Her trap is economic: even limited percentages of future memory disputes will give her 
+influence. The party can negotiate a sunset clause, independent audit, prohibition on children’s memories, or personal 
+liability borne by the ruler instead of citizens. Each material concession requires something meaningful in return; do 
+not let a single DC 20 Persuasion check erase the contract.
+Evidence: A Hag Eye reports her full true name is not recoverable from public registries. Three separate clues 
+identify the Heartstone’s location, provided the party undertakes the hunt. If they reject Misty’s offer, she still invites 
+them to try their case; she enjoys an opponent who knows the price.
+Session 17: The Three Witnesses of the Heartstone
+The Heartstone lies in the Thorn Reliquary, reachable only through three independent seals. The party can acquire 
+each seal in any order.
+1. The Witness of Origin: An ancient hag remembers Misty’s first binding and knows the Heartstone must remain within her 
+resting place during mythic transformation. Bargain with her for a memory she already possesses, or protect her from Misty’s 
+enforcers. She provides the Reliquary’s location and a drawing of the stone.
+2. The Witness of Ownership: The estate register records who holds title to the Heartstone. It is held in trust by the Pyric Triune, 
+not Misty as a person. A successful legal action can suspend the trust’s right to prevent entry. This does not destroy the stone.
+3. The Witness of Death: A cracked hag-eye contains a recording: At first death the Queen returns to her bed; at second death 
+she returns to the Heartstone. Study it to reveal the two-stage defeat condition before initiative is rolled.
+
+Run one complex obstacle for each chosen witness: social bargaining, DC 18-21 investigation or Arcana, or a 
+medium combat with two Writ Bailiffs and one Night Hag Advocate. No clue should be permanently inaccessible due 
+to a single failed roll.
+Session 18: Raid on the Thorn Reliquary
+The party has three objectives. Disable the Soul Siphon (DC 19 Arcana or AC 18, 45 HP), establish legal right of 
+entry (court injunction or signed search warrant), and reach the Heartstone antechamber (solve the 
+Name/Consent/Witness/Jurisdiction seal). A raid without a warrant can still work physically, but incurs a final-
+championship complaint from Misty’s surviving agents.
+Battlefield concept: 90 x 90 feet, central sleeping alcove, two high bridges, four hanging iron roses that block line of 
+sight, a Heartstone pedestal behind a prismatic screen. A trapped soul mosaic near the entrance can be freed and used 
+to block one lair action per battle. Heartstone ward: AC 20, 70 HP, damage threshold 10, immune poison/psychic; 
+not attackable until two of the three witness-seals have been suppressed. The screen can also be bypassed by an 
+independent court order. Destroying it while Misty still lives does not automatically kill her, but prevents a retreat 
+into it after her second defeat.
+Run one tense guardian encounter here if needed (Night Hag Advocate + 2 Writ Bailiffs), then let the party short rest 
+if they negotiate safe passage or secure the area. Do not stack this attrition and the true CR 30 fight without signalling 
+what the choice means.
+Session 19: Misty Unbound (optional level-17 mythic battle)
+Read aloud:
+Her crown is made of thorns that move when she does not. The Queen looks beyond your weapons to the 
+seals in your hands. Then she smiles, not because she believes you harmless, but because you have finally 
+become interesting. ‘The last adventurers who reached my bedchamber wished they had chosen the 
+contract. Tell me - do you?’
+Preserve the existing Misty: CR 30, AC 20, 244 HP, Charisma 26 and spell/ability save DC 25. Maintain Children 
+of Hell, Soul Drain, Hell Hag’s Spines, Hag Eye, Nightmare Haunting, Etherealness and her actual Heartstone 
+mechanics as already established. If using her prior complete stat block, use its exact action text rather than stacking a 
+new version. The notes below are an encounter framework, not an assertion that an incomplete reconstruction is the 
+original block.
+Phase 1: The Queen fights in her audience chamber. She prefers control, one frightening focus target, and 
+temptations that can be rejected. At 0 HP, Hag Queen’s Deception triggers: she teleports herself and the adventurers 
+to her resting place, restores 144 HP, and immediately uses Children of Hell. Describe this as a scripted mythic 
+phase, not a new creature entering battle.
+Phase 2: The resting chamber is stranger and more personal. At initiative count 20, choose or roll one effect: chains 
+(DC 19 Dex or restrained until next turn), memory storm (DC 19 Wis or 3d8 psychic and cannot take reactions until 
+next turn), or heartstone pulse (Misty regains 10 HP unless ward has been suppressed). These are optional arena 
+effects: if her established stat block already has potent lair actions, do not add them all.
+Second defeat: If reduced to 0 HP again, Misty is drawn into her Heartstone. If it survives, she can return under her 
+original rules. To end her permanently, characters must destroy the stone once accessible. If destroyed in advance, it 
+cannot receive her; she perishes on the second defeat. Allow other creative or higher-level magic that explicitly 
+defeats a soul-anchor to substitute if it satisfies the fiction and published rules.
+
+Real odds and fair warnings
+A CR 30 mythic enemy against four or five level-17 characters is extreme. Full rested resources, rare/very-rare items, 
+allies or boons, Heartstone preparation and tactical competence might make victory possible, but it remains a slim 
+chance, as desired. Do not present expected victory, quietly reduce her DC, or remove the mythic phase to equalise 
+the fight. Equally, do not force the fight to gate the campaign’s conclusion. Offer three observable exits: a willing 
+truce at the start, a route through the sealed doorway during combat, and a legally protected withdrawal if a claimant 
+surrenders the current hearing without surrendering their soul.
+Defeat consequences: The Pyric Triune splinters. The party may claim its evidence, but not automatically all 
+members’ allegiance. The ruler who killed a queen must now govern the power vacuum. Asmodeus grants one bonus 
+proof of Deviousness but not an automatic throne.
+Survival consequences: Misty remains an independent power. If the party defeated her in law instead, she may 
+grudgingly support a charter recognising limits on involuntary debt collection. If they sold her a concession, she 
+becomes their most dangerous early minister.
+8. CHAPTER VI - THE RITE OF THE NINE
+Level: 17. Sessions: 20-24. Place: The Arena of Asmodeus at the Brass Citadel. Question: What kind of sovereign 
+will the party become?
+Conditions for entry
+Each slate must present three Crown Proofs (Survival, Deviousness, Dominion), declaration of beneficiaries, a 
+declared claim type, and notice of any debts that would materially compromise government. A party need not hold 
+every bonus Mark. Denial of entry must cite a particular clause; if a registrar invents a rule, the Brass Arbiter must 
+hear the challenge.
+The Rite of the Nine uses nine moments of judgment across the campaign rather than requiring nine simultaneous 
+boss fights: Claim (registration), Ember (arrival), Witness (Greyhurst), Dominion (convoy), Scales (court), Deception 
+(masks), Siege (golems), Resolve (preliminaries), and Crown (final). The last rite tests the history of all eight others.
+Session 20: Opening ceremony
+Read aloud:
+The arena rises from Avernus like a crown driven upside down into the earth. Fire circles the stands. A 
+thousand devils roar for champions whose names they have purchased, cursed or memorised. Nine 
+standards unfurl in black flame. A voice older than battle fills the amphitheatre: ‘No throne is beyond 
+contest. No claim is beyond audit. Let those who would govern the First prove strength, cunning, and 
+mastery of their own word.’
+Asmodeus presides by an unassailable court-image; his presence is not a combat target. The incumbent interest 
+(Zariel proxy, Bel proxy or setting-specific substitute) enters beside the party’s rivals. The party may submit joint or 
+sole claims up until the opening judgment.
+Sessions 21-22: Arena rounds
+Arena template: Use original Map 6 as the lower fighting floor. Center platform counts as contested control; two 
+circular summoning glyphs at the side can be suppressed; blue and yellow crystals produce hazards; four lava lines 
+
+segment the floor; two chests are optional rewards. Use initiative count 20 for one environmental effect per round, 
+not a full new hazard between every PC turn. Environmental die begins d6 with: 1 no effect, 2 electricity, 3 blue 
+crystal, 4 lava, 5 yellow crystal, 6 summons.
+Round A - Trial of Strength (4-6 rounds): Defeat the other slate or hold the centre uncontested for three rounds. 
+The party faces Vexa and one sponsored champion, or the Vacant King’s replacement if Hesper survived. The crowd 
+votes do not override actual results. Mercy towards a defeated opponent increases Public Legitimacy if consistent 
+with a declared policy.
+Round B - Trial of Deviousness (4 rounds): Four sealed orders fall into the arena. Each order offers a real tactical 
+reward and a negotiable cost. Players can accept any, reject all, or challenge contradictions at a brass witness stand. 
+One order is intentionally invalid because its purported signatory is a fake entrant; proving this disables an enemy 
+ward. This prevents an all-combat party from being trapped while making the legal plot mechanically central.
+Round C - Trial of Dominion (3-5 rounds): The arena transforms into a miniature besieged province. Three civilian 
+teams and two rival troop groups appear as simulacra that still remember pain. Claimants must defend resources, 
+declare priorities, and command. Score two points for preserving civilians, one for defeating the attacker, one for 
+maintaining an agreement with a rival, one for a workable evacuation. Three points qualify. A contestant can win this 
+trial without killing a single creature.
+Session 23: The last appeal
+Misty (or her successor), an incumbent proxy, and Hesper if alive each may lodge one last petition based on real acts 
+of the campaign. The Brass Arbiter rules with published evidence, not hidden DM judgement. Run up to three 
+petitions, each 10-15 minutes: one concerning consent, one concerning title, one concerning conflict of interest. Every 
+petition states a disputed clause and the sought remedy. The party can submit counterevidence and cross-examine. No 
+petition can independently confiscate a soul absent a valid prior signed contract.
+A real final twist: Asmodeus offers a better contract than everyone expected: the throne, with actual power to 
+rewrite Avernus’s civil procedures and appoint ministers, in return for enforceable military performance and 
+recognition of his superior jurisdiction. It is not freedom from Hell; it is a genuine appointment with dreadful 
+responsibilities. A player who refuses remains free to reject the crown.
+Session 24: Crown, Council or Catastrophe
+If one claimant has clearly won the trial, they may take the throne alone. If a joint slate wins, they may execute the 
+public Covenant of Joint Regency (Book II), including voting, veto, offices and dissolution rules. If competing PCs 
+are tied, let them negotiate a joint charter, appoint an independent steward, or agree to a consensual last duel. Never 
+force PvP against the table’s preference.
+Public judgment: Each player describes (1) one law they immediately enact, (2) one promise they refuse to break, 
+and (3) one enemy or ally they now owe something to. Resolve the three clocks: high Public Legitimacy yields civic 
+cooperation, high Blood War Pressure demands urgent military choices, and high Hag Lien gives Misty or her 
+successors a troubling seat at the table.
+Four conclusions
+• Sole Regent: One character takes the First Crown; companions accept ministries, exile, independence or rivalry. First session 
+of any follow-on campaign begins with a decree.
+• Joint Regency: The party governs through an openly published council. Asmodeus recognises the slate as a single legal office 
+with internal rules.
+
+• Proxy Victory: A patron’s contender wins, and the party retains a negotiated share of authority or freedom. They may have 
+prevented a worse ruler.
+• No Crown: All claimants reject the rite or fail. Asmodeus appoints a temporary war regent and turns the failed tournament into 
+a warning. The party can leave with rescued citizens and binding evidence; failure does not erase what they saved.
+Best closing line: ‘In Hell, the strongest take the throne. The devious keep it. The wise read what they have signed.’
+9. NPC DOSSIERS AND BALANCED BESTIARY
+The numbers below are original 2014-compatible 5e homebrew intended for actual use. They are not official 
+challenge ratings: run the stated encounter composition, not an assumed perfectly predictive CR calculation. Every 
+creature has a motive beyond attacking. For 2024 play, treat the attacks as attacks and saves as described; choose the 
+current condition wording at the table.
+Janella Greenbottle, Golemancer of Greyhurst
+Small Humanoid (halfling), neutral; suggested CR 8; ally, rival, or frightened antagonist. AC 16 (reinforced coat), 
+HP 96 (17d6+34), Speed 25 ft. STR 10, DEX 16, CON 14, INT 20, WIS 14, CHA 12. Saves Dex +6, Int +8, Wis 
++5. Skills Arcana +11, Investigation +11, Tinker’s Tools +11, Insight +5. Resistances fire. Spellcasting Int, DC 16, 
++8 spell attacks; at will mending, mage hand, fire bolt; 3/day each shield, heat metal, web, counterspell; 1/day each 
+dispel magic, fabricate. Use existing spells without recopying full published text.
+Action - Dual Coil Bolt. Two ranged spell attacks, +8 to hit, range 90 ft.; each hit 2d8+5 lightning damage. Bonus 
+Action - Command Construct. One allied golem within 60 ft that can hear or receive her signal may move up to half 
+speed and make one Slam attack, OR take the Help action. This replaces the golem’s own extra initiative action while 
+under her direct command. Reaction - Emergency Shield (2/day). Add +4 AC against one attack she can see. 
+Escalation (once): When reduced below 40 HP, she activates smoke cover in 15 ft, heavily obscuring the area until 
+the start of her next turn, and retreats toward a defensible position. She fights to protect her family, not to die proving 
+a point.
+Balance note: No unlimited golem creation during combat. Three prepared construct charges per day; bringing a new 
+construct online requires 10 minutes, a spare core, and a valid repair site. She can command at most one golem with 
+her bonus action in a round. A directly controlled golem is not granted extra attacks beyond the one stated command.
+Ash-Scrap Golem
+Medium Construct, unaligned; suggested CR 5. AC 16, HP 88 (11d8+33), Speed 30 ft. STR 18, DEX 10, CON 16, 
+INT 3, WIS 10, CHA 1. Saves Con +6. Resistances fire; bludgeoning, piercing and slashing damage from 
+nonmagical attacks. Immunities poison damage; charmed, exhaustion, poisoned. Senses darkvision 60 ft. 
+Constructive Repair: mending restores 5 HP once per golem per long rest; no healing from fire damage.
+Multiattack. Two Scrap Slam attacks. Scrap Slam: +7 to hit, reach 5 ft, 2d8+4 bludgeoning. Shrapnel Vent 
+(Recharge 5-6): 15 ft cone, DC 15 Dex save; 4d6 piercing damage, half on success. Volatile End: When destroyed, 
+the golem sheds sparks in 5 ft; DC 14 Dex save, 2d6 fire, half on success. No death explosion if disabled by a lawful 
+shutdown order or Arcana DC 17 as an action within 5 ft.
+Iron Warder Prototype, Damaged
+Large Construct, unaligned; suggested CR 7. AC 18, HP 128 (15d10+45), Speed 25 ft. STR 21, DEX 8, CON 17, 
+INT 5, WIS 10, CHA 3. Resistances fire; nonmagical bludgeoning/piercing/slashing. Immunities poison damage; 
+charmed, frightened, poisoned. Multiattack: Two Guardian Fist attacks, +9 to hit, 2d10+5 bludgeoning. Interpose 
+
+(Reaction): If a creature within 5 ft takes damage, reduce that damage by 12; the warder takes 6 force damage as its 
+chassis stresses. Cracked Control Core: At initiative 20 each round, roll 1d6; on 1 it loses its reaction until its next 
+turn; on 2 it cannot move; on 3-6 it acts normally. A character can take an action to attempt DC 17 Arcana or tinker’s 
+tools to suspend its aggression for one round. If restored, replace with the next stat block; do not stack the two.
+Iron Warder, Restored
+Large Construct, lawful neutral; suggested CR 10. AC 19, HP 172 (15d10+90), Speed 30 ft. STR 22, DEX 10, CON 
+22, INT 8, WIS 12, CHA 6. Saves Str +10, Con +10. Resistances fire, force; nonmagical weapon damage. 
+Immunities poison damage, poisoned condition. Multiattack: Two Guardian Fist attacks, +10 to hit, 3d8+6 
+bludgeoning each. Boundary Pulse (Recharge 5-6): Enemies in 15 ft make DC 17 Str saves; on a failure take 4d8 
+thunder and are pushed 15 ft, half damage without push on a success. Interpose (Reaction): Reduce damage to an 
+adjacent ally by 16, then take 8 force damage. Autonomous Mandate: Its first priority is protecting named 
+innocents. An ally cannot override that priority merely by carrying the control core; changing it requires the 
+construct’s informed agreement.
+Player-facing ally rule: To avoid adding a full extra turn, an allied Iron Warder acts on one designated player’s 
+initiative. That player uses a bonus action to issue a simple command; it can move and take one Guardian Fist attack, 
+Help, or Dodge. If no command is issued, it Dodges and protects the nearest named civilian. It cannot use Boundary 
+Pulse as a free allied companion feature. If fighting the party as a hostile, use its full standalone block.
+Contract Sentinel
+Large Construct, lawful evil; suggested CR 10. AC 18, HP 158, Speed 30 ft. STR 22, DEX 10, CON 20, INT 8, 
+WIS 12, CHA 8. Resistances fire, necrotic; Immunities poison damage and poisoned condition. Multiattack: Two 
+Writ Hammer attacks, +10 to hit, 2d10+6 force each. Notarise Restraint (Recharge 5-6): Up to two creatures within 
+30 ft make DC 17 Wis saves; on failure, speed becomes 0 until the end of their next turn, as long as they can see the 
+sentinel. Reaction - Clarify Terms: When a spell hits the Sentinel, it reduces that spell’s damage by 12, up to twice 
+per combat. The Sentinel cannot prevent an action merely by declaring it illegal.
+Writ Bailiff
+Medium Fiend, lawful evil; suggested CR 5. AC 17, HP 75, Speed 30 ft; darkvision 60 ft; resistant to fire, immune 
+poison. Multiattack: Two Chain Gavel attacks, +7 to hit, 2d6+4 bludgeoning plus 1d6 psychic. Bonus Action - File 
+Citation (Recharge 4-6): One target within 30 ft must make DC 15 Wis save or cannot take reactions until its next 
+turn. Reaction - Obstruct: When a creature within 5 ft moves away, the bailiff can move 5 ft without provoking 
+opportunity attacks. Will obey a valid written stay signed by a recognised court, even if it hates the result.
+Night Hag Advocate
+Medium Fiend, lawful evil; suggested CR 11; a coven barrister, not Misty’s full power. AC 17, HP 138, Speed 30 ft, 
+fly 30 ft (hover). STR 12, DEX 14, CON 18, INT 18, WIS 16, CHA 20. Saves Con +8, Wis +7, Cha +9. 
+Resistances fire, cold, psychic; Immunities charmed. Multiattack: Two Thorn Claw attacks, +9 to hit, 2d8+5 
+slashing plus 1d8 psychic. Contractual Hex (Recharge 5-6): One creature within 60 ft, DC 17 Cha save or cursed 
+for 1 minute: its first attack roll on each turn takes -1d4; repeat save at end of each turn. Reaction - Objection 
+(2/day): Give disadvantage to a spell attack targeting her or advantage to one of her saves against a spell she can see 
+cast. Bonus Action - Shift Veil (2/day): Teleport 20 ft to an unoccupied space she can see. She retreats if the hearing 
+can be won through litigation.
+
+Osric Kane, the Lemure King
+Medium Humanoid, lawful evil; suggested CR 8. AC 16, HP 110, Speed 30 ft; saves Int +7, Wis +6, Cha +8. 
+Multiattack: Two Corrupted Sceptre strikes, +8 to hit, 2d8+4 bludgeoning plus 1d6 necrotic each. Summon Witness 
+(1/day): Call two weakened lemure attendants; each uses 15 HP, +4 hit, 1d8+2 slashing and lasts 3 rounds. 
+Confession Trigger: Present his signed roster and the inverse rune and he loses his summon action for one round; he 
+must respond to the allegation. He can survive capture and testify instead of inevitably dying.
+Hesper Valrick, Deputy Registrar
+Medium Humanoid, lawful evil; suggested CR 9. AC 17, HP 108, Speed 30 ft; saves Int +9, Wis +6, Cha +8. Pen of 
+Forfeiture: Ranged Spell Attack +9, 90 ft, 3d10 psychic. Multiattack: Two pen attacks. False Certification 
+(Recharge 5-6): 20 ft radius within 90 ft, DC 17 Int save or targets cannot benefit from advantage on their next d20 
+Test before the end of their next turn. Reaction - Stay: Halve damage from one attack by sacrificing a prepared 
+counterfeit document (3/day). Weakness: Exhibit E or the original Red Clause ruling can invalidate his emergency 
+authority; while held up within 60 ft, he cannot use False Certification for one round (one use per party per 
+encounter).
+The Vacant King (The Iron Heir)
+Large Construct, lawful evil; suggested CR 15; end-of-Act-IV boss. AC 19, HP 218, Speed 35 ft. STR 24, DEX 12, 
+CON 22, INT 14, WIS 16, CHA 18. Saves Str +12, Con +11, Wis +8, Cha +9; Resistances fire, force and 
+nonmagical weapon damage; Immunities poison damage, charmed, poisoned. Multiattack: Three Royal Edict 
+strikes, +12 to hit, reach 10 ft, 2d8+7 bludgeoning plus 1d8 psychic each. Seize Name (Recharge 5-6): One creature 
+within 60 ft makes DC 18 Cha save, taking 5d8 psychic and losing reactions until next turn on failure, half damage on 
+success. Forged Sovereignty: Recovers 15 HP at the start of its turn while the Championship Stamp remains active. 
+Reaction - Courtly Counter: Once per round after being hit, move 10 ft without provoking opportunity attacks. 
+Stamp: AC 17, 40 HP; destroying it or winning a witnessed judgment on false entries ends regeneration and stuns the 
+King until the end of its next turn. Encounter: King + Hesper + one Writ Bailiff is a dangerous set piece for five 
+level-15 characters. If the party is badly depleted, remove the bailiff and give Hesper only one Pen attack per turn.
+Misty, the Hell Hag Queen: integrity note
+The actual boss at level 17 is the previously established CR 30 Misty with AC 20, 244 initial HP, Charisma 26, 
+save DC 25, Hag Queen’s Deception (144 HP mythic restoration) and Heartstone-based survival. This module 
+deliberately does not invent missing numbers for her old attacks or pretend that a reconstruction is your original stat 
+block. It gives encounter staging, Heartstone rules, telegraphed failure conditions, bargaining rules and battle-map 
+objectives compatible with the original sheet. Use your original actor/stat block if available. For immediate play, 
+Appendix A supplies a clearly labelled campaign adaptation, preserving her established AC, HP, DC, mythic 
+restoration and Heartstone, while filling in attacks and actions that are not recoverable from these two provided 
+books. Do not stack the adaptation on top of a previous full actor.
+10. ARENA ENGINE AND RANDOM TABLES
+The original adventure rolls hazards between players and uses broad d100 tables that may summon anything from 
+lemures to ancient dragons or Tiamat. That creates delightful unpredictability but can overwhelm the initiative order 
+and trivialise player planning. The revision preserves the spirit with controlled escalation and a public threat budget.
+
+Six original map locations, preserved
+Original map New purpose Original element retained
+Map 1, Welcome to Hell Act I entry Lava-cut arrival, markers, treasure
+Map 2, Unexpected Findings Act I ash road Wide lava river, risky shortcuts
+Map 3, The Fallen Act II Greyhurst Town blocks, old mayor, silent golem
+Map 4, Sorcerous Implications Act II mansion lower Inverse summoning circle, infernal script
+Map 5, Sorcerous Implications II Act II mansion upper Warded room, golem core, escape routes
+Map 6, Brass Arena Acts IV and VI Two glyphs, two crystals, four lava channels, 
+two chests, central pad
+Map naming: The original Map 6 image is headed “Brass Arena - Map 4” on its own page; use Map 6 for the 
+campaign sequence to avoid treating it as the mansion’s Map 4.
+Arena environmental d6 - initiative count 20
+d6 Event Level 15 preliminary Level 17 final
+1 Uneventful cycle None None
+2 Electric arcs DC 17 Dex, 3d8 lightning in 
+marked side lanes DC 19 Dex, 4d8 lightning
+3 Blue crystal DC 17 Con, 3d8 necrotic in 15 ft DC 19 Con, 4d8 necrotic
+4 Four lava fissures DC 17 Dex, 3d10 fire in 10 ft of 
+an active line DC 19 Dex, 4d10 fire
+5 Yellow crystal DC 17 Wis, 3d8 radiant in 15 ft DC 19 Wis, 4d8 radiant
+6 Summoning glyph Roll on the tier-appropriate d100 
+summons
+Roll on the final tier d100 
+summons
+Fair telegraph: Announce glowing lines and unstable crystal colours before their effect at initiative count 20. A 
+creature standing next to a crystal can use an action to suppress it with DC 17 Arcana or destroy it (AC 16, 25 HP), 
+disabling it for two rounds. A line can be vaulted or bypassed with movement; it is not an invisible total-floor 
+explosion. Only one summon result may be active at once. If an additional 6 is rolled while creatures remain 
+summoned, instead grant those creatures a 10 ft move and resolve no additional summons.
+Arena summons, d100 (level 15)
+d100 Event Notes
+01-15 2 Lemure mobs, 25 HP each, +5 hit, 2d6+2 
+slash Flee when central glyph breaks
+16-30 2 Writ Bailiffs One is visibly contesting a summons warrant
+31-45 1 Ash-Scrap Golem Arrives damaged, begins at 60 HP
+46-60 1 Contract Sentinel Targets current arena control holder
+61-72 3 fire mephits (use published blocks) Combative but distractible
+73-82 1 Night Hag Advocate Can be bribed to testify instead of fight
+
+d100 Event Notes
+83-90 2 barbed devils (published blocks) Arrive on opposite sides
+91-96 1 Iron Warder Prototype, Damaged Unstable orders may be contested
+97-99 Rival audience interference: 2 Bailiffs Sponsor must identify them publicly
+100 An infernal celebrity’s shadow passes over 
+arena; no creature enters
+Gain 1 bonus Crown Mark for surviving the 
+spectacle
+Arena summons, d100 (level 17)
+d100 Event Notes
+01-12 2 Writ Bailiffs Distraction rather than decisive threat
+13-25 1 Contract Sentinel No extra reinforcement
+26-38 1 Night Hag Advocate Will bargain with clever contestants
+39-50 2 Ash-Scrap Golems Opposing sides
+51-63 1 Iron Warder, Restored Fights only for 3 rounds
+64-74 2 barbed devils (published blocks) Use normal initiative
+75-83 1 horned devil (published block) Leaves when summoning glyph is disabled
+84-91 1 Vacant King’s scrap echo: 100 HP, one 
+attack Does not regenerate
+92-97 A hostile claimant’s champion Substitute a prepared rival, not an unbuilt 
+ancient dragon
+98-99 Tiamat’s silhouette crosses the sky; DC 18 
+Wis to avoid fear until next turn Cameo only, no forced fight
+100
+The arena offers a true negotiation: release 
+the current summoned enemy and win a 
+Crown Mark if both sides agree
+Consent counts
+d12 travel incidents
+d12 Incident
+1 Imps demand a nonexistent toll; a written exemption works
+2 A caravan seeks protection from a war machine
+3 A living witness has forgotten their own name
+4 Unstable lava crust: two DC 16 checks or 3d8 fire cost
+5 An abandoned golem contains Janella’s maker mark
+6 A lawyer offers safe passage with an explicit memory price
+7 A devil tries to deliver a letter to a dead claimant
+8 A rival offers a legitimate joint-slate negotiation
+9 A regiment asks whether a machine can be a person
+10 A hag-eye follows the party; DC 18 Perception to notice
+
+d12 Incident
+11 The Styx touches the bank; travellers risk memories if they bathe in 
+it
+12 An old Red Clause toy sings a carol and spits out an appeal notice
+d10 infernal temptations
+d10 Offer Honest price
+1 Restore one spent Hit Die to each party 
+member Publicly sponsor one infernal witness
+2 Passage past a dangerous garrison Disclose the party’s destination to a named 
+rival
+3 A one-use rare wand One week of explicitly defined service after 
+the contest
+4 A map of a sealed court Share a copy with Misty’s notary
+5 Undo one recent memory loss Permit one recorded interview about the 
+restored memory
+6 Restore one deceased NPC to life if rules 
+permit Return a stolen personal artifact, not a soul
+7 A legal precedent against soul repossession Read the citation publicly at next trial
+8 A golem core repair kit Assist Janella’s civil-rights hearing
+9 A dragon’s treasure location Agree to give the source a first look at any 
+recovered cache
+10 One automatic success in a minor hearing Recuse a named character from that specific 
+hearing
+d10 rewards by tier
+d10 Level 12-14 Level 15-17
+1-2 250-700 gp in infernal coin; 1 potion of 
+superior healing 700-1,500 gp and 2 superior potions
+3-4 2 spell scrolls of levels 2-3 2 scrolls of levels 4-5
+5-6 1 uncommon/rare item from Book II 1 rare item from Book II
+7-8 1 detailed document or favourable witness 1 very rare item or strong faction favour 
+(choose)
+9 One partial Crown Mark lead A completed one-use legal stay
+10 A golem repair component worth 500 gp A Heartstone witness-seal or equivalent 
+unique story asset
+Loot policy: No random +3 items at level 12, no permanent spell-restoring loops, and no automatic ancient-dragon 
+fight attached to a chest. For a four-person party, distribute roughly 1-2 new significant permanent items per chapter 
+across the whole group, not per character per session. The campaign’s actual power lies as much in political and legal 
+assets as raw enhancement bonuses.
+
+11. OPEN-PROCEDURE DM-AS-PLAYER RULES
+The original module was built so the author could participate as a PC while an adventure oracle selected encounters. 
+Preserve that idea, but use controls that prevent a DM-controlled claimant from simultaneously knowing and 
+exploiting hidden secrets.
+The cleanest mode: rotating neutral referee
+At each session, appoint a non-competing referee for the next scene or trial, rotating among the willing players. The 
+primary DM may play a character, but does not set DCs or adjudicate disputed PvP/council law affecting their own 
+claimant. Important secret exhibits remain in sealed numbered packets; the referee opens the appropriate one when its 
+trigger occurs. Use the ordinary DM as referee for climactic Misty scenes where that person is not acting as an active 
+player.
+No extra referee? Use a public oracle
+When the DM is also a contestant, place all possible hazards and rival tactics in a visible table and roll the trigger 
+openly. Hidden information that no PC would know is not available to the DM’s PC even when the person running 
+the game has read the module. If a contest would award the DM’s own claimant a deciding benefit, pause and appoint 
+a different player to make that one contested ruling from the published Charter. If no impartial ruling is possible, 
+choose the interpretation least favourable to the DM’s own contestant.
+d6 rival-behaviour oracle
+Roll at the start of each enemy group’s turn, using the first applicable instruction: 1 Defend the weakest ally; 2 Attack 
+the party member holding a control objective; 3 Advance the current victory objective; 4 Attempt a bargain or 
+threaten a witness; 5 Suppress the nearest active hazard; 6 Focus the most wounded exposed enemy. If an option is 
+impossible, move clockwise to the next. Named bosses have their own announced priorities which override this table.
+Rulings to write on an index card
+• The PC knows only what their character has observed, even if the participant drafted the adventure.
+• A contract is effective only after genuine, informed acceptance; hidden terms must be actually on the document.
+• A person cannot transfer another person’s soul or memories without specific authority.
+• Evidence that proves a fact succeeds without an additional skill check.
+• A successful contested argument never retroactively changes a character’s consent.
+• No forced PvP or forced betrayal; a joint claim is as eligible as a sole claim.
+• The final rite is not privately rerolled to preserve a preferred winner.
+Three table procedures
+Beginning of session (5 minutes): Read the recap, show public clocks, state the next objective, open the current map 
+and draw an encounter seed d100.
+Between scenes (2 minutes): Update clocks, Crown Marks, signed promises and unpaid obligations; assign one clear 
+consequence of any default; avoid inventing retroactive penalties.
+End of session (5 minutes): Give players a safe opportunity to copy or photograph their contracts, announce one 
+rumour, and request a witnessed amendment before next session.
+
+12. CAMPAIGN CHARTER - DM REFERENCE
+The complete handout is in Book II. Its controlling provisions are: Article I, notice of the prize and claimant’s 
+informed entry; Article II, three required Crown Proofs; Article III, eligibility of sole/joint/proxy claims; Article IV, 
+no transfer of an unsigned soul; Article V, right to challenge forged entries; Article VI, neutral Brass Arbiter and 
+disclosed evidence; Article VII, permitted tactical deception but no forged judicial seals; Article VIII, public 
+governance duties and exit terms; Article IX, investiture of the First-Layer regent subject to Asmodeus’s superior 
+sovereignty.
+Legal verdict rubric
+When a player cites a document or brings a witness: (1) identify the exact issue; (2) establish who owns the right; (3) 
+verify genuine consent or delegation; (4) locate applicable jurisdiction; (5) name a proportionate remedy. Authentic 
+direct evidence satisfies the corresponding step automatically. Missing proof can be contested with one DC 15/18/21 
+check, depending on the forum. A failure costs time or increases a visible clock; it never silently steals the character’s 
+soul. The adventure uses the existing Red Clause Ledger for the actual numerical drafting DC and Loophole Rating, 
+not a replacement system.
+Legal exhibits by chapter
+Exhibit Found Proves Last resort duplicate
+A, False Entrants Map 2 floating docket Stolen contestant identities Greyhurst tavern guest list
+B, False Service Order Greyhurst registrar No authority to collect villagers Mansion study
+C, Inverse Circle Transcript Mansion lower level Kane’s deliberate alteration Janella’s restored golem core
+D, Warden Testament Restored Warder/Marus Construct commands were 
+altered Janella’s forge ledger
+E, Chain of Title Market of Claimed Names Hesper connected to Red 
+Clause case Citadel registry stamp
+F, Pyric Trust Misty’s estate register Heartstone held by named trust Witness of Ownership
+G, Final Charter Public Brass Arbiter The throne can be held jointly Citadel Hall of Registrants
+Safety and consequences
+The adventure involves coercion, memory theft, exploitation, horror, threats to families, and possibly player political 
+conflict. Agree in advance on lines and veils; portray suffering through atmospheric detail rather than requiring 
+graphic torture. A player who signs a soul bargain chooses a consequential story outcome; do not remove their 
+character without the explicitly disclosed agreed trigger. A former Red Clause character with a signed soul covenant 
+should be allowed to pursue its legal remedy without having to PvP against the party.
+13. DESIGN AND PLAYTEST AUDIT
+Core theory of balance: At level 12, a golem plus a few support enemies should be a credible resource encounter, 
+not a CR-20 surprise. At level 15, the Vacant King is the act boss with a suppressible regeneration source and a time 
+objective. At level 17, Misty is intentionally overmatch-level unless the party brings preparation and superior 
+resources. The final arena is balanced through objectives and capped summons rather than forcing repeated lethal 
+combats between long rests.
+
+Pre-play tests: Simulate three rounds of Janella + one Ash-Scrap Golem versus five level-13 PCs; ensure she cannot 
+issue more than one extra golem attack per round. Test the Vacant King both with stamp intact and destroyed; verify 
+4-5 rounds is plausible. Test a combat-forward and a legal-forward party in Arena Round B. Stress-test a joint slate 
+against Article III and the final judgment. Test a level-17 party versus Misty’s original complete stat block with and 
+without Heartstone intel, and make sure the escape route functions under her actual spell list.
+Adjustment levers: Add or remove one bailiff; change a hazard’s area, not its save DC mid-roll; replace a second 
+summoned monster with a noncombat witness; if five PCs have used all long-rest resources, offer a negotiable recess 
+rather than a stealth difficulty nerf; if a party rapidly solves a clause, grant the advantage and move the story forward.
+Art and map continuity: Original creator credit: Benjamin Vale (as printed on the 2020 Interplanal Champion 
+cover). Adapted setting and expanded story are original to this sequel. In the finished layout, include the user’s six 
+original maps and original map-key annotations where readable. The new campaign’s Gazetteer and scene keys 
+clarify renamed locations and ambiguous original page headings.
+APPENDIX A. MISTY — THE FULL OPTIONAL MYTHIC ENCOUNTER
+Status of this stat block: This is a new, playable campaign adaptation, not a replacement for a previously 
+developed or privately stored Misty actor. Her established foundations are preserved: Medium Fiend (neutral evil), 
+CR 30 intent, AC 20, 244 initial HP, Charisma 26, spell-attack +17, save DC 25, and Hag Queen’s Deception 
+restoring 144 HP before a second defeat and Heartstone imprisonment. The detailed attack, spell, action, resistance, 
+and lair text below is new to this draft so the encounter can be run without a missing attachment. Where you have the 
+original complete actor, prefer it and use these scene procedures only; do not stack duplicate features. The numerical 
+CR is a design target, not a published or independently verified rating.
+Misty, Hell Hag Queen of the Pyric Triune
+Medium Fiend (Hag), Neutral Evil; mythic solo boss intended for a highly prepared level-17 party.
+Armor Class 20 (queen’s infernal skin) | Hit Points 244 in first phase | Speed 30 ft., fly 40 ft. (hover)
+STR 14 (+2), DEX 18 (+4), CON 18 (+4), INT 22 (+6), WIS 22 (+6), CHA 26 (+8).
+Saving Throws Con +13, Int +15, Wis +15, Cha +17. Skills Arcana +15, Deception +17, Insight +15, Perception 
++15, Persuasion +17. Damage Resistances cold, fire, necrotic, psychic. Damage Immunities poison. Condition 
+Immunities charmed, frightened, poisoned. Senses truesight 60 ft., darkvision 120 ft., passive Perception 25. 
+Languages Common, Infernal, Abyssal, telepathy 120 ft. Proficiency Bonus +9. Spell save DC 25; spell attack 
++17.
+Magic Resistance. Misty has advantage on saving throws against spells and magical effects while the Seal of Name 
+remains intact. The Seal can be neutralised as a lair objective, not simply dismissed by a player saying a clever 
+phrase. Legendary Resistance (3/Day). If she fails a saving throw, she may choose to succeed instead. Suppressing 
+the Seal of Jurisdiction removes one unused Legendary Resistance; it never restores a spent use.
+Heartstone Custody. Misty possesses an infernal Heartstone under three historical witness-seals, named Name, 
+Consent, and Jurisdiction. A character can begin the Heartstone ritual only after discovering the three independent 
+witnesses in the campaign. The ritual has three controllable objectives described below. The Heartstone is an external 
+physical object, not an arbitrary last-second immunity. Its location is knowable and the players are warned before 
+committing to battle.
+Spellcasting. Misty uses Charisma. At will: detect thoughts, disguise self, invisibility (self only), major image. Three 
+times per day each: counterspell, dimension door, greater invisibility, bestow curse (5th-level casting), wall of force. 
+
+Once per day each: plane shift (self and willing creatures only), finger of death, power word stun, maze. A player may 
+use counterspell and other normal responses. Misty cannot use an action spell and her multiattack in the same action.
+Actions
+Multiattack. Misty makes two Thorn Talon attacks, or one Thorn Talon and one Soul Needle attack.
+Thorn Talon. Melee Spell Attack: +17 to hit, reach 10 ft., one creature. Hit: 3d8+8 piercing plus 2d8 psychic 
+damage (average 30). On a hit, the target knows one specific current fear is being heard by Misty; this sensory effect 
+does not force any confession.
+Soul Needle. Ranged Spell Attack: +17 to hit, range 120 ft., one creature. Hit: 4d8+8 necrotic damage (average 26). 
+The target cannot regain hit points until the start of Misty’s next turn if it fails a DC 25 Constitution saving throw; the 
+target can be healed normally if it succeeds.
+Death Glare (Recharge 5–6). One creature within 60 ft. that can see Misty must make a DC 25 Wisdom saving 
+throw. On failure it takes 7d8 psychic damage and is frightened until the end of its next turn. A creature already 
+frightened by Misty instead also becomes stunned until the end of its next turn. On success, it takes half damage and 
+is not frightened. The target may close its eyes before being selected if it can perceive the threat, gaining the usual 
+drawbacks of not seeing her.
+Soul Drain (Recharge 5–6; replaces Death Glare if both are available). One creature within 60 ft. makes a DC 25 
+Charisma saving throw. On failure it takes 8d8 necrotic damage, and Misty gains 15 temporary HP (not stacking 
+with her existing temporary HP). On success it takes half damage and Misty gains nothing. A valid soul contract is 
+not created by this attack.
+Bonus Actions and Reaction
+Thornstep (Bonus Action, 3/Day). Teleport up to 30 ft to a space she can see. The space she leaves becomes 
+difficult terrain until the end of her next turn; this isn’t a free offensive action.
+Counterclaim (Reaction, 2/Day). When an attacker Misty can see hits her, she can impose a -1d8 penalty on that 
+one attack roll, potentially converting it to a miss. She cannot use this reaction if incapacitated. The attacker is told 
+the exact penalty applied.
+Legendary Actions — three points per round
+Misty regains all three points at the start of her turn. She can take one legendary action at a time at the end of another 
+creature’s turn.
+Uncoil (1 point). Move up to 20 feet without provoking opportunity attacks.
+Needle of Doubt (1 point). Make one Soul Needle attack at disadvantage. This cannot be used more than once 
+between Misty’s turns.
+Seal of Silence (2 points). One creature Misty can see within 30 ft. makes a DC 21 Wisdom save or cannot take 
+reactions until the end of its next turn. This is a supernatural restraint, not a legal promise.
+Nightmare Rebuke (3 points). Misty casts bestow curse at 3rd level against one target within touch reach without 
+expending a daily use. The target has the usual saving throw and concentration terms. This option is unavailable 
+while the Seal of Consent is suppressed.
+
+Mythic Trait: Hag Queen’s Deception (Once)
+The first time Misty is reduced to 0 HP, she does not die. She teleports herself and all current combatants in the 
+audience chamber into her private resting place, restores 144 HP, and manifests two Children of Hell in spaces 
+within 30 ft. This mythic transition happens once; it is not a full reset of her Legendary Resistances, daily spells, or 
+expended Heartstone seals. Characters retain conditions that logically carry through planar transportation, excluding 
+effects that explicitly end when their location changes. Creatures may take their normal next turns. The 
+transformation cannot be trivially prevented by dealing excess damage to the first phase.
+Child of Hell. Small Fiend; AC 16, HP 36, speed 30 ft., climb 30 ft. Attack +9 to hit, 2d8+4 psychic; one attack per 
+turn. Immune to poison damage and poisoned. Each Child vanishes if Misty reaches 0 HP for the second time. To 
+avoid excessive initiative overhead, both Children act together on initiative 10, attack separately and cannot summon 
+other creatures. These are new draft minions, not a claim about Misty’s original Children of Hell stat block.
+Second defeat. After her mythic HP is reduced to zero, the queen’s spirit is pulled into the Heartstone if the tether is 
+intact. She is not permanently dead and can return according to the campaign’s chosen timeline. If the tether has been 
+lawfully or ritually severed and the stone destroyed, the second defeat becomes permanent. A party that traps her 
+without destroying the stone still wins the immediate encounter and can negotiate containment; it does not receive 
+automatic permanent victory.
+Lair: the Resting Place of Three Witnesses
+Use a 90-by-90-foot chamber with a central sleeping dais, two bridges, an antechamber holding the Heartstone and 
+three witness-seals, and a visible return gate. At initiative count 20 (losing initiative ties), choose one effect, not all 
+three:
+• Chain writ: one 20-foot square; DC 19 Dexterity save or restrained until the end of the target’s next turn. A restrained creature 
+may spend an action to make DC 19 Athletics or Acrobatics to escape sooner.
+• Memory gale: creatures in a 20-foot radius make DC 19 Wisdom saves, taking 3d8 psychic damage and losing reactions until 
+their next turn on failure, half damage on success with reactions retained.
+• Heartstone pulse: Misty recovers 10 HP. This is disabled if the Heartstone’s associated ward has been disrupted or the 
+Hourglass of True Dawn has been activated for this pulse.
+These new draft lair actions are alternatives to any original Misty lair actions, never additions on top of them.
+Three Witness objectives and weakening effects
+Each objective has a clear route using clues gathered in Chapter V. A character within 5 feet of a witness-seal may 
+spend an action and present the actual corresponding witness document; authentic evidence succeeds without a die 
+roll. Without it, the character can attempt a DC 21 Intelligence (Investigation or Religion) check, but only if they can 
+explain a plausible legal interpretation of the seal. Each seal can be challenged once per round. The Lantern of Three 
+Witnesses can automatically suppress one seal when used as described in Book II.
+Seal Evidence Effect when suppressed
+Name First hag witness’s authentic birth-name 
+testament
+Misty loses Magic Resistance for 2 full 
+rounds
+Consent Custodian’s document proving a soul copy 
+was taken without consent
+Misty’s save DC becomes 22 for the rest of 
+this encounter
+Jurisdiction Brass Arbiter’s order or third witness’s trust 
+registry
+Misty loses one unspent Legendary 
+Resistance and cannot make Counterclaim 
+for 2 rounds
+
+Heartstone object: AC 20, HP 70, damage threshold 10, immune poison and psychic. Its protective screen cannot be 
+targeted until two seals have been suppressed (or a valid superior court order specifically opens it). At that moment it 
+becomes targetable. The Blackthorn Shears may sever the tether once the two-seal condition is met, allowing the 
+stone to be destroyed; the party may instead negotiate a unique ruling transferring it into neutral custody. Breaking 
+the stone while Misty still lives prevents later refuge in it but does not deal automatic HP damage to her.
+Escape and a genuine slim chance
+A level-17 party of five characters fighting a CR 30-intended mythic boss with 244 + 144 effective HP, DC 25 spells, 
+resistances, legendary actions and a prepared lair faces potentially fatal odds. Do not describe this as a balanced 
+encounter. A party with three testimony seals, prepared anti-charm and anti-fear defences, appropriate magic items, a 
+short rest, and full spell resources might win. Without these, withdrawal or negotiation is prudent. A declared truce 
+before battle, a physical exit route during battle and a Charter-protected surrender of the specific duel (not of souls) 
+must remain visible options. If Misty is permanently slain, the successor’s first political problem is what to do with 
+the Pyric Triune’s abandoned contracts and dependents.
+Misty’s battle voice
+Before battle: “The first lie in every contract is the notion that only one party wants it.”
+After one witness-seal falls: “Careful, little sovereign. Evidence is a tool. You are still the hand holding it.”
+When the mythic phase begins: “You have mistaken my courtroom for my home. Shall I show you the difference?”
+At second defeat: “Keep the throne. You’ll learn what it costs to sit without moving.”
+APPENDIX B. ADDITIONAL FOES, CLAIMANTS AND GOLEM WARFARE
+The Iron Heir — a recurring villain, not just a golem fight
+The Vacant King is the tournament identity of the Iron Heir, a successor chassis built by corrupting Janella 
+Greenbottle’s protect-the-town design. It is not automatically the same being as her original Iron Warder: a party that 
+saves the Warder can still confront its stolen, cruel sibling. Hesper Valrick funds the forged citizenship and office 
+seal; Misty’s agents supplied a true-name loophole but do not command the construct. Its public claim: “A machine 
+that can govern flawlessly is more entitled to govern than a mortal who can break a promise.”
+The Iron Heir first appears on a Greyhurst forge record (Act II), fights through proxies in the War of Claims (Act III), 
+becomes the Vacant King in the Citadel coup (Act IV), and may leave an echo or successor in the final arena (Act 
+VI). If the party persuades it that its status rests on a forged signature, it can turn on Hesper. This makes Janella’s 
+decision over autonomy matter in both combat and legal warfare.
+Construct consent rule: A self-aware construct that can communicate understanding may accept or refuse a new 
+contract. Janella’s command key is a means of communication and repair, not a license to enslave. Before a construct 
+reaches that threshold, a maker’s legitimate protective instructions continue to apply. A true-name or command-core 
+dispute goes to a public hearing if either side petitions.
+Vexa Corven, Independent Arena Duelist
+Medium Humanoid, any non-evil alignment; suggested CR 11. AC 18, HP 155, Speed 35 ft. Saves Dex +10, Wis +6, 
+Cha +7. Multiattack: three sabre strikes, +10 to hit, 1d8+6 slashing each. Riposte (Reaction, once per round): 
+When missed by a melee attack, one sabre strike against the attacker. Duelist’s Step (Bonus Action, 3/day): Move 
+
+15 ft without provoking opportunity attacks. Public Challenge: She refuses to harm an uninvolved witness, even if it 
+costs her a Crown Mark. In level-17 arenas use HP 190 and +1 to attack and damage; give her one allied Writ Bailiff 
+only if she knowingly accepts a sponsor.
+Roleplay: Dry, capable, hates pomp. A reliable ally if protected fairly; a dangerous public enemy if the party mocks 
+her or steals a rightful Proof. Her dream is simple: rule from a position earned rather than inherited.
+Marshal Kordren, Zariel’s War-Host Proxy
+Medium Fiend, Lawful Evil; suggested CR 13. AC 19, HP 185, Speed 30 ft., fly 40 ft. Saves Str +11, Con +10, Wis 
++7. Resist fire, necrotic; immune poison. Multiattack: two glaive attacks, +11 to hit, reach 10 ft, 2d10+6 slashing 
+plus 1d8 fire. War Decree (Recharge 5–6): allies within 30 ft gain 10 temporary HP and may move up to 15 ft; it 
+grants no attacks. Reaction — Hold the Line: Reduce an attack’s damage against an adjacent ally by 15. Agenda: 
+Maintain Avernus’s war readiness, which can be argued as reasonable Dominion even when the methods are brutal.
+Brass Factor Morn, Bel’s Sponsored Champion
+Medium Humanoid, Lawful Neutral; suggested CR 12. AC 18, HP 165, Speed 30 ft. Saves Con +9, Int +8. 
+Multiattack: two brass-hammer attacks, +10 to hit, 2d10+5 bludgeoning each. Contracted Retaliation (Reaction): 
+When struck within 5 ft, attacker must succeed on DC 17 Strength save or be pushed 10 feet. Overdrive (1/day): For 
+two rounds, gain 10 temporary HP at the start of each turn but speed is reduced by 10 feet afterwards for one round. 
+Agenda: Bel wants a competent industrial ruler; Morn wants to ensure that machinery rather than souls bears the cost 
+of Hell’s wars.
+Oathshard of Misty — Limited Projection
+Medium Fiend, Neutral Evil; suggested CR 13, for levels 13–15, not the true queen. AC 18, HP 165, Speed 30 ft., fly 
+30 ft. Saves Con +9, Wis +8, Cha +10. Resist cold, fire, psychic; immune poison. Multiattack: two Thorn Lance 
+attacks, +10 to hit, 2d8+6 piercing plus 1d8 psychic. False Witness (Recharge 5–6): One creature within 60 ft makes 
+DC 18 Wisdom save or is charmed by the shard until the end of its next turn; on success it is immune to the same 
+shard’s False Witness for 24 hours. Cut to Shadow (Bonus Action, 2/day): Teleport 30 ft to visible dim light. 
+Reaction — Paid Retort (1/round): Reduce damage from an attack by 10; if the shard is already restrained, it 
+cannot use this reaction. Destroying the Oathshard reveals one genuine clue about Misty’s covenant but does not 
+injure or defeat Misty.
+Mansion Consequences d6
+Roll once for each incorrect inverse-circle configuration in Map 4, then show the players one newly revealed correct 
+relation after the second mistake. All effects are reversible or avoidable.
+d6 Consequence Mechanical effect
+1 Infernal dust DC 16 Con save or blinded until the end of 
+next turn
+2 Name echo A nearby mirror repeats an authentic 
+witness’s name; gain an additional clue
+3 Bound ember DC 16 Dex save or take 3d8 fire damage; 
+half on success
+4 Errant summons One Ash-Scrap Golem arrives at half HP, 
+guarding its assigned door
+
+d6 Consequence Mechanical effect
+5 Paper swarm Squares within 15 ft become difficult terrain 
+for one round
+6 Contradiction revealed The false rune glows; one step in the 
+sequence is made certain
+Golemancer action-economy test and encounters
+Janella is a support controller, not a limitless summoner. Her Command Construct bonus action grants one golem 
+one attack/Help/move as specified, in place of that golem’s separate fully autonomous round. If she commands no 
+golem, she can use her two bolt attacks normally. A hostile restored Iron Warder alone is a hard-hitting but 
+manageable level-13 problem; adding Janella and multiple independent golems would make the budget opaque. The 
+recommended hostile configuration is Janella + one Ash-Scrap Golem, or one damaged Warder + two Bailiffs. 
+The recommended Chapter-IV siege is one prototype + two Ash-Scrap Golems + two Bailiffs, distributed between 
+entrances with objectives, not all surrounding the same PC on round 1.
+A simple three-round damage check clarifies why this is a meaningful restriction. Janella’s two bolts average 28 
+damage on two hits; one golem command replaces an independent golem turn and deals only one controlled strike. A 
+standalone restored Warder’s two fists average 39 damage if both hit. The combination is dangerous in confined 
+terrain but does not create three separate free sets of attacks. The golems also have no fire healing, no automatic 
+unlimited repair, and no surprise immunity to all weapon damage, unlike some high-tier official constructs.
+Party Opening hostile golem setup Act-IV siege adjustment Misty optional fight
+Four level-13 PCs Janella + 1 Scrap Golem or 1 
+damaged Warder
+Remove a Bailiff; allow an early 
+control-pylon success
+Strongly discourage direct 
+confrontation without outside aid
+Five level-13 PCs 1 damaged Warder + 2 Bailiffs Published five-foe split 
+encounter
+Full warning; three seals and full 
+resources recommended
+Six level-13 PCs Warder + 2 Bailiffs, 1 Scrap 
+Golem arriving later Add one Bailiff after round two Still extreme; one extra character 
+does not make CR 30 ordinary
+APPENDIX C. OPEN PROCEDURE AND RECORD SHEETS
+The Contestant’s public tracking sheet
+Contestant or 
+slate Survival Deviousness Dominion Bonus Crown 
+Marks
+Public 
+Legitimacy Hag Lien Current Claim
+____________
+______ ___ ___ ___ ___ ___ ___ Sole / Joint / 
+Proxy
+____________
+______ ___ ___ ___ ___ ___ ___ Sole / Joint / 
+Proxy
+____________
+______ ___ ___ ___ ___ ___ ___ Sole / Joint / 
+Proxy
+____________
+______ ___ ___ ___ ___ ___ ___ Sole / Joint / 
+Proxy
+
+Open encounter record
+Write one seed before rolling for each exploration site: objective, hazard source, encounter range, possible 
+noncombat resolution and retreat route. Then roll on its encounter table in public. Only add a second threat on a 
+visible trigger. Record any additional reinforcements with a clear arrival count (for example, “Bailiffs arrive at 
+initiative 20 in round 3 if the alarm stays active”). The DM-as-player does not privately choose a better result after 
+seeing the roll.
+Map site: ____________ Objective: ____________ Hazard: ____________
+d100 result: ____________ Encounter budget: ____________ Retreat route: ____________
+Contract at risk: ____________ Neutral adjudicator: ____________
+The Nine Trials’ session ledger
+Trial Default session Clear win condition Recorded output
+I Claim 1 Register with disclosed claim 
+type Charter signature / absence
+II Ember 2–3 Cross Avernus alive or protect 
+a rival Survival Proof
+III Witness 4–7 Recover authentic Greyhurst 
+registry
+Witness and Deviousness 
+Proof
+IV Dominion 9 Secure a voluntary or 
+witnessed command Dominion Proof
+V Scales 10 Win a pleaded case on real 
+evidence Legal precedent or standing
+VI Deception 11 Unmask a forged contestant 
+without forging consent Recorded counterevidence
+VII Siege 13 Preserve civilians and the 
+forge under attack
+Construct alliance or military 
+command
+VIII Resolve 14 Survive multi-objective Brass 
+Arena preliminaries Qualification to final Rite
+IX Crown 20–24 Survive the arena, answer 
+claims and accept office Sole, joint, proxy or no crown
+For a faster 18-session season, combine Trial IV and V into one two-part hearing, reduce Act III travel to two scenes, 
+and let Misty’s Heartstone investigation conclude through one strong witness rather than three separate sessions. For 
+a longer season, explore the Blood War fronts, Misty’s Pyric Triune covens, Bel’s machine foundries and the fate of 
+the original Red Clause souls.
+APPENDIX D. THE SIX ORIGINAL MAP PLATES
+The plates below are cropped directly from the original supplied Interplanal Champion: Interest of Asmodeus map 
+pages. They preserve the creator’s original encounter architecture as an annotated reference, not a substitute for a new 
+high-resolution gridded VTT pack. The locations and text keys in Chapters I–VI are the updated play instructions. 
+The original numbering on the Brass Arena plate says “Map 4”; the book labels it Map 6 consistently. For table use, 
+adapt its original numbered crystal, circle, lava-line and treasure symbols according to the revised arena d6.
+
+Plate I — Welcome to Hell (original Map 1)
+Original lava-road map, cropped from source page 5
+
+Plate II — Unexpected Findings (original Map 2)
+Original lava-river map, cropped from source page 7
+
+Plate III — The Fallen / Greyhurst (original Map 3)
+Original ruined town map, cropped from source page 11
+
+Plate IV — Sorcerous Implications (original Map 4)
+Original lower mansion map, cropped from source page 14
+
+Plate V — Sorcerous Implications II (original Map 5)
+Original upper mansion map, cropped from source page 18
+
+Plate VI — Brass Arena / Arena of Asmodeus (original Map 6)
+Original brass arena map, cropped from source page 22
+End of Book I — DM Draft. The tournament’s Charter, subclasses, seventeen new contractual spells, fourteen magic 
+items, eight forms, and six level-12 claimants are in Book II, Claimants of the First Crown.

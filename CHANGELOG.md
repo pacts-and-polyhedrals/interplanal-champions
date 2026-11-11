@@ -1,0 +1,19 @@
+# Changelog
+
+## 1.0.0
+First release.
+- Tables never break mid-row. Tables of up to 18 rows stay whole, and a table's heading stays with it. Longer tables continue only between rows, with the header row repeated. When a table moves to the next column or page, the space it leaves gets a picture (or an ornament if the space is small) instead of an empty gap.
+- Layout pass on every book and sheet. Each article, clause and labelled entry now starts its own paragraph or list item with a bold label, and attack lines no longer repeat their reach or range. Stat-block names are no longer printed twice. Duplicate chapter headings under the chapter openers are gone, and list headings stay with their first item.
+- Book I (GM) journal in 40 pages, Book II (Player's Guide), 21 handouts, Dramatis Personae, the Pregenerated Claimants journal (with the Player's Guide and character sheet PDFs), the Asmodeun Scriptorium codex and the GM Toolkit with scenes, tables, macros, credits and design notes.
+- 22 vector battlemaps with walls, doors, lighting, journal pins and placed tokens, plus a title scene. Foundry v13 and v14. The Claw Rift is mirrored and tiles horizontally for a scrolling chase.
+- 42 actors with dnd5e 5.3.3 activities, legendary, lair and mythic actions; 6 level-12 claimants built from SRD compendium documents with module subclasses and relics.
+- 17 new spells (43 with the Scriptorium), 3 new subclasses (6 in all), 38 items, 11 roll tables, 10 macros.
+- Championship Manager: Set Up Everything, Install / Update Content, Build or Rebuild scenes, Remove.
+- Championship Board (shared): slates, proofs, Crown Marks, War / Lien / Legitimacy clocks, seals. Arena Hazard, Convene a Hearing, Present an Exhibit, The Ash March, Misty's mythic phase, Show Handout, Group Challenge, Request Group Save.
+- Interlude: The Redline Run. A vehicle chase on the scrolling Claw Rift (a second Claw Rift scene, staged for the chase), the new Souljack Yard map and scene, the Soul Furnace Codex (soul-coin mechanics) in both books, 4 vehicle actors, Marshal Kestrel Vane, the Ash-Road Reaver and Broker Grisk, 10 soul-coin and machine items, 8 roll tables, 5 handouts, and a Redline Run tracker (Lead, round, Heat, Sparks, hazard and enemy-plan oracles) plus a soul-coin reader.
+- Print rule: every PDF has an even page count; a 'With Thanks' art page (Pacts & Polyhedrals, Blown Away and Imagi-Nations, and the playtesters Tim, Alex, Heather and Kai) fills the gap when one is needed.
+- Circle of Ashen Covenants: Ashen Forms. The druid wild-shapes into fiends on the Circle of the Moon's challenge-rating scale (CR 1 at 2nd, druid level / 3 from 6th), and gains Infernal Form at 10th level (two uses for a CR 5 Barbed Devil or Ashen Hellwarden). 7 SRD fiends and 7 original fiends of Avernus ship as actors; fiends from other books (Manes, Abyssal Wretch, Nupperibo, Maw Demon, Vargouille, Rutterkin, Spined Devil) are listed by book and page.
+- A vector headpiece illustration for every chapter of Book I and Book II, shown in the journals and the PDFs.
+- Rewrote the six claimant backstories as one connected story, with a clear party role, goal, claim and a note on each of the other claimants. Character sheets are now five pages.
+- Artificer: The Soulforged (by Asmo). A full artificer specialist that pilots constructs with souls taken from soul coins. It has two servitor frames (Enforcer and Attendant, as actors), twelve Construct Imprints, Soulforged spells granted by advancement, soul generation tables (archetype, 2d6 alignment, motivation, manner, contradiction, grievance), the construct mishap table, Forms SF-01 and SF-12, a GM chapter on Misty, the Iron Heir and rulings, and a Generate a Soul macro. 8 new named soul coins.
+- Renamed the deputy registrar Hesper Valrick to Hollis Valrick throughout.

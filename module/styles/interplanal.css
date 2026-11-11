@@ -1,0 +1,203 @@
+/* The Night of the Red Clause — crimson infernal journal style. Pacts & Polyhedrals. */
+@font-face { font-family: "NRC Cinzel"; src: url("../assets/fonts/cinzel-latin-700-normal.woff2") format("woff2"); font-weight: 700; }
+@font-face { font-family: "NRC Cinzel"; src: url("../assets/fonts/cinzel-latin-900-normal.woff2") format("woff2"); font-weight: 900; }
+@font-face { font-family: "NRC Cinzel"; src: url("../assets/fonts/cinzel-latin-400-normal.woff2") format("woff2"); font-weight: 400; }
+@font-face { font-family: "NRC Decorative"; src: url("../assets/fonts/cinzel-decorative-latin-900-normal.woff2") format("woff2"); font-weight: 900; }
+@font-face { font-family: "NRC Garamond"; src: url("../assets/fonts/eb-garamond-latin-400-normal.woff2") format("woff2"); font-weight: 400; }
+@font-face { font-family: "NRC Garamond"; src: url("../assets/fonts/eb-garamond-latin-400-italic.woff2") format("woff2"); font-weight: 400; font-style: italic; }
+@font-face { font-family: "NRC Garamond"; src: url("../assets/fonts/eb-garamond-latin-600-normal.woff2") format("woff2"); font-weight: 600; }
+@font-face { font-family: "NRC Fell"; src: url("../assets/fonts/im-fell-english-latin-400-normal.woff2") format("woff2"); }
+@font-face { font-family: "NRC Fell"; src: url("../assets/fonts/im-fell-english-latin-400-italic.woff2") format("woff2"); font-style: italic; }
+
+.rc-journal {
+  --rc-ink: #e9dcc4; --rc-dim: #b9a88c; --rc-blood: #b3122a; --rc-ember: #ff6a2a; --rc-gold: #d8aa52; --rc-bg: #120809;
+  font-family: "NRC Garamond", "EB Garamond", Georgia, serif; font-size: 15.5px; line-height: 1.55; color: var(--rc-ink);
+  background: radial-gradient(ellipse at 50% -10%, #3a0a12 0%, #1a0a0c 45%, var(--rc-bg) 100%);
+  padding: 1.4em 1.8em 2em; border: 1px solid #3a1418; border-radius: 6px;
+  box-shadow: inset 0 0 120px rgba(0,0,0,0.85), inset 0 0 0 1px rgba(216,170,82,0.08);
+}
+.rc-journal p { margin: 0 0 0.7em; }
+.rc-journal h1, .rc-journal h2, .rc-journal h3, .rc-journal h4 { font-family: "NRC Cinzel", "Cinzel", serif; border: none; text-shadow: 0 2px 0 #000, 0 0 18px rgba(179,18,42,0.45); }
+.rc-journal h1 { font-size: 2.3em; font-weight: 900; color: #f3d48a; margin: 0.2em 0; letter-spacing: 0.04em; }
+.rc-journal h2 { font-size: 1.55em; font-weight: 900; color: #ff8a6a; margin: 1.2em 0 0.5em; padding-bottom: 0.2em; border-bottom: 2px solid var(--rc-blood); }
+.rc-journal h3 { font-size: 1.22em; font-weight: 700; color: var(--rc-gold); margin: 1em 0 0.4em; }
+.rc-journal h4 { font-size: 1.02em; font-weight: 700; color: #ffb38a; margin: 0.6em 0 0.3em; letter-spacing: 0.06em; text-transform: uppercase; }
+.rc-journal strong { color: #ffd9a8; }
+.rc-journal em { color: #f0c8b8; }
+.rc-journal a.content-link, .rc-journal a.inline-roll, .rc-journal .roll-link-group, .rc-journal a.roll-link {
+  background: rgba(179,18,42,0.22); border: 1px solid rgba(255,106,42,0.45); color: #ffd9a8; border-radius: 3px; }
+.rc-journal a.content-link i, .rc-journal a.roll-link i { color: var(--rc-ember); }
+.rc-journal ul, .rc-journal ol { padding-left: 1.4em; }
+.rc-journal li::marker { color: var(--rc-ember); }
+.rc-journal code { background: #2a0a10; color: #ff9a7a; border: 1px solid #5a1420; padding: 0 4px; border-radius: 3px; }
+
+.rc-banner { text-align: center; padding: 1.2em 1em 1em; margin: -0.6em -0.8em 1.2em;
+  background: url("../assets/art/banner.webp") center/cover no-repeat, #2a0a10; border: 2px solid #5a1420;
+  border-image: linear-gradient(90deg, transparent, var(--rc-gold), transparent) 1; box-shadow: 0 10px 30px rgba(0,0,0,0.7); }
+.rc-banner h1 { margin: 0.05em 0; font-size: 2.4em; }
+.rc-kicker { display: block; font-family: "NRC Cinzel", serif; letter-spacing: 0.25em; text-transform: uppercase; font-size: 0.8em; color: #ffb38a; }
+.rc-sub { display: block; font-family: "NRC Fell", serif; font-style: italic; color: #e9cfb0; font-size: 1.05em; }
+.rc-tagline { font-family: "NRC Fell", serif; font-style: italic; font-size: 1.15em; text-align: center; color: #ffcfaa; border-top: 1px solid #5a1420; border-bottom: 1px solid #5a1420; padding: 0.6em 1em; }
+
+.rc-readaloud { position: relative; margin: 1em 0; padding: 0.9em 1.2em 0.6em 1.4em;
+  background: linear-gradient(135deg, rgba(60,10,16,0.92), rgba(28,8,10,0.95)); border: 1px solid #7a1424;
+  border-left: 6px solid var(--rc-blood); box-shadow: 0 0 22px rgba(179,18,42,0.35), inset 0 0 40px rgba(0,0,0,0.6);
+  font-family: "NRC Fell", serif; font-size: 1.05em; color: #f4e2c8; }
+.rc-readaloud h4 { margin: 0 0 0.4em; color: var(--rc-ember); font-size: 0.8em; letter-spacing: 0.2em; }
+.rc-readaloud p { margin: 0 0 0.45em; }
+
+.rc-secret { margin: 1em 0; padding: 0.8em 1.1em; background: repeating-linear-gradient(-45deg, rgba(20,6,8,0.95) 0 10px, rgba(28,8,12,0.95) 10px 20px);
+  border: 1px dashed #b3122a; border-radius: 4px; }
+.rc-secret h4 { color: #ff5a5a; } .rc-secret h4::before { content: "☩ DM ONLY · "; color: var(--rc-gold); }
+.rc-box { margin: 0.9em 0; padding: 0.7em 1em; background: rgba(216,170,82,0.07); border: 1px solid rgba(216,170,82,0.45); border-radius: 4px; }
+.rc-box h4 { color: var(--rc-gold); }
+
+.rc-journal table { width: 100%; border-collapse: collapse; margin: 0.8em 0; background: rgba(0,0,0,0.35); border: 1px solid #5a1420; }
+.rc-journal th { background: linear-gradient(#5e0b18, #3a0a12); color: #ffe0b0; font-family: "NRC Cinzel", serif; font-size: 0.85em; text-align: left; padding: 6px 8px; border: 1px solid #7a1424; }
+.rc-journal td { padding: 6px 8px; border: 1px solid #3a1418; vertical-align: top; }
+.rc-journal tr:nth-child(even) td { background: rgba(179,18,42,0.07); }
+
+.rc-spec { display: grid; grid-template-columns: max-content 1fr; gap: 4px 14px; padding: 0.7em 1em; margin: 0.8em 0; background: rgba(0,0,0,0.4); border-top: 2px solid var(--rc-blood); border-bottom: 2px solid var(--rc-blood); }
+.rc-spec dt { font-family: "NRC Cinzel", serif; color: var(--rc-gold); font-weight: 700; } .rc-spec dd { margin: 0; }
+.rc-arc { display: flex; gap: 6px; margin: 0.6em 0 1em; } .rc-arc span { flex: 1; text-align: center; padding: 8px 4px; font-family: "NRC Cinzel", serif; font-size: 0.85em; color: #fff; border: 1px solid #000; }
+.rc-arc span:nth-child(1) { background: #2f7a46; } .rc-arc span:nth-child(2) { background: #8a6a2a; } .rc-arc span:nth-child(3) { background: #7a1424; } .rc-arc span:nth-child(4) { background: #2a0408; box-shadow: 0 0 14px #b3122a; }
+
+.rc-portrait { width: 210px; border: 3px solid #120809; outline: 2px solid var(--rc-gold); box-shadow: 0 8px 24px rgba(0,0,0,0.8); margin: 0 0 0.6em 1em; }
+.rc-right { float: right; } .rc-journal h2, .rc-journal .rc-box, .rc-journal table, .rc-journal .rc-secret { clear: both; }
+.rc-npc { display: flex; gap: 14px; align-items: flex-start; margin: 0.8em 0; padding: 0.7em; background: rgba(0,0,0,0.35); border: 1px solid #3a1418; border-left: 4px solid var(--rc-blood); }
+.rc-npc h3 { margin-top: 0; } .rc-thumb { width: 110px; flex: 0 0 110px; border: 2px solid #120809; outline: 1px solid var(--rc-gold); }
+.rc-meta { font-family: "NRC Cinzel", serif; font-size: 0.82em; color: var(--rc-dim); letter-spacing: 0.04em; }
+.rc-pc { border-top: 6px solid var(--pc, #b3122a); padding-top: 0.6em; }
+.rc-check { list-style: none; padding-left: 0.2em; } .rc-check li::before { content: "☐ "; color: var(--rc-gold); }
+.rc-closing { text-align: center; font-family: "NRC Fell", serif; font-style: italic; font-size: 1.25em; color: #ffe0b0; margin-top: 1.5em; text-shadow: 0 0 18px rgba(255,106,42,0.5); }
+.rc-spell-classes { font-size: 0.9em; color: var(--rc-dim); }
+
+/* handouts: parchment documents */
+.rc-handout { position: relative; color: #2a1408; background: radial-gradient(ellipse at 30% 20%, #f6ead0, #e6d2a6 60%, #cdb07a 100%);
+  border: 2px solid #6a3a16; padding: 1.4em 1.8em 2.2em; margin: 0.4em 0; font-family: "NRC Fell", "NRC Garamond", serif; font-size: 1.05em;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.75), inset 0 0 60px rgba(120,60,10,0.35); }
+.rc-handout h2 { color: #7a0a14; border-bottom: 2px double #7a0a14; text-shadow: none; text-align: center; }
+.rc-handout strong { color: #5a0a10; } .rc-handout em { color: #3a1a0a; }
+.rc-handout table { background: rgba(255,255,255,0.25); border-color: #6a3a16; } .rc-handout td { border-color: #b08a5a; color: #2a1408; }
+.rc-handout th { background: #7a0a14; }
+.rc-form { text-align: center; font-family: "NRC Cinzel", serif; letter-spacing: 0.12em; font-size: 0.8em; color: #5a2a10; }
+.rc-sig { font-style: italic; text-align: right; margin-top: 1em; } .rc-sigline { font-family: "NRC Cinzel", serif; letter-spacing: 0.05em; }
+.rc-red { color: #a00a14 !important; font-weight: 700; }
+.rc-ledger th { width: 34%; }
+.rc-stamp { position: absolute; right: 1.2em; bottom: 0.8em; transform: rotate(-12deg); font-family: "NRC Cinzel", serif; font-weight: 900; font-size: 1.5em;
+  color: rgba(160,10,20,0.75); border: 4px double rgba(160,10,20,0.75); padding: 0.1em 0.5em; border-radius: 6px; }
+.rc-infernal { background: radial-gradient(ellipse at 50% 30%, #3a0a10, #160406); color: #f4d8b8; border-color: #b3122a; }
+.rc-infernal h2 { color: #ffb38a; border-color: #b3122a; } .rc-infernal strong { color: #ffd9a8; } .rc-infernal em { color: #f0c8b8; }
+.rc-invite { text-align: center; font-family: "NRC Decorative", serif; font-size: 1.6em; color: #ffd27a; margin: 1em 0; }
+.rc-blueprint { background: #1c3a64; color: #dcefff; border-color: #9fc6e8; } .rc-blueprint h2 { color: #fff; border-color: #9fc6e8; } .rc-blueprint strong { color: #fff; }
+.rc-bells { display: flex; gap: 6px; justify-content: center; margin: 1em 0; }
+.rc-bells span { width: 38px; height: 38px; display: grid; place-items: center; font-family: "NRC Cinzel", serif; font-weight: 900; border-radius: 50%; border: 2px solid #d8aa52; color: #d8aa52; }
+.rc-bells span.rung { background: #b3122a; color: #fff; box-shadow: 0 0 12px #ff3a2a; }
+.rc-codex .rc-handout { font-size: 0.98em; }
+.rc-backcover { text-align: center; } .rc-motto { font-family: "NRC Decorative", serif; font-size: 1.3em; color: #ffd27a; letter-spacing: 0.08em; margin-top: 1em; }
+
+/* Midnight Docket panel */
+#ipc-docket { position: fixed; top: 80px; left: 50%; transform: translateX(-50%); z-index: 70; min-width: 420px; padding: 8px 12px 10px;
+  background: radial-gradient(ellipse at 50% 0%, #4a0a14, #140406); border: 2px solid #d8aa52; border-radius: 10px;
+  box-shadow: 0 0 30px rgba(179,18,42,0.7), 0 10px 30px rgba(0,0,0,0.8); color: #f4d8b8; font-family: "NRC Cinzel", serif; pointer-events: auto; }
+#ipc-docket header { text-align: center; font-weight: 900; letter-spacing: 0.2em; color: #ffd27a; text-shadow: 0 0 10px #ff3a2a; }
+#ipc-docket .ipc-bells { display: flex; gap: 6px; justify-content: center; margin: 6px 0; }
+#ipc-docket .ipc-bell { width: 36px; height: 40px; display: grid; place-items: center; font-weight: 900; font-size: 13px; color: #d8aa52;
+  border: 2px solid #d8aa52; border-radius: 50% 50% 8px 8px; background: #1a0608; }
+#ipc-docket .ipc-bell.rung { background: radial-gradient(#ff6a2a, #8e1424); color: #fff; box-shadow: 0 0 12px #ff3a2a; }
+#ipc-docket .ipc-bell.ninth { border-color: #ff3a2a; }
+#ipc-docket .ipc-status { text-align: center; font-size: 13px; }
+#ipc-docket .ipc-writs { display: flex; gap: 6px; justify-content: center; margin-top: 6px; }
+#ipc-docket .ipc-writ { flex: 1; text-align: center; padding: 3px; border: 1px solid #d8aa52; border-radius: 4px; font-size: 11px; cursor: pointer; background: #2a0a10; }
+#ipc-docket .ipc-writ b { display: block; font-size: 15px; color: #ffd27a; }
+#ipc-docket .ipc-writ.suspended { background: #4a3a10; } #ipc-docket .ipc-writ.invalidated { background: #2f5a3a; opacity: 0.75; } #ipc-docket .ipc-writ.destroyed { background: #333; opacity: 0.55; text-decoration: line-through; }
+#ipc-docket .ipc-ctl { display: flex; gap: 4px; margin-top: 8px; } #ipc-docket .ipc-ctl button { flex: 1; font-family: "NRC Cinzel", serif; font-size: 11px; background: #3a0a12; color: #ffd9a8; border: 1px solid #b3122a; }
+
+/* chat cards */
+.ipc-chat { font-family: "NRC Garamond", serif; } .ipc-chat .ipc-toll { font-family: "NRC Cinzel", serif; font-weight: 900; text-align: center; color: #8e1424; letter-spacing: 0.15em; font-size: 1.2em; margin: 0; }
+.ipc-chat .ipc-ruling { font-family: "NRC Cinzel", serif; font-weight: 700; color: #6a4410; border-left: 3px solid #d8aa52; padding-left: 6px; }
+.ipc-chat .hint, .ipc-form .hint { font-size: 0.85em; opacity: 0.8; }
+.ipc-form label { display: block; margin: 6px 0; } .ipc-form select, .ipc-form input[type=text], .ipc-form input[type=number] { width: 100%; }
+
+/* manager */
+.ipc-manager { padding: 4px 6px; } .ipc-mhead img { width: 100%; border: 1px solid #5a1420; border-radius: 4px; } .ipc-mhead p { text-align: center; margin: 4px 0; opacity: 0.8; }
+.ipc-manager h3 { font-family: "NRC Cinzel", serif; border-bottom: 1px solid #b3122a; margin-top: 10px; }
+.ipc-manager .ipc-big { width: 100%; padding: 10px; font-size: 1.1em; font-family: "NRC Cinzel", serif; background: linear-gradient(#8e1424, #5e0b18); color: #ffe0b0; border: 1px solid #d8aa52; }
+.ipc-manager .ipc-row { display: flex; gap: 6px; margin-top: 6px; } .ipc-manager .ipc-row button { flex: 1; }
+.ipc-manager .ipc-row button.active { background: #8e1424; color: #fff; }
+.ipc-manager .ipc-scenes { list-style: none; padding: 0; margin: 0; max-height: 260px; overflow-y: auto; }
+.ipc-manager .ipc-scenes li { display: flex; justify-content: space-between; align-items: center; padding: 3px 0; border-bottom: 1px solid rgba(179,18,42,0.25); }
+.ipc-manager .ipc-scenes button { flex: 0 0 auto; width: auto; }
+.ipc-manager .hint { font-size: 0.85em; opacity: 0.8; } .ipc-danger { margin-top: 12px; } .ipc-danger button { width: 100%; color: #ff8a8a; }
+/* Scriptorium full rules text */
+.rc-spell, .rc-feature { margin: 0.7em 0; padding: 0.5em 0.8em; background: rgba(0,0,0,0.28); border-left: 3px solid var(--rc-gold); }
+.rc-spell h3, .rc-feature h4 { margin: 0 0 0.1em; }
+.rc-sptype { margin: 0 0 0.4em; color: var(--rc-dim); }
+.rc-subclass { margin-bottom: 1.4em; }
+.rc-handout .xref, .rc-handout a.content-link { color: #6a0a14 !important; background: rgba(122,10,20,0.08); border-color: #6a0a14; }
+.rc-handout a.content-link i { color: #6a0a14; }
+
+/* The jingle */
+.rc-stanza { margin: 0.6em 0; padding: 0.4em 0.8em; border-left: 4px solid; border-radius: 4px; }
+.rc-stanza h4 { margin: 0 0 0.2em; }
+.rc-stanza p { font-family: "IM Fell English", serif; font-style: italic; font-size: 1.05em; line-height: 1.35; margin: 0 0 0.5em; }
+.rc-carol-cue { display: block; font-size: 0.8em; letter-spacing: 1px; text-transform: uppercase; opacity: 0.75; margin-bottom: 0.3em; }
+.rc-carol-cheer { border-color: #2f7a46; background: rgba(47,122,70,0.14); }
+.rc-carol-turn { border-color: #b8862e; background: rgba(184,134,46,0.14); }
+.rc-carol-dark { border-color: #8e1424; background: rgba(142,20,36,0.16); }
+.rc-carol-hell { border-color: #ff4a1a; background: rgba(90,4,8,0.35); box-shadow: inset 0 0 12px rgba(255,74,26,0.25); }
+.rc-carol-hell p { font-style: normal; font-weight: bold; letter-spacing: 0.3px; }
+.rc-carol-box > .rc-stanza { margin-top: 0.5em; }
+.rc-songbook .rc-carol-sub { text-align: center; font-style: italic; }
+.rc-songbook .rc-stanza p { color: inherit; }
+.rc-carol-chat .rc-stanza { margin: 0; }
+
+/* ---- Championship Board ---- */
+#ipc-board { position: fixed; top: 70px; left: 50%; transform: translateX(-50%); z-index: 70; min-width: 420px; max-width: 560px;
+  background: linear-gradient(#1a0a0c, #2a0e12); border: 2px solid #b8862e; border-radius: 10px; color: #f0e2c0;
+  box-shadow: 0 6px 24px rgba(0,0,0,.6); font-family: "Signika", sans-serif; font-size: 13px; padding: 6px 10px 8px; }
+#ipc-board header { font-family: Cinzel, serif; font-weight: 700; color: #e8c35a; text-align: center; letter-spacing: 1px;
+  border-bottom: 1px solid #5e0b18; padding-bottom: 3px; margin-bottom: 5px; position: relative; }
+#ipc-board header a { position: absolute; right: 0; top: 0; cursor: pointer; color: #c09040; }
+#ipc-board a { cursor: pointer; color: #e8c35a; padding: 0 4px; }
+.ipc-slate { display: flex; align-items: center; gap: 6px; padding: 2px 0; border-bottom: 1px dotted #5e0b18; }
+.ipc-slate .nm { flex: 1; font-weight: 700; }
+.ipc-proof { display: inline-block; width: 22px; height: 22px; line-height: 22px; text-align: center; border-radius: 50%;
+  border: 2px solid #5a4a3a; color: #7a6a5a; font-family: Cinzel; font-weight: 700; cursor: pointer; }
+.ipc-proof.on { background: #b8862e; color: #1a0a0c; border-color: #ffd27a; box-shadow: 0 0 6px #ffb43a; }
+.ipc-marks b { color: #ffd27a; font-size: 15px; }
+.ipc-add { display: block; text-align: center; font-size: 11px; margin: 3px 0; }
+.ipc-clocks { margin-top: 5px; display: grid; gap: 3px; }
+.ipc-clock { display: flex; align-items: center; gap: 6px; }
+.ipc-clock > span:first-child { width: 130px; font-family: Cinzel; font-size: 11px; }
+.ipc-clock .seg i { display: inline-block; width: 18px; height: 10px; margin-right: 2px; border: 1px solid #5a4a3a; border-radius: 2px; }
+.ipc-clock .seg i.on.war { background: #c0401a; } .ipc-clock .seg i.on.lien { background: #8a3ac0; } .ipc-clock .seg i.on.legit { background: #3a8ad0; }
+.ipc-seals { margin-top: 5px; display: flex; gap: 6px; align-items: center; font-size: 11px; }
+.ipc-seals > span:first-child { font-family: Cinzel; color: #c09040; }
+.ipc-seal { padding: 1px 6px; border: 1px solid #c0183a; border-radius: 8px; cursor: pointer; }
+.ipc-seal.down { background: #3a0a10; text-decoration: line-through; color: #8a7a7a; border-color: #5a4a4a; }
+.ipc-chat .hint { font-size: 11px; opacity: .8; }
+.rc-plate { margin: 8px 0; text-align: center; } .rc-mapplate { max-width: 100%; border: 2px solid #3a2a1a; }
+.rc-blank { display: inline-block; min-width: 160px; border-bottom: 1px solid #3a1a10; margin: 0 4px; }
+.rc-big { font-family: Cinzel, serif; font-weight: 700; font-size: 1.15em; text-align: center; }
+.rc-scenes, .rc-tools { border-left: 4px solid #b8862e; }
+
+/* chapter headpieces */
+.ipc-chapart { margin: 0 0 0.6em; text-align: center; }
+.ipc-chapart img { display: block; width: 100%; height: auto; border: none; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.45); }
+
+/* Redline Run tracker */
+#ipc-redline { position: fixed; bottom: 110px; left: 50%; transform: translateX(-50%); z-index: 70; min-width: 460px; max-width: 620px;
+  background: rgba(14, 6, 8, 0.94); border: 2px solid #c09040; border-radius: 8px; padding: 8px 12px; color: #f0e2c0;
+  font-family: "EB Garamond", serif; box-shadow: 0 4px 18px rgba(0,0,0,0.6); }
+#ipc-redline header { font-family: Cinzel, serif; font-weight: 700; color: #e8c35a; text-align: center; letter-spacing: 1px; position: relative; margin-bottom: 4px; }
+#ipc-redline header a { position: absolute; right: 0; top: 0; }
+#ipc-redline a { cursor: pointer; color: #e8c35a; padding: 0 4px; }
+#ipc-redline .seg { display: inline-flex; gap: 3px; vertical-align: middle; margin: 0 4px; }
+#ipc-redline .seg i { width: 18px; height: 12px; border: 1px solid #c09040; border-radius: 2px; background: #2a1418; }
+#ipc-redline .seg i.on.lead { background: #2f7a46; } #ipc-redline .seg i.on.heat { background: #ff5a1a; }
+#ipc-redline .ipc-lead { text-align: center; font-family: Cinzel, serif; margin-bottom: 6px; }
+#ipc-redline .ipc-veh { display: flex; align-items: center; gap: 10px; padding: 3px 0; border-top: 1px solid rgba(192,144,64,0.3); }
+#ipc-redline .ipc-veh .nm { flex: 1; font-weight: 600; }
+#ipc-redline .ipc-sparks b { color: #5ad0e0; }
+#ipc-redline .ipc-rl-btns { display: flex; justify-content: space-between; margin-top: 6px; font-family: Cinzel, serif; font-size: 12px; }

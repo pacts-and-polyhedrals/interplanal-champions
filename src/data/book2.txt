@@ -1,0 +1,839 @@
+INTERPLANAL CHAMPIONS
+CLAIMANTS OF THE FIRST CROWN
+BOOK II  |  PLAYER'S GUIDE & CHARACTER OPTIONS
+Interest of Asmodeus • A sequel to The Night of the Red Clause
+LEVEL 12 PREGENERATED HEROES  /  MAGIC  /  CONTRACTS
+EVERY CROWN IS A CONTRACT. READ YOURS.
+Three Asmodean subclasses. Seventeen contractual spells. Fourteen relics. Eight handout contracts. Six level-12 
+claimants ready for the First Crown. Designed to accompany the Asmodeun Scriptorium.
+DRAFT EDITION   •   6 NOVEMBER 2026
+
+Table of Contents
+INTERPLANAL CHAMPIONS
+CLAIMANTS OF THE FIRST CROWN
+Book II: Player’s Guide to the Championship of Infernal Succession
+An original level-12-to-17 D&D 5e campaign supplement for The Throne of Avernus. Companion to Book I and The 
+Night of the Red Clause.
+Audience: Players and DMs. Starting level: 12. Ending level: approximately 17. Rules baseline: 2014-era D&D 5e 
+with a 2024 conversion note. Contents: championship charter, three Asmodean subclasses, 17 new spells, 14 new 
+magic items, eight printable contractual forms, six level-12 pregenerated claimants, and player-facing orientation.
+What kind of campaign is this?
+Asmodeus has opened a new Rite of Succession for the First Layer of Hell. Challengers from many planes may 
+compete for the throne of Avernus. Victory requires more than violence: contestants must demonstrate survival, 
+clever legal manoeuvring, and the ability to win consent and command. The prize is real. A sole regent may rule; a 
+declared allied slate may share power; a contestant may represent a patron; anyone may withdraw subject to the 
+specific terms they signed.
+You are not required to be evil, to sell your soul, to betray your friends, or to fight other player characters. The 
+tournament invites all of those possibilities but makes none compulsory. Your choices can remake Avernus, reinforce 
+its present horrors, or expose a scheme that neither the lords of Hell nor their challengers fully understand.
+What characters know before entering
+• The tournament is an act of Asmodeus, whose sovereignty over the Nine Hells is unchanged. The successful challenger wins 
+authority over Avernus, not Hell as a whole.
+• Each claimant must prove Survival, Deviousness, and Dominion. Strength can qualify, but honourable ingenuity, negotiation 
+and stewardship also count.
+• Written agreements matter. Read every article. Contracts are public game objects with actual terms and remedies.
+• The Brass Arbiter hears appeals. It can reject improper collection, forged signatures and unauthorised proxy bargains.
+• There is a mechanism for individual, joint and proxy claims. Decide what your character actually wants before you arrive.
+1. THE CHAMPIONSHIP CHARTER
+The Nine Articles of Infernal Succession
+This is the real player-facing charter. It can be handed out and used at the table. In the fiction it is witnessed by the 
+Office of the Ninth Crown. No DM-only appendix changes these terms without a visible amendment and the 
+genuine acceptance of an affected signatory.
+
+Article I - Notice and Acceptance. A contender enters only after freely accepting this Charter, personally or through 
+a disclosed and authorised proxy. Participation does not by itself pledge a soul, bloodline, descendants, memories or 
+previously held property. Contestants who decline are not subject to its competitive obligations.
+Article II - Competence. Qualification for final investiture requires valid proof of Survival, Deviousness, and 
+Dominion. Competence may be demonstrated by physical contest, tactical leadership, investigation, negotiation, 
+contract drafting, or other witnessed acts relevant to the Proof. No particular alignment or class is required.
+Article III - Form of Claim. A claimant may seek the office alone, as part of a joint slate, or as the disclosed 
+representative of a patron. A joint slate is one legal claimant for eligibility and reward purposes, with several named 
+members. It must publish its internal voting and succession rules before investiture.
+Article IV - Consent and Persons. No soul, memory, identity, body, service beyond the explicit competition, or 
+interest in a dependent is transferred by acceptance of this Charter. Additional bargains require separate, informed 
+and specific acceptance by the person holding the right being transferred.
+Article V - Evidence and Eligibility. Certified records, witnessed acts, magical verification and authentic signatures 
+are admissible. Forged entries may be challenged. A claimant has a right to review allegations against their eligibility 
+and to present counterevidence before exclusion.
+Article VI - Hearings. The Brass Arbiter is independent of individual contestants and must state the clause upon 
+which each ruling relies. An appeal submitted before a scheduled forfeiture stays that forfeiture until the hearing, 
+except immediate defensive action during active combat.
+Article VII - Deceit and Contest. Tactical deception, disguise, misdirection, negotiation, coercive battlefield magic 
+within the agreed contest, and lawful exploitation of a clause are permissible. Forgery of the Arbiter’s seal, false 
+representation of another person’s consent, and threats against uninvolved dependents are not. A successful combat 
+feint does not transform into an agreement to transfer a soul.
+Article VIII - Duties and Withdrawal. A contestant may withdraw before final investiture and depart via a 
+sanctioned return route once any particular, previously signed service duties are discharged. Withdrawal forfeits 
+unspent Crown Marks but incurs no new soul penalty. A crowned ruler must defend the First Layer against invasion, 
+uphold the published governance charter and answer the superior authority of the Lord of Nessus.
+Article IX - Investiture. The lawful victor obtains the First Crown and the ability to appoint ministers, issue civil 
+decrees and govern Avernus subject to Asmodeus’s superior sovereignty and existing higher infernal law. The prize 
+may be held by a registered joint slate. Investiture is witnessed publicly by the Brass Arbiter; Asmodeus will not 
+withdraw it solely because he dislikes a lawful outcome.
+Player’s legal quick start
+When arguing an objection, identify (1) the named contract, (2) the actual clause, (3) who owns the right, (4) the 
+evidence of consent or default, and (5) your requested remedy. A well-substantiated factual contradiction may 
+succeed without a roll. When an issue is genuinely disputed, the DM should announce its legal DC rather than hiding 
+an unanswerable rule.
+Three claims you can make
+My crown: You will rule alone, rewarding allies with offices or granting them independence. Our crown: Sign the 
+Covenant of Joint Regency to govern together, with the ability to disagree under agreed rules. Their crown: You 
+represent an NPC or patron; declare who that is and what you will personally receive.
+
+2. NEW SUBCLASS - WARLOCK: THE RUBY COURT
+Otherworldly Patron, 2014 warlock subclass features at levels 1, 6, 10 and 14. For 2024 warlock, grant the 1st-level 
+patron feature at level 3 along with the expanded patron spells; later levels are unchanged. This subclass is separate 
+from the pre-existing Fiend patron and can be selected instead of it.
+Warlocks of the Ruby Court bargain for the authority to witness, suspend and enforce specific promises. They may 
+work for Asmodeus, copy his methods without loyalty, or use Hell’s law against Hell itself. Their magic cannot 
+conjure soul ownership from an enemy who has not agreed to it.
+Expanded Patron Spells (2014): 1st command, sanctuary; 2nd zone of truth, hold person; 3rd counterspell, sending; 
+4th banishment, freedom of movement; 5th geas, wall of force. These are options on the warlock spell list, not free 
+extra known spells. Under a 2024 approach, treat these as always prepared patron spells if the table uses that method 
+for warlocks.
+Level 1: Clause of Mutual Aid
+You learn Infernal and gain proficiency in Investigation or Persuasion. As a bonus action, you may offer one willing 
+creature you can see within 30 ft a Minor Term that is a feasible, clearly stated action to perform or avoid before the 
+start of your next turn. The creature knows the entire effect and may refuse without consequence. While it accepts and 
+abides by the Term, once before it expires the creature may add 1d6 to one attack roll, saving throw or ability check 
+after rolling but before the outcome is announced. If it knowingly breaks the Term, the unused die disappears; there is 
+no involuntary soul loss or damage. You may offer terms a number of times equal to your proficiency bonus per long 
+rest; only one of your terms may be active at a time. This is neither concentration nor a spell.
+Level 6: Consideration Received
+When a hostile creature that has separately accepted a Minor Term from you knowingly breaks it within 60 ft, you 
+can use a reaction to deal 2d8 psychic damage and gain temporary hit points equal to your Charisma modifier plus 
+your proficiency bonus. You may use this reaction a number of times equal to your Charisma modifier (minimum 
+once) per long rest, and no creature can trigger it more than once per long rest. Friendly characters never trigger this 
+damage through playful self-default: the feature targets a hostile participant. In addition, you have advantage on 
+ability checks to locate a deliberate contradiction in an authentic written agreement you have been allowed to inspect 
+for 10 minutes; this does not substitute for the actual evidence needed to win a hearing.
+Level 10: Reserved Rights
+You gain resistance to psychic damage and advantage on saves against being charmed or frightened by fiends. Once 
+per long rest, when you fail a saving throw against a spell or magical effect, you may use your reaction to reroll it. 
+You must use the second result. The reroll is represented as a timely objection, not retrospective refusal to accept an 
+already completed lawful bargain.
+Level 14: Final Notice
+As an action, choose a creature within 60 ft that can hear or see you. It makes a Charisma saving throw against your 
+warlock spell save DC. On a failure, it takes 6d10 psychic damage and is restrained in spectral filing chains for up to 
+1 minute. It repeats the save at the end of each turn, ending the restraint on success. On a success, it takes half damage 
+and is not restrained. If the target is currently bound by a genuinely accepted Minor Term from you and knowingly 
+breached it, the initial damage increases by 2d10. Once used, this feature cannot be used again until a long rest. This 
+is a magical attack, not an actual contract granting your patron title to a soul.
+
+Design ceiling: Short-lived attack/save support, one optional control ultimate, no automatic mind control, no extra 
+spell slots and no involuntary soul transfer. The subclass remains a caster and negotiator, not a second full cleric.
+3. NEW SUBCLASS - BARBARIAN: PATH OF THE BLOOD-PRICE
+Primal Path at levels 3, 6, 10, 14 for both 2014 and 2024-style subclass timing.
+These warriors swear measurable combat vows and draw power from the peril of keeping them. A Blood-Price 
+barbarian might defend innocent people out of fierce devotion or serve Asmodeus as an honour-bound executioner.
+Level 3: Rage Covenant
+When you enter a Rage, speak one Battle Vow whose condition you can reasonably fulfil: protect a named willing 
+ally within 30 ft, hold a location you can see, or engage a declared enemy without deliberately fleeing. The vow lasts 
+until your Rage ends. On each of your turns while raging, if you have not knowingly broken it, the first creature you 
+hit with a Strength-based melee weapon attack takes an extra 1d6 necrotic or fire damage (your choice when you 
+vow). This increases to 1d8 at barbarian level 10. If you knowingly break the vow, you lose this extra damage until 
+you start a new Rage; your Rage itself does not end. The vow does not magically force your actions or bind any ally’s 
+soul.
+Level 6: Collateral Guardian
+While raging, when a willing ally within 5 ft is damaged by an attack, you can use your reaction to reduce the damage 
+by 1d10 + your Constitution modifier + your Rage Damage bonus. You take psychic damage equal to half the 
+damage prevented, rounded down; this damage cannot be reduced by Rage resistance. You may use this feature a 
+number of times equal to your proficiency bonus per long rest. The ally knows you are assuming the cost and may 
+decline the intervention.
+Level 10: Witness to the Oath
+When you begin Rage Covenant, you may designate one willing ally within 30 ft as a Witness. While your Rage lasts 
+and you are conscious, that ally has advantage on saving throws against being frightened. Once during each Rage, 
+when the Witness misses an attack against the foe named by your Battle Vow, the Witness may add your Rage 
+Damage bonus to the attack roll, potentially turning the miss into a hit. The Witness cannot gain this benefit while 
+incapacitated, and may withdraw from the designation at any time.
+Level 14: The Price Comes Due
+While raging, when a hostile creature within 30 ft damages your designated Witness or an ally named by your Battle 
+Vow, you may use your reaction to move up to half your speed toward that enemy without provoking opportunity 
+attacks and make one melee weapon attack against it, provided it comes within reach. On a hit, deal an extra 2d8 
+necrotic damage. You may use this feature a number of times equal to your proficiency bonus per long rest. You 
+cannot use it during the same reaction as Collateral Guardian.
+Design ceiling: Expected extra Rage Covenant damage resembles established barbarian bonus-damage subclasses; 
+reaction defence trades personal HP and an action-economy slot for protection. The oath’s penalty is limited and 
+disclosed.
+
+4. NEW SUBCLASS - DRUID: CIRCLE OF ASHEN COVENANTS
+Druid Circle at levels 2, 6, 10 and 14 (2014). For 2024 druids, grant the level-2 features at level 3 and follow the 
+table’s revised Wild Shape charges.
+The Circle teaches that every harvest carries a debt, every flame nourishes ash, and every oath must have a season in 
+which it ends. Some druids venerate Asmodeus as an embodiment of cosmic exchange. Others study his contracts 
+precisely to keep natural communities out of them.
+Level 2: Witness of the Grove
+You gain proficiency in Insight or Nature, and learn Infernal or Sylvan. As a 1-minute rite, you may place an Ashen 
+Accord on one willing creature you touch. It lasts until your next long rest, until dismissed by either party (no action), 
+or until another Ashen Accord replaces it. While within 60 ft of you, when the bearer takes damage you may use your 
+reaction to reduce the damage by 1d8 + your Wisdom modifier and grant the bearer temporary hit points equal to 
+your proficiency bonus. You may use the reduction a number of times equal to your proficiency bonus per long rest; 
+no creature is compelled to accept it. A promise to help the grove is the roleplaying consideration, not an enforceable 
+property interest.
+Level 2: Ash Warden Spirit
+As a bonus action you can expend one use of Wild Shape to manifest an Ash Warden Spirit in an unoccupied space 
+within 30 ft for 10 minutes. Its statistics: Small Elemental; AC 13 + your proficiency bonus; HP 5 + five times your 
+druid level; speed 30 ft, fly 20 ft (hover); fire resistance; immune poisoned condition; attack bonus equal to your spell 
+attack modifier. It acts on your initiative immediately after your turn. It can move and Dodge freely; if you spend a 
+bonus action to command it, it instead moves and makes one Ashen Touch attack (1d8 + your proficiency bonus fire 
+damage), Helps, or Dashes. It cannot cast spells, carry large objects or make opportunity attacks. It vanishes at 0 HP, 
+when you dismiss it, or when the duration expires. You cannot have more than one Ash Warden active. At druid level 
+10 its Ashen Touch deals 2d8 + PB instead.
+Level 6: Remedy of the Root
+When a creature you can see within 60 ft harms the bearer of your Ashen Accord, you can use your reaction to 
+impose a -1d6 penalty on one attack roll that creature makes before the end of its next turn; the penalty must be 
+declared before that roll. If you use this reaction, the Accord bearer may immediately move 5 ft without provoking 
+opportunity attacks. You may use the reaction a number of times equal to your Wisdom modifier (minimum once) per 
+long rest. It competes with Witness of the Grove for your reaction.
+Level 10: Covenant of Embers
+You gain fire resistance. When your Ash Warden Spirit is within 30 ft of the bearer of your Ashen Accord, the bearer 
+has advantage on saving throws against being frightened. When the spirit scores a critical hit, its target cannot make 
+opportunity attacks until the end of the target’s next turn. No stacking of duplicate spirit bonuses.
+Level 14: Court of Returning Ash
+As an action, you raise a 30-foot-radius grove of black trees centred on yourself for up to 1 minute, as if concentrating 
+on a spell. You may include or exclude any willing creatures you can see when you activate it. For the duration, the 
+first time each round that an included creature takes damage within the area, reduce that damage by 2d8. An enemy 
+that starts its turn within the grove must make a Wisdom save against your spell save DC or have its speed halved 
+until the start of its next turn. The grove is stationary and counts as difficult terrain for enemies; it ends if your 
+
+concentration ends. Once used, you cannot use this feature again until a long rest. It does not nullify valid signed 
+agreements or compel an enemy to contract.
+Design ceiling: The spirit’s attack requires a bonus action and does not combine with repeated Wild Shape strikes; 
+the reactive mitigation competes for the same reaction; the capstone uses concentration. The druid remains an 
+effective full caster.
+5. CONTRACTUAL SPELLCASTING
+These are 17 original new spells for this campaign, designed to extend rather than duplicate the Asmodeun 
+Scriptorium’s existing 26-spell ladder in The Night of the Red Clause. A rule referencing the Scriptorium’s Ledger 
+(Draft DC, Loophole Rating and soul tithe) uses those original rules without alteration. Spells do not forge genuine 
+consent: a magical combat restraint is not a soul bargain.
+New spell list
+Level Spells
+Cantrip Witness Mark, Ember Receipt
+1 Formal Objection, Promissory Ward
+2 Registry of Names, Collateral Chains
+3 Writ of Safe Passage, Duel by Covenant
+4 Custody of Memory, Breach of Dominion
+5 Temporary Injunction, Audit the False
+6 Sever Assigned Name, Planar Reprieve
+7 Sovereign Injunction, Writ of Provisional Dawn
+8 Statute of the First Crown
+Witness Mark
+Divination cantrip. Cast: 1 action. Range: Touch. Components: V, S. Duration: 1 hour. Classes: Bard, Cleric, 
+Druid, Warlock, Wizard. You mark a willing creature or a document with a faint sigil. While the mark lasts, you can 
+recognise the marked target if you see it within 60 ft, even if superficially disguised. The mark gives no truesight and 
+does not defeat invisibility. Once before the spell ends, the bearer can choose to reveal the sigil to gain advantage on 
+an ability check to verify the authenticity of its own statement or a signature it personally made. The sigil then 
+vanishes. You can have only one Witness Mark active.
+Ember Receipt
+Evocation cantrip. Cast: 1 action. Range: 60 ft. Components: V, S. Duration: Instantaneous. Classes: Druid, 
+Sorcerer, Warlock, Wizard. Make a ranged spell attack against a creature. On a hit it takes 1d8 fire damage; if it 
+knowingly broke a clearly stated promise to you during the previous round, it takes an additional 1d4 fire damage (no 
+additional damage from merely signing a contract). Base damage becomes 2d8 at character level 5, 3d8 at 11 and 4d8 
+at 17; the bonus stays 1d4.
+
+Formal Objection
+1st-level abjuration. Cast: 1 reaction, when a creature within range makes a saving throw against being charmed or 
+frightened. Range: 60 ft. Components: V. Duration: Instantaneous. Classes: Bard, Cleric, Paladin, Warlock, 
+Wizard. Before the DM announces the outcome of the save, add 1d4 to the roll. The spell cannot retroactively undo 
+an event. Higher slots: Add another 1d4 at slot levels 3, 5 and 7, to a maximum of 4d4.
+Promissory Ward
+1st-level abjuration. Cast: 1 reaction, when a willing creature within range is damaged by an attack. Range: 30 ft. 
+Components: V, S. Duration: Instantaneous. Classes: Cleric, Druid, Paladin, Warlock. Reduce the triggering 
+damage by 1d10 + your spellcasting ability modifier. The protected creature may freely promise to aid you later, but 
+this promise has no automatic magical penalty. Higher slots: Add 1d10 reduction per slot level above 1st.
+Registry of Names
+2nd-level divination (ritual). Cast: 10 minutes. Range: Touch. Components: V, S, M (a quill and indexed paper 
+worth 10 gp, not consumed). Duration: Instantaneous. Classes: Bard, Cleric, Druid, Warlock, Wizard. Touch a 
+named document. Learn whether up to six listed signatures were made by the people they purport to represent, 
+whether the writing has been magically altered since signing, and whether any named signatory appears twice under 
+mutually incompatible identities. You do not learn true names, a hidden signatory’s location, or what a lawful 
+contract means. The spell examines the document, not every copy in the universe.
+Collateral Chains
+2nd-level conjuration (concentration, up to 1 minute). Cast: 1 action. Range: 60 ft. Components: V, S. Classes: 
+Sorcerer, Warlock, Wizard. One creature you see must make a Strength save. On failure, spectral brass chains restrain 
+it. It may repeat the save at the end of each of its turns, ending the spell on a success. The chains end early if you lose 
+concentration. A creature restrained by this spell is not legally indebted to you.
+Writ of Safe Passage
+3rd-level abjuration (ritual). Cast: 10 minutes. Range: Touch. Components: V, S, M (a brass token worth 25 gp, not 
+consumed). Duration: 1 hour. Classes: Cleric, Druid, Paladin, Warlock, Wizard. Up to six willing creatures who 
+touch the token when cast gain advantage on their first saving throw each against an environmental hazard caused by 
+heat, extreme cold, acidic rain or planar instability during the duration. Each creature also knows the shortest 
+nonmagical path back to the casting location while within 1 mile. The spell neither protects from weapon attacks nor 
+compels a planar authority to grant entry.
+Duel by Covenant
+3rd-level abjuration (concentration, up to 1 minute). Cast: 1 action. Range: 60 ft. Components: V, S. Classes: Bard, 
+Cleric, Paladin, Warlock. Name two willing creatures within range (one may be you) who can communicate their 
+agreement. For the duration, each duellist gains +1 AC against attacks made by creatures other than the other duellist, 
+and each can once use a reaction to move 10 ft without provoking opportunity attacks from outsiders. The spell ends 
+for both if either duellist withdraws consent (no action), if they move more than 120 ft apart, or if concentration ends. 
+It does not force them to fight and does not cancel legal duels already established.
+Custody of Memory
+4th-level abjuration (concentration, up to 1 hour). Cast: 1 action. Range: Touch. Components: V, S, M (a clear 
+glass bead worth 50 gp, not consumed). Classes: Bard, Cleric, Druid, Warlock, Wizard. One willing creature gains 
+
+advantage on Intelligence and Wisdom saving throws against spells and effects that erase, modify or extract its 
+memories. Once during the duration, when it would fail such a save, it may choose to succeed instead; doing so ends 
+the spell. The spell has no effect on a memory already voluntarily transferred by a valid signed contract.
+Breach of Dominion
+4th-level transmutation. Cast: 1 action. Range: 90 ft. Components: V, S. Duration: Instantaneous. Classes: Druid, 
+Sorcerer, Warlock, Wizard. A construct or fiend within range makes a Constitution save. On failure, it takes 5d8 force 
+damage and cannot take reactions until the end of its next turn; on success, half damage and no other effect. A 
+construct currently being compelled by a magical command can immediately make an additional saving throw against 
+that command if one was initially allowed. Higher slots: +1d8 damage per slot above 4th.
+Temporary Injunction
+5th-level abjuration (concentration, up to 1 minute). Cast: 1 action. Range: 60 ft. Components: V, S. Classes: 
+Cleric, Paladin, Warlock, Wizard. One creature you can see makes a Charisma save. On failure, while within 60 ft of 
+you it cannot teleport or use a feature to summon another creature. It repeats the save at the end of each turn, ending 
+the spell on success. On initial success, nothing happens. This does not prohibit ordinary movement, existing 
+companions or a creature’s ability to leave the area on foot. Teleportation that is part of a mythic death-and-rebirth 
+feature is suppressed only if the creature fails the save and the feature does not explicitly override spells.
+Audit the False
+5th-level divination (ritual). Cast: 10 minutes. Range: Touch. Components: V, S, M (ink dusted with platinum 
+worth 100 gp, consumed). Duration: Instantaneous. Classes: Bard, Cleric, Warlock, Wizard. Touch one signed 
+document or active magical record. You learn which of up to ten named signatures are forged or produced under 
+magical impersonation; the date and general kind of magical alteration; and whether any cited authority belongs to the 
+purported issuer. You do not automatically learn the true perpetrator, and the spell cannot declare a genuinely 
+voluntary but harmful agreement invalid. A creature capable of concealing its identity from divination may oppose 
+you with a Charisma save against your spell save DC; on success, the spell reveals that this entry is obscured, not 
+that it is authentic.
+Sever Assigned Name
+6th-level abjuration. Cast: 1 action. Range: 60 ft. Components: V, S, M (a seal of genuine testimony worth 250 gp, 
+consumed). Duration: Instantaneous. Classes: Cleric, Druid, Warlock, Wizard. Choose a willing creature whose 
+identity or name has been assigned to a magical claimant without their permission. One spell or magical effect of 6th 
+level or lower sustaining that false assignment ends. For a higher-level effect, make a spellcasting ability check 
+against DC 10 + the effect’s level, similar to a dispelling contest. If a creature is actively sustaining the assignment, it 
+may make a Charisma save; on success, only the assignment’s control is suppressed until the end of your next turn. 
+This does not erase a legitimate name, make a true soul bargain disappear, or kill a person sustained by magic.
+Planar Reprieve
+6th-level conjuration. Cast: 1 minute. Range: Touch. Components: V, S, M (a consecrated home-key worth 500 gp, 
+not consumed). Duration: Instantaneous. Classes: Cleric, Druid, Warlock, Wizard. You and up to five willing 
+creatures touching you teleport to a circle that you personally registered earlier on the same plane and within 10 
+miles. You must have spent 1 hour preparing that circle. This spell cannot escape a sealed plane and is blocked by 
+effects that prevent teleportation. It is deliberately slower and shorter-range than a universal emergency escape.
+
+Sovereign Injunction
+7th-level enchantment (concentration, up to 1 minute). Cast: 1 action. Range: 60 ft. Components: V, S. Classes: 
+Bard, Cleric, Warlock, Wizard. One creature that can understand any language you speak makes a Charisma save. On 
+failure, choose one: it cannot make opportunity attacks; it cannot use legendary actions; or it cannot teleport. At the 
+end of each of its turns it may repeat the save, ending the injunction on success. A target with Legendary Resistance 
+may use it normally. The spell does not prevent ordinary actions, remove legendary resistances or compel a contract. 
+This spell may fail against an especially potent sovereign creature even when a weaker foe would be bound.
+Writ of Provisional Dawn
+7th-level transmutation (concentration, up to 10 minutes). Cast: 1 action. Range: 120 ft (60-ft-radius sphere). 
+Components: V, S, M (a sun-marked hourglass worth 500 gp, not consumed). Classes: Cleric, Druid, Warlock, 
+Wizard. Within the sphere, magical effects that rely on a false or frozen local time instead use the actual passing time 
+at the effect’s original place of jurisdiction, if that place is known to the caster. This cannot accelerate time, force true 
+sunlight, end a legitimate contract before its term, or negate the passage of a real night. Any creature sustaining a 
+false-time effect may make a Charisma save; on success, its effect is unaffected until the start of your next turn, at 
+which point the sphere attempts again.
+Statute of the First Crown
+8th-level abjuration (concentration, up to 1 hour). Cast: 1 minute. Range: Self (100-ft-radius sphere). Components: 
+V, S, M (a bronze crown replica worth 1,000 gp, not consumed). Classes: Cleric, Warlock (8th-level Mystic 
+Arcanum), Wizard. Declare a single procedural protection that applies equally to all creatures within the sphere: (a) 
+no magical effect may use a forged signature as a source of authority; (b) no unwilling creature can be compelled to 
+testify by magical effects of 5th level or lower; or (c) contracts of 5th level or lower cannot be magically altered while 
+within the sphere. A hostile magical creature whose effect would be stopped may make a Charisma save against your 
+spell save DC when first affected, allowing its particular effect to continue for one round on success. The protection 
+does not invalidate truthful testimony, a genuine signed contract, or a superior divine law. The sphere is stationary. 
+Casting this spell does not itself make you ruler of Avernus.
+Spell use and stacking
+New spell damage is not increased merely by using an infernal title. Multiple instances of the same spell do not stack. 
+A character can concentrate on only one concentration effect. A warlock learns these spells under the standard class 
+rules: the 8th-level spell requires a Mystic Arcanum selection, not a normal Pact Magic slot. The spells can be found 
+as researched scrolls during the campaign; DMs need not grant every spell automatically.
+6. RELICS, REWARDS AND CHAMPIONSHIP EQUIPMENT
+The following fourteen items are unique to this campaign. Normal attunement limits apply. Unless a description says 
+otherwise, a charge spent on a spell uses the listed item save DC, does not consume a spell slot, and recharges at 
+dawn in Avernus. The items are rewards for an entire party, not fourteen things one claimant is expected to acquire. 
+A particularly important tool can also be obtained by contract, loan, purchase from a faction, or restitution.
+Item Rarity Attunement Recommended acquisition
+Quill of True Notice Uncommon No Act I registration desk
+Receipt of the Last Gift Uncommon No Waterdeep carry-over / Act I
+Crownmark Gauntlets Rare Yes First Proof of Survival
+
+Item Rarity Attunement Recommended acquisition
+Mistletoe Manacles Rare No Citation enforcement stores
+Marshal’s Chain of Allegiance Rare Yes Greyhurst coalition
+Ashen Seed of Remembrance Rare Yes (druid or spellcaster) Greyhurst grove
+Glassheart Interpreter Rare No Janella’s forge
+Pyric Covenant Ring Rare Yes Misty’s embassy
+Contract-Splitter Blade Very rare Yes Citadel preliminary prize
+Gavel of Appeal Very rare Yes (spellcaster) Brass Arbiter special 
+commendation
+Writshield of Personal 
+Sovereignty Very rare Yes The hag’s first witness
+Hourglass of True Dawn Very rare Yes Time registrar’s vault
+Lantern of the Three Witnesses Very rare Yes Heartstone investigation
+Blackthorn Shears Very rare No Pyric Reliquary
+Quill of True Notice
+Wondrous item, uncommon. A signature written with this quill leaves an indelible, visible timestamp and the signer’s 
+chosen disclosed name on the original sheet; copies show a faint orange line. The quill has 3 charges, regaining 1d3 
+at dawn. Expend a charge to learn whether the signature immediately before you was physically written by the person 
+presenting themselves as its signer (an impostor may have signed sincerely under a false name). The quill is not a 
+universal lie detector and cannot compel someone to sign.
+Receipt of the Last Gift
+Wondrous item, uncommon; one use. A fragment of Form H-25 from Waterdeep, signed by the independent Brass 
+Arbiter. As an action, display it to create a 10-foot-radius field that grants advantage on saving throws against being 
+charmed or magically compelled by fiends until the end of your next turn. It then crumbles into red ash. The receipt is 
+also admissible documentary evidence of the Waterdeep ruling; that legal property is not consumed until the hearing 
+ends.
+Crownmark Gauntlets
+Wondrous item, rare (requires attunement). While wearing them, you have advantage on Strength (Athletics) checks 
+made to climb, grapple or hold a contested objective. Once per long rest, when you reduce a hostile creature to 0 HP 
+or hold an advertised arena control point for two consecutive rounds, you may use a reaction to gain 15 temporary 
+HP. The gauntlets never create extra Crown Marks; they only reward the underlying action.
+Mistletoe Manacles
+Wondrous item, rare; three pairs. These are reusable restraints for Medium or smaller creatures. A willing creature 
+can be bound automatically; an unwilling, grappled creature is bound only after an action and a successful DC 17 
+Strength (Athletics) or Dexterity (Sleight of Hand) check contested by its Athletics or Acrobatics. A restrained wearer 
+can use its action to attempt DC 17 Athletics or Acrobatics to escape. The manacles prevent nonmagical use of hands 
+but do not suppress spellcasting by themselves. Once per long rest, the wielder can activate them to prevent the 
+
+wearer from teleporting until the end of its next turn on a failed DC 17 Charisma save. They contain no soul-
+ownership clause.
+Marshal’s Chain of Allegiance
+Wondrous item, rare (requires attunement). When a willing creature within 30 feet explicitly accepts your command 
+for a specific task of no more than 1 minute, you may link a spectral brass strand to it; you can have only one such 
+link active. Once per short rest, when the linked creature fails a saving throw, you can use your reaction to add 1d6 to 
+the failed roll, potentially turning it into a success. Either participant can end the link instantly without cost. This is 
+teamwork, not domination.
+Ashen Seed of Remembrance
+Wondrous item, rare (requires attunement by a spellcaster). Planting this dark-red seed over 1 minute creates a 20-
+foot-radius thicket lasting 1 hour. Willing creatures resting within it have advantage on checks and saving throws 
+against magical memory alteration for the duration. Once per long rest, one creature completing a short rest in the 
+thicket may restore one expended Hit Die and can remember one event from its own life that had been altered by a 
+spell of 5th level or lower, subject to the spell’s original saving throw if applicable. It cannot recreate another 
+person’s experiences or restore a soul already lawfully sold.
+Glassheart Interpreter
+Wondrous item, rare. A palm-sized receiver keyed to Janella Greenbottle’s maker-mark. Holding it within 30 feet of 
+one of her golems allows a creature proficient in Arcana or tinker’s tools to hear the construct’s current orders and 
+detect whether they were altered after leaving her workshop. Once per long rest, the operator can use an action to 
+give a construct another saving throw against a magical command effect, or force an uncontrolled construct to make 
+DC 17 Wisdom save or lose reactions until its next turn. The device never grants permanent ownership or control of 
+an unwilling autonomous construct.
+Pyric Covenant Ring
+Ring, rare (requires attunement). You gain resistance to necrotic damage. Once per long rest, when a creature within 
+30 feet willingly tells you a truthful fact that would place it at risk, you can use a reaction to grant it 2d8 temporary 
+HP and advantage on its next saving throw before the start of your next turn. The ring’s inscription reads: A secret 
+given freely is worth more than a secret stolen. A rival who sees the ring may assume you work for Misty; the ring 
+itself does not bind you to her.
+Contract-Splitter Blade
+Weapon (any sword), very rare (requires attunement). A +2 magic sword. Once on each of your turns when you hit a 
+creature maintaining a magical contract effect, you can deal 1d6 additional force damage. Once per long rest, after 
+hitting a target, you may choose one magical effect of 5th level or lower currently imposing a penalty or compulsion 
+on that target; make a DC 17 ability check using your spellcasting ability, or Intelligence if you have none. On 
+success, end that effect. This cannot cancel a valid written agreement itself; it severs one active magical enforcement 
+effect.
+Gavel of Appeal
+Wondrous item, very rare (requires attunement by a spellcaster). This blackwood gavel has 3 charges, regaining 1d3 
+daily. As an action expend one charge to cast dispel magic at 4th level. When resolving a public, contested hearing 
+with documents that the relevant adjudicator can inspect, you can expend one charge to grant advantage on one 
+
+Investigation, Religion or Persuasion check concerning admissibility or interpretation. No more than one charge may 
+be spent this way per hearing, and the gavel cannot turn a lie into a true exhibit.
+Writshield of Personal Sovereignty
+Shield, very rare (requires attunement). A +1 shield. When you or a creature within 10 feet fails a Charisma saving 
+throw against a magical attempt to alter identity, bind a soul or compel a personal oath, you can use your reaction to 
+allow a reroll. The second result stands. This can be done twice per long rest. During the Heartstone confrontation, 
+the shield can serve as one authentic protection against the queen’s identity-seizure effects, but gives no automatic 
+immunity to her spells.
+Hourglass of True Dawn
+Wondrous item, very rare (requires attunement). Sand inside the glass flows according to time on the plane and 
+jurisdiction named when the hourglass is activated. Once per long rest, as an action, create a 30-foot-radius sphere 
+centred on the glass for 1 minute. Magical environmental effects relying solely on fabricated or frozen time are 
+suppressed within the sphere. A hostile source may make a DC 18 Charisma save when the field appears; on success, 
+its effect is delayed rather than suppressed for one round. The sphere does not create actual daylight, erase legitimate 
+service, or halt natural time. In Misty’s lair, activating it can delay one lair-action pulse or the Heartstone recovery 
+pulse, not both.
+Lantern of the Three Witnesses
+Wondrous item, very rare (requires attunement). Three oil reservoirs are inscribed Name, Consent, and Jurisdiction. 
+The lantern has three total charges and cannot be recharged until the campaign’s current Heartstone rite ends. One 
+charge makes a hidden true-name inscription visible for 10 minutes; another grants advantage on one saving throw 
+against a hag’s enchantment or illusion (declare before rolling); the third illuminates a hidden soul-anchor or its 
+nearest ward when within 60 feet. A bearer who has gathered all three Heartstone witness statements may use all 
+remaining charges as an action to deactivate one of the queen’s three witness-seals. It does not deal damage to Misty.
+Blackthorn Shears
+Wondrous item, very rare. A single-use ritual implement shaped from living infernal blackthorn. With an action while 
+adjacent to a properly exposed soul-anchor, cut the magical tether connecting the anchor to its owner. This succeeds 
+only if the party has already disabled two witness-seals or obtained a valid independent court order establishing 
+unlawful ownership. If used on Misty’s Heartstone after her second defeat, the shears destroy the tether and render 
+the stone vulnerable to physical destruction. They cannot permanently kill a creature while its living body is still 
+elsewhere or erase a consented mortal contract as an incidental benefit.
+Equipment balance and attunement
+For a standard four-to-six-person party, three to five of these permanent attunement items by level 15 and three 
+Heartstone tools spread among different characters by level 17 provide meaningful preparation without assuming 
+every player gets a new legendary weapon. The unique anti-Misty tools help the party; they do not make a CR 30 
+mythic encounter safe. Item features calling for an action, reaction, charge or concentration use that action economy 
+exactly.
+7. EIGHT CONTRACTS FOR PLAYERS
+All eight forms are written as complete player-facing offers. Print one per page or copy into a Foundry journal. A 
+document only becomes effective when the appropriate signer freely accepts. In the fiction, these documents may still 
+
+be dangerous, especially when a party undervalues what it offers, but there are no invisible additional paragraphs. The 
+terms of the public Charter take precedence over narrower private agreements when they conflict about eligibility or 
+consent.
+Form IC-01 — Covenant of Joint Regency
+Parties: The named members of the proposed regency slate, identified below.
+Consideration: Each member contributes campaign Proofs, testimony, strategic resources and governance service to 
+the same recognised claimant.
+Term: From signature until the slate withdraws or, if crowned, until all members unanimously dissolve or amend this 
+instrument.
+Office and voting: The slate holds the First Crown as a single legal office. At investiture, the signatories select an 
+initial First Speaker. Ordinary policy is decided by simple majority; declaring a new war, selling an involuntary soul 
+claim, or altering this Covenant requires unanimous consent. A dead or incapacitated member’s vote is suspended 
+until restored, but their membership is not automatically transferred.
+Withdrawal: Before investiture, a member may withdraw by written notice; their personal Proofs cease to count 
+unless separately assigned by explicit agreement. After investiture, a member may resign an executive duty without 
+forfeiting their pre-existing personal soul, property or memories.
+Disputes: The Brass Arbiter may interpret this written instrument. It cannot invent a missing unanimous vote.
+Signatures: __________________________ __________________________ __________________________
+Form IC-02 — Writ of Safe Passage
+Parties: A named carrier or guild and up to six named travellers.
+Service: The carrier provides escorted passage between the two destinations written below, using a route they 
+reasonably consider safe from known hazards.
+Price: 100 gp or one named logistical favour due within seven days of arrival, selected before acceptance.
+Term: One journey, ending at the destination or after 48 hours, whichever comes first.
+Limitations: The carrier need not defeat armies or disclose protected third-party trade routes. Travellers retain their 
+weapons, bodies, memories and souls. A traveller may withdraw and travel alone; the paid fee is not refundable for 
+services already rendered.
+Breach: If the carrier deliberately abandons travellers without a credible threat to its own survival, it owes one 
+replacement escort or return of the fee. If a traveller attacks the carrier first, the carrier may suspend escort duties 
+while protecting itself.
+Start / End: _____________________ Price selected: _____________________ Signatures: 
+_____________________
+Form IC-03 — Retainer of Witness Protection
+Parties: One named witness and one named sponsoring claimant.
+
+Offer: Sponsor provides reasonable shelter, medical care and an evacuation route until the testimony hearing 
+concludes.
+In exchange: Witness agrees to answer honestly about firsthand events and to identify material uncertainties. No 
+guarantee of favourable testimony is made.
+Privacy: The sponsor may disclose the witness’s location only with permission or to the neutral Brass Arbiter for a 
+sealed proceeding. The witness may refuse to reveal unrelated private memories.
+Duration: Until the first completed testimony hearing or seven days, whichever comes first.
+Breach: A party who deliberately exposes the witness to unnecessary harm must pay reparations decided by the 
+Arbiter, capped at the value of the provided protection. The witness may leave freely.
+Witness: _____________________ Sponsor: _____________________ Place of hearing: 
+_____________________
+Form IC-04 — Misty’s Memorandum of Memory Escrow
+Offeror: Misty, Queen of Barbed Chains, acting through the Pyric Triune.
+Recipient: The named claimant below.
+Consideration from Misty: Verified location of Janella’s stolen infernal-glass core, plus one truthful answer 
+concerning the current successor register.
+Consideration from claimant: For twenty-four hours only, Misty may hold a magically exact copy of a single, 
+specifically identified memory. The claimant retains the original memory. The copy may be inspected by Misty 
+personally and cannot be sold, duplicated or transferred.
+Excluded property: Soul, other memories, bodily autonomy, future votes, and any friend’s secrets not owned by the 
+claimant.
+Return and destruction: The copy is irreversibly erased when escrow expires. The claimant may demand earlier 
+destruction by returning Misty’s answer unused and transferring no obtained core-related advantage. Disputes go to 
+the Brass Arbiter. An unauthorised transfer is a material breach that entitles the claimant to termination and 
+restitution.
+Exact memory deposited: ______________________________________
+Claimant: _____________________ Pyric Witness: _____________________
+Form IC-05 — Warden’s Declaration of Autonomy
+Parties: Janella Greenbottle, the restored Iron Warder identified by core number, and the named claimant supporting 
+them.
+Declaration: The Warder is recognised as an independent protective agent whose primary instruction is to safeguard 
+the civilians it voluntarily names. Its maker retains rights in the physical plans; neither maker nor claimant acquires 
+the right to command a self-aware construct against its explicitly registered protective mandate.
+Mutual assistance: The claimant agrees to maintain safe access to repairs. The Warder agrees to defend Greyhurst 
+for one season, provided that defence does not require harming civilians it has sworn to protect.
+
+Remedy: A disputed command is suspended for one round while a tribunal determines whether it conflicts with the 
+registered mandate. This procedure does not grant a combatant perpetual immunity from control magic.
+Warder designation: _____________________ Janella: _____________________ Claimant: 
+_____________________
+Form IC-06 — Covenant of Faction Sponsorship
+Parties: Named faction and named contestant or joint slate.
+Sponsorship: Faction supplies one unit of scouts, a safehouse, or a single rare magic item on loan (choose exactly 
+one before signing).
+Return: Claimant gives the faction a public hearing within thirty days after investiture regarding its proposed policy, 
+without promising to enact the policy.
+No purchase of government: The sponsor acquires neither sovereign veto nor automatic ministry. It may speak as a 
+petitioner, not as a private ruler.
+End: One successful hearing, written mutual cancellation, or claimant’s lawful withdrawal.
+Faction: _____________________ Support selected: _____________________ Claimant: 
+_____________________
+Form IC-07 — Duel of Measured Claims
+Parties: Two named willing contestants.
+Arena: Publicly announced site, time and dimensions.
+Victory condition: First creature to surrender, be reduced to 0 HP, or be pushed from the marked central dais twice 
+loses. At 0 HP, nonlethal magical stabilisation occurs immediately by the neutral marshal unless the participant 
+expressly opts into a different publicly disclosed risk.
+Agreed award: One Crown Mark transfer only if the loser legally owns that Mark and signs this instrument before 
+combat. Otherwise the award is purely public recognition.
+Restrictions: No action against spectators, dependents or uninvolved witnesses. Allies may not join without both 
+duelists’ consent.
+Dispute: An equipment or arena violation suspends the duel for review. Contestants may jointly end the duel without 
+penalty.
+Contestant A: _____________________ Contestant B: _____________________ Marshal: 
+_____________________
+Form IC-08 — Notice of Withdrawal and Return
+Claimant: ______________________________________
+Notice: I withdraw from the Championship before investiture. I acknowledge forfeiture of unspent Crown Marks 
+attached to my personal claim. I do not sell, tithe, transfer or abandon my soul, existing property, memories or 
+identity by this notice.
+
+Outstanding particular duties: ______________________________________
+Discharge method and deadline: ______________________________________
+Return route: The Office of the Ninth Crown will provide one sanctioned gate to the claimant’s declared home plane 
+within 24 hours of discharge or confirmed absence of such duties.
+Effect: Acceptance of this filing ends competitive obligations under the public Charter. A separate valid bargain 
+remains in force according to its actual terms and can be contested independently.
+Claimant signature: _____________________ Received by: _____________________ Docket number: 
+_____________________
+Blank legal challenge card
+Use this quick form whenever an exhibit, magical promise or arena rule is contested:
+Standing (why I can object): ______________________________________
+Article or instrument quoted exactly: ______________________________________
+Material fact in dispute: ______________________________________
+Proof or witness offered: ______________________________________
+Remedy requested: ______________________________________
+Ruling / costs / appeal date: ______________________________________
+Remember the Scriptorium’s existing Ledger rules remain available for voluntarily negotiated bargains. Official 
+Championship Charter petitions do not automatically exact the Scriptorium’s default 5% soul-fee on a failed 
+argument; hearings under this charter waive that fee and impose disclosed procedural delay or limited Crown Mark 
+risks instead.
+8. SIX PREGENERATED LEVEL-12 CLAIMANTS
+These six ready-to-run characters enter the First Crown competition at level 12. They are compatible with a 2014-
+style D&D 5e table; the three new subclasses are defined in this book, while the wizard, paladin and cleric use the 
+existing Asmodeun Scriptorium subclass descriptions in The Night of the Red Clause (Appendix G). Their quick 
+combat instructions are sufficient for an opening session, but use the full subclass text for exact spell access, prepared 
+features and later advancement. All six have proficiency bonus +4. Their hit points assume average fixed increases 
+after level 1; no item bonuses have been silently included. All are independent people; none starts pledged to sell a 
+soul. Each has a reason to seek the throne alone or alongside the others.
+Character creation standard. Each sheet below is a fixed, table-ready build rather than a promise of strict point-buy 
+optimisation. Where racial background options differ between 2014 and 2024, use the listed final scores and do not 
+double-add bonuses. Each character has a rare item, one uncommon or consumable reward, a visible personal 
+ambition and a secret they may choose to disclose. Items with attunement are marked. Substitute comparable magic 
+items if your table has its own allocation policy. In 2024, use 2024 base-class features and the conversion notes in 
+Section 9.
+
+1. Aurelia Quill — Advocate of the Ruby Court
+Tiefling Warlock 12 (Ruby Court patron); background: former Foundation compliance attorney; alignment: lawful 
+neutral.
+AC 15 (+1 studded leather) | HP 99 | Speed 30 ft | Initiative +2 | Hit Dice 12d8.
+STR 8 (-1), DEX 14 (+2), CON 16 (+3), INT 14 (+2), WIS 10 (+0), CHA 20 (+5). Saving throws: Wis +4, Cha +9. 
+Skills: Deception +9, Investigation +6, Insight +4, Persuasion +9, Arcana +6. Languages: Common, Infernal, one 
+regional language. Passive Perception 10.
+Spellcasting: spell attack +9, spell save DC 17. Three 5th-level Pact Magic spell slots, returning on a short rest; one 
+6th-level Mystic Arcanum use per long rest. Cantrips: eldritch blast, mage hand, minor illusion, witness mark 
+(campaign spell). Known spells (11): hex, armor of Agathys, comprehend languages, hold person, misty step, 
+counterspell, sending, dimension door, banishment, hold monster, audit the false. Mystic Arcanum: mass 
+suggestion. Invocations (6): Agonizing Blast, Repelling Blast, Devil’s Sight, Book of Ancient Secrets, Mask of 
+Many Faces, Mire the Mind. Pact boon: Pact of the Tome, with suitable ritual spells (detect magic and identify) 
+recorded in the Book of Shadows.
+Attacks: Eldritch blast +9, three separate beams at character level 11+, each 1d10+5 force (Agonizing Blast), and 
+may push 10 ft on hit through Repelling Blast. Dagger +6, 1d4+2 piercing.
+Subclass options: Clause of Mutual Aid PB 4 uses/long rest; Consideration Received and Reserved Rights as written 
+earlier. Keep a physical card for each Minor Term, including its recipient’s actual acceptance. The Warlock cannot 
+impose terms on unwilling allies.
+Equipment: +1 studded leather armour; Marshal’s Chain of Allegiance (rare, attunement); Quill of True Notice; 
+two potions of greater healing; legal notebooks, ruby wax, Book of Shadows. She begins attuned to the chain.
+Why Avernus? Aurelia helped audit the Hearthlight Foundation after the Red Clause affair. She believes the only 
+permanent safeguard against infernal fraud is to control the government that certifies it.
+Private pressure: A genuine soul bargain belonging to a former client is valid; freeing that person may require 
+paying a real price. Aurelia wants a government where truth matters, but is tempted to become its unchallengeable 
+final judge.
+Claim: Sole—establish a Court of Review; Joint—draft the coalition’s voting rules; Proxy—sponsor the Brass 
+Arbiter’s independence.
+Tactics: Stay 30–60 feet back, deploy one meaningful control spell per fight, use three eldritch blast beams as a 
+reliable action, and spend reactions on counterspell or your level-10 reroll. Use audit the false for investigation rather 
+than treating it as an instant combat win.
+Level-17 direction: At 14 gain Final Notice; at 15–17 select higher Mystic Arcanum appropriate to a legalist and 
+improve defensive invocations. Build as a control-and-evidence specialist rather than a damage-only blaster.
+2. Varka Blackseal — The Blood-Price Marshal
+Half-orc Barbarian 12 (Path of the Blood-Price); background: displaced battlefield rescuer; alignment: chaotic 
+good.
+AC 16 (Unarmoured Defence) | HP 137 | Speed 40 ft | Initiative +2, advantage via Feral Instinct | Hit Dice 12d12.
+
+STR 20 (+5), DEX 14 (+2), CON 18 (+4), INT 8 (-1), WIS 12 (+1), CHA 10 (+0). Saving throws: Str +9, Con +8. 
+Skills: Athletics +9, Intimidation +4, Perception +5, Survival +5. Passive Perception 15.
+Class features: Rage 5 uses/long rest; Rage damage +3; Reckless Attack; Danger Sense; Extra Attack (two attacks); 
+Fast Movement; Feral Instinct; Brutal Critical (one extra weapon die); Relentless Rage. While raging, she resists 
+bludgeoning, piercing and slashing damage as normal. Uses Battle Vow with the Path of the Blood-Price and chooses 
+each vow when Rage begins.
+Attacks: +1 greataxe +10 to hit, 1d12+6 slashing, plus +3 while raging, and first qualifying hit per turn +1d8 necrotic 
+or fire from Rage Covenant at level 12. Two attacks with the Attack action. Handaxe +9 to hit, 1d6+5 slashing (plus 
++3 when a qualifying Strength-based melee attack while raging).
+Equipment: +1 greataxe; Crownmark Gauntlets (rare, attunement); two potions of greater healing; iron rescue 
+hook, old family banner and a list of the missing from Greyhurst. One attunement slot filled.
+Why Avernus? Varka intends to prove that power belongs to someone willing to protect the people beneath it. She 
+believes a king who must be dragged to the front line is not worth crowning.
+Private pressure: Her last wartime vow named someone she failed to save. A devil possesses the written version. 
+She may be persuaded that embracing a vow means paying for it forever.
+Claim: Sole—create a defender’s regency; Joint—marshal the party’s armies; Proxy—support the Greyhurst 
+survivors.
+Tactics: Declare a vow with a practical objective, Rage before committing to an enemy, and use Reckless Attack 
+selectively (mind incoming high-level attacks). At level 12, Collateral Guardian competes for the same reaction as 
+opportunity attacks. Keep close to the named Witness during deadly fights.
+Level-17 direction: At 14 gain the retaliatory Price Comes Due. Continue improving Constitution, mobility and 
+saves rather than accumulating only damage bonuses.
+3. Ilyra Ashroot — Keeper of Unburnt Names
+Wood elf Druid 12 (Circle of Ashen Covenants); background: planar refugee-warden; alignment: neutral good.
+AC 17 (hide armour and +1 wooden shield) | HP 99 | Speed 35 ft | Initiative +2 | Hit Dice 12d8.
+STR 8 (-1), DEX 14 (+2), CON 16 (+3), INT 12 (+1), WIS 20 (+5), CHA 10 (+0). Saving throws: Int +5, Wis +9. 
+Skills: Insight +9, Nature +5, Medicine +9, Perception +9, Survival +9. Passive Perception 19.
+Spellcasting: spell attack +9, spell save DC 17. Slots: 1st (4), 2nd (3), 3rd (3), 4th (3), 5th (2), 6th (1). Cantrips (4): 
+guidance, produce flame, thorn whip, druidcraft. Prepared spells (17): healing word, entangle, faerie fire, detect 
+magic, lesser restoration, pass without trace, spike growth, dispel magic, plant growth, call lightning, conjure 
+woodland beings (use 2014 table adjudication), freedom of movement, wall of fire, polymorph, greater restoration, 
+wall of stone, heal. Substitute writ of safe passage or breach of dominion from this guide when appropriate.
+Circle features: Ashen Accord on one willing ally after a 1-minute rite; Ash Warden Spirit by spending a Wild Shape 
+use. At level 12 the spirit has AC 17, HP 65, fly 20 ft, and its single commanded Ashen Touch is +9 to hit for 2d8+4 
+fire. The spirit acts after Ilyra; it Dodges unless she uses her bonus action to command it. Wild Shape normally has 
+two uses per short rest under this baseline. Remedy of the Root costs her reaction; Covenant of Embers grants fire 
+resistance.
+Equipment: +1 wooden shield; Ashen Seed of Remembrance (rare, attunement); moonstone sickle (nonmagical), 
+healer’s kit, dried winter roses and a ledger of souls whose names were stolen. One attunement slot filled.
+
+Why Avernus? Her grove preserves memories of people swallowed by the Blood War. She wants a First Crown that 
+must acknowledge living communities and the natural end of every obligation.
+Private pressure: She has preserved a stolen memory that does not belong to her. Misty’s agents may be able to 
+identify its owner before she can.
+Claim: Sole—create an Ash Covenant; Joint—serve as conscience and keeper of succession records; Proxy—sponsor 
+an autonomous civic council.
+Tactics: Set the Ashen Accord before danger, use bonus-action spirit commands selectively against the value of 
+healing word, protect allies with reactions, and control terrain with spike growth or wall of stone. Stay within 60 feet 
+of the bearer when protection matters.
+Level-17 direction: At 14 gain Court of Returning Ash. Focus on 7th–9th-level natural renewal and planar defence 
+rather than summoning numerous extra independent combatants.
+4. Orren Fenwick — The Scriptorium Defector
+Human Wizard 12 (School of Infernal Contracts, from The Night of the Red Clause); background: former infernal 
+archivist; alignment: neutral.
+AC 15 while mage armour is active (12 otherwise) | HP 74 | Speed 30 ft | Initiative +2 | Hit Dice 12d6.
+STR 8 (-1), DEX 14 (+2), CON 14 (+2), INT 20 (+5), WIS 12 (+1), CHA 10 (+0). Saving throws: Int +9, Wis +5. 
+Skills: Arcana +9, History +9, Investigation +9, Religion +9. Passive Perception 11.
+Spellcasting: spell attack +9, spell save DC 17. Slots: 1st (4), 2nd (3), 3rd (3), 4th (3), 5th (2), 6th (1). Cantrips (5): 
+fire bolt, mage hand, prestidigitation, minor illusion, ember receipt. Prepared spells (17): mage armour, shield, 
+detect magic, find familiar, misty step, mirror image, counterspell, dispel magic, fireball, fly, dimension door, greater 
+invisibility, wall of force, audit the false, globe of invulnerability, chain lightning, contingency. The spellbook also 
+contains identify, comprehend languages, registry of names, writ of safe passage and several Scriptorium research 
+spells that can be prepared on a later day.
+Subclass: Use the School of Infernal Contracts rules printed in the Scriptorium, Appendix G of The Night of the Red 
+Clause. The class’s contract scholarship does not allow Orren to turn an unsigned person into property by fiat. Track 
+prepared spells and concentration openly.
+Equipment: Gavel of Appeal (very rare, attunement, issued on probation; may be reclaimed if criminally misused); 
+cloak of protection (uncommon, attunement; if worn add +1 AC and saving throws, changing active AC to 16), 
+spellbook, ritual kit, three ink vials, two greater healing potions. Two attunement slots filled.
+Why Avernus? He helped design a registry that later enabled the Red Clause scheme. Now he plans to destroy the 
+practice of collecting souls by invented legal categories.
+Private pressure: His signature appears on an early registry template; he cannot pretend to be an innocent observer. 
+Owning that mistake publicly could earn him more legitimacy than hiding it.
+Claim: Sole—abolish false-title registration; Joint—serve as public legal architect; Proxy—present the cause of 
+surviving Waterdeep debtors.
+Tactics: Use wall of force or globe of invulnerability to control a decisive battlefield, reserve a reaction for 
+counterspell, and use real evidence during hearings. A ritual identify is not permission to determine an unknown 
+soul’s true name automatically.
+
+Level-17 direction: Expand high-level spell preparation and choose one strategic campaign project: public registries, 
+anti-forgery wards or a court that can actually audit devils.
+5. Dame Caldris Vowborne — The Infernal Paladin
+Dragonborn Paladin 12 (Oath of the Infernal Lord, from The Night of the Red Clause); background: veteran 
+oathkeeper; alignment: lawful neutral.
+AC 22 (plate, +1 shield, Defence Fighting Style) | HP 112 | Speed 30 ft | Initiative +0 | Hit Dice 12d10.
+STR 20 (+5), DEX 10 (+0), CON 16 (+3), INT 8 (-1), WIS 10 (+0), CHA 18 (+4). Saving throws: Wis +4 and Cha 
++8; within the Aura of Protection add +4 to all saving throws, including her own. Skills: Athletics +9, Intimidation 
++8, Insight +4, Persuasion +8. Passive Perception 10.
+Paladin features: Lay on Hands pool 60 HP; Divine Sense; Fighting Style Defence (already included in AC 22); 
+Divine Smite; Extra Attack (two); Aura of Protection 10 feet; Aura of Courage 10 feet; Improved Divine Smite adds 
+1d8 radiant to every successful melee weapon attack. Channel Divinity and oath spells follow the existing 
+Scriptorium oath text.
+Spellcasting: spell attack +8, spell save DC 16. Slots 1st (4), 2nd (3), 3rd (3). Prepared spells (10, not counting 
+oath spells): bless, command, cure wounds, protection from evil and good, aid, lesser restoration, find steed, revivify, 
+dispel magic, writ of safe passage. Swap spells at the usual preparation cadence; the new campaign spells are optional 
+at this table.
+Attacks: +1 longsword +10 to hit, 1d8+6 slashing (one-handed), plus 1d8 radiant from Improved Divine Smite. Two 
+attacks. A 1st-level Divine Smite adds 2d8 radiant when chosen after a hit (3d8 versus fiends or undead under the 
+2014 text), plus more dice from higher slots as allowed by the base rules.
+Equipment: +1 longsword, +1 shield, plate armour, Receipt of the Last Gift, two greater healing potions, a sealed 
+record of a promise made under pressure. No attunement is required for the listed equipment.
+Why Avernus? Caldris believes that a code of law can restrain Hell more effectively than a sword alone, but only 
+when officials themselves are held to it.
+Private pressure: The Oath of the Infernal Lord may require difficult loyalty to Asmodeus. If Caldris wins, she must 
+choose whether being an obedient vassal and being a just ruler can coexist.
+Claim: Sole—lawful but severe regent; Joint—military judge and watch captain; Proxy—represent Zariel, Bel, or an 
+independent order, openly.
+Tactics: Stand close enough for the aura to matter, maintain bless during uncertain encounters, reserve smites for 
+confirmed priority hits, and use social authority to stop unlawful seizures before battle begins.
+Level-17 direction: Higher-level auras and oath features can make Caldris a decisive defensive anchor, while 
+forceful doctrine may become politically divisive.
+6. Sister Nema Copperwrit — The Contract Domain Priest
+Hill dwarf Cleric 12 (Contract Domain, from The Night of the Red Clause); background: temple notary and 
+advocate; alignment: lawful good.
+AC 18 (scale mail, +1 shield) | HP 111 (includes hill dwarf’s +1 HP per level) | Speed 25 ft | Initiative +1 | Hit Dice 
+12d8.
+
+STR 10 (+0), DEX 12 (+1), CON 16 (+3), INT 12 (+1), WIS 20 (+5), CHA 10 (+0). Saving throws: Wis +9, Cha 
++4. Skills: Insight +9, Medicine +9, Religion +5, Persuasion +4. Passive Perception 15.
+Spellcasting: spell attack +9, spell save DC 17. Slots 1st (4), 2nd (3), 3rd (3), 4th (3), 5th (2), 6th (1). Cantrips (5): 
+guidance, sacred flame, thaumaturgy, spare the dying, witness mark. Prepared spells (17, excluding domain 
+spells): bless, healing word, guiding bolt, command, aid, lesser restoration, spiritual weapon, zone of truth, dispel 
+magic, revivify, spirit guardians, death ward, freedom of movement, banishment, greater restoration, flame strike, 
+heal. Adjust domain spell preparation using the existing Scriptorium text.
+Cleric features: Channel Divinity twice per short rest (level 12), Destroy Undead at the current cleric threshold, and 
+Divine Intervention with a 12% chance under 2014 rules (subject to DM rulings). Apply the Contract Domain’s 
+additional published Scriptorium features.
+Equipment: +1 shield, scale mail, Marshal’s Chain of Allegiance (rare, attunement), holy symbol, healer’s kit, 
+three legal seals, two greater healing potions. One attunement slot filled.
+Why Avernus? Nema does not want Hell to be good; she wants it to stop using lies as a pretext for cruelty. She 
+considers the First Crown an office whose holder can actually be held to account.
+Private pressure: Her monastery once accepted a bargain to protect its novices. The bargain may be valid but 
+harmful. Nema wants a solution that honours the signer while freeing those who never consented.
+Claim: Sole—create a charter of protected persons; Joint—independent moral auditor; Proxy—sponsor a pact-bound 
+order of guardians.
+Tactics: Prioritise spirit guardians in close fights, bless when saving throws are more important than area damage, 
+and use healing word to rescue fallen allies. During hearings, zone of truth and authentic records complement rather 
+than replace direct testimony.
+Level-17 direction: Cleric 17 gains 9th-level magic and the domain’s highest feature; focus on lawful restitution and 
+protection from coercive identity magic.
+Shared party introductions
+Start the campaign with each player answering two questions: What would you change about Avernus if you could 
+actually hold the First Crown? and Which personal principle would you refuse to trade, even to win? Then have 
+them choose one ordinary noninfernal tie to another pregen: saving a life, sharing a mentor, a prior Waterdeep 
+hearing, or a debt already paid. No one begins required to betray another player. If PCs prefer separate claims, they 
+can still travel as an alliance until final registration.
+9. PLAYER RULES, ADVANCEMENT AND 2024 CONVERSION
+A practical level-12 party setup
+All new pregens begin with one short-term objective, one faction they understand, and one doubt about Hell’s 
+bureaucracy. The DM should hand them the nine Charter articles before any signature. Players may review, reject, 
+propose amendments, seek a proxy or sign as a joint slate. A character who refuses can participate in an exploratory 
+capacity until choosing a claim, without acquiring contestant Crown Marks.
+Crown Marks are public rewards for genuine Proofs, not transferable currencies merely because someone writes a 
+counterfeit receipt. A joint slate can pool eligible Proofs when it is registered. The party should keep a shared page 
+
+with: current claim type, each Proof, additional Marks, outstanding agreements, current witness names, and the 
+proposed order of succession.
+2024 conversion
+The adventure’s maths assumes 2014-era class progression. For 2024-style play, use the newer base classes, 
+proficiency progression and current spell text where it differs. Ruby Court patron starts at Warlock 3 rather than 
+Warlock 1; its later features are at 6/10/14. Circle of Ashen Covenants starts at Druid 3 rather than Druid 2; later 
+features are at 6/10/14. Path of the Blood-Price remains at Barbarian 3/6/10/14. Do not grant the same initial features 
+twice when converting an existing character. For the three imported Scriptorium subclasses, follow that book’s 
+conversion sidebar and the table’s declared class-feature timing.
+A 2024 spell may have altered balance, duration or concentration. Use the modern spell’s full text for that base spell. 
+The 17 new spells in Section 5 are explicitly homebrew and have the effects printed here. All use the character’s 
+normal spellcasting modifier; an item states its own DC when it supplies a fixed one.
+Fighting a legendary hag at level 17
+The Heartstone arc is optional and advertised as extreme. The Queen is a mythic CR 30 antagonist, not a fair 
+level-17 encounter in isolation. Strengthening a party with items, legal injunctions, the testimony of the Three 
+Witnesses, and high-level spells may give them a slim, meaningful chance. Players should not expect ordinary 
+attrition and damage alone to carry them to victory. No part of the Charter requires Misty’s death to win the throne. 
+Misty can be bargained with, outmanoeuvred, sponsored, publicly defeated in law, or physically challenged at 
+enormous risk.
+Character journals
+At the end of each session, note: (1) one promise you fulfilled; (2) one promise you are considering; (3) one 
+person who now has cause to trust or fear you. These are roleplay records, not soul penalties. At levels 13, 15 and 
+17, revisit each character’s governance manifesto. Ask whether the ambition that brought them to Avernus is the 
+same ambition they still hold.
+Scriptorium compatibility reference
+The Night of the Red Clause, Appendix G, The Asmodeun Scriptorium, contains 26 previous contractual spells, 
+three subclasses (School of Infernal Contracts wizard, Oath of the Infernal Lord paladin, Contract Domain cleric), 
+seven formal scroll contracts, and the Ledger subsystem with Draft DCs, Loophole Ratings and a soul-tithe track. 
+This book adds three new subclasses, seventeen new spells, fourteen items, and eight complete Championship 
+contract forms. It neither supersedes the original spell descriptions nor declares any signer to have accepted a 
+contract they did not see. The two books can be used alongside the Red Clause Scriptorium as a single contract-magic 
+rules family.
+End of Book II — Player’s Draft. Print the Nine Articles and the eight forms for play; keep the DM-only secrets, 
+Misty lair details and encounter tables in Book I.

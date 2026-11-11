@@ -1,0 +1,175 @@
+{
+  "id": "interplanal-champions",
+  "title": "Interplanal Champions: The Throne of Avernus",
+  "description": "<p>A level 12–17 D&amp;D 5e campaign of infernal succession, the sequel to <em>The Night of the Red Clause</em>. Asmodeus opens the throne of Avernus to challengers who can prove Survival, Deviousness and Dominion, and every crown is a contract. Twenty-two vector battlemaps (the six 2020 originals rebuilt, plus their keyed locations), a full bestiary with automation including Misty, Hell Hag Queen, six level-12 claimants, three new subclasses, seventeen contractual spells, fourteen relics, the Championship Charter and eight contract forms, roll tables, the Championship Board and arena, tribunal and mass-battle tools. One-click setup.</p>",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Asmo, Pacts & Polyhedrals (Ben Vale)",
+      "url": "https://www.patreon.com/pactsandpolyhedrals"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.0.0",
+          "verified": "5.3.3"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/main.mjs"
+  ],
+  "styles": [
+    "styles/interplanal.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "packs": [
+    {
+      "name": "journals",
+      "label": "Books, Handouts & Journals",
+      "path": "packs/journals",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "actors",
+      "label": "Actors (Bestiary & NPCs)",
+      "path": "packs/actors",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "pregens",
+      "label": "Pregenerated Claimants",
+      "path": "packs/pregens",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "items",
+      "label": "Relics, Exhibits & Tokens",
+      "path": "packs/items",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "spells",
+      "label": "Spells",
+      "path": "packs/spells",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "options",
+      "label": "Player Options (Subclasses)",
+      "path": "packs/options",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "tables",
+      "label": "Roll Tables",
+      "path": "packs/tables",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "macros",
+      "label": "Macros",
+      "path": "packs/macros",
+      "type": "Macro",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Interplanal Champions",
+      "sorting": "m",
+      "color": "#5e0b18",
+      "packs": [
+        "journals",
+        "actors",
+        "pregens",
+        "items",
+        "spells",
+        "options",
+        "tables",
+        "macros"
+      ],
+      "folders": []
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "url": "modules/interplanal-champions/assets/art/title.webp"
+    },
+    {
+      "type": "icon",
+      "url": "modules/interplanal-champions/assets/icons/ic-title.webp"
+    }
+  ],
+  "url": "https://github.com/pacts-and-polyhedrals/interplanal-champions",
+  "manifest": "https://github.com/pacts-and-polyhedrals/interplanal-champions/releases/latest/download/module.json",
+  "download": "https://github.com/pacts-and-polyhedrals/interplanal-champions/releases/download/v1.0.0/interplanal-champions.zip",
+  "readme": "https://github.com/pacts-and-polyhedrals/interplanal-champions/blob/main/README.md",
+  "changelog": "https://github.com/pacts-and-polyhedrals/interplanal-champions/blob/main/CHANGELOG.md",
+  "bugs": "https://github.com/pacts-and-polyhedrals/interplanal-champions/issues",
+  "license": "LICENSE",
+  "flags": {}
+}
