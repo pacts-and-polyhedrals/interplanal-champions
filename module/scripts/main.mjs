@@ -57,21 +57,26 @@ Hooks.once("init", () => {
   game.modules.get(MOD).api = API;
 });
 
-Hooks.once("ready", async () => {
-  Board.refresh();
-  Redline.refresh();
-  if (!game.user.isGM) return;
+Hooks.once("ready", () => {
+  // Never hold up the world: the board, tracker and setup prompt start after the world has finished loading.
+  try { Board.refresh(); Redline.refresh(); } catch (e) { console.error(`${MOD} | overlay failed`, e); }
+  if (game.user.isGM) setTimeout(() => onReady().catch(e => console.error(`${MOD} | ready failed`, e)), 1500);
+});
+
+async function onReady() {
   const ver = game.modules.get(MOD).version, inst = game.settings.get(MOD, "installedVersion");
   if (!inst && !game.settings.get(MOD, "promptDismissed")) {
     const go = await DialogV2().confirm({
       window: { title: ROOT },
-      content: `<p>Set up <strong>${ROOT}</strong> now?</p><p>This installs the actors, items, spells, subclasses, journals, roll tables and macros into labelled folders and builds all ${(await sceneData()).scenes.length} scenes with walls, lighting, pins and tokens. You can do it later from <em>Game Settings → Championship Manager</em>.</p>`
+      content: `<p>Set up <strong>${ROOT}</strong> now?</p><p>This installs the actors, items, spells, subclasses, journals, roll tables and macros into labelled folders and builds the scenes with walls, lighting, pins and tokens. It takes a few minutes; keep this tab open until it says it's ready. You can do it later from <em>Game Settings → Configure Settings → Championship Manager</em>.</p>`
     });
-    if (go) await setupAll(); else await game.settings.set(MOD, "promptDismissed", true);
+    // Ask only once: a reload during setup never restarts it automatically.
+    await game.settings.set(MOD, "promptDismissed", true);
+    if (go) await setupAll();
   } else if (inst && inst !== ver) {
     ui.notifications.info(`${ROOT} updated to ${ver}. Open the Championship Manager and choose "Update Content" to refresh your world copies.`, { permanent: true });
   }
-});
+}
 
 async function ensureFolder(name, type, parent = null, color = "#5e0b18") {
   const pid = parent?.id ?? null;
@@ -232,10 +237,6 @@ async function stageScene(key) {
     tokens.push(data);
   }
   if (tokens.length) await scene.createEmbeddedDocuments("Token", tokens);
-  try {
-    const thumb = await scene.createThumbnail({ img: spec.src });
-    if (thumb?.thumb) await scene.update({ thumb: thumb.thumb });
-  } catch (e) { console.warn(`${MOD} | thumbnail skipped`, e); }
   return scene;
 }
 
@@ -245,14 +246,22 @@ async function buildScenes() {
   // landing scene
   const folder = await ensureFolder(ROOT, "Scene");
   await ensureScene(all.landing, folder);
-  for (const s of all.scenes) await stageScene(s.key);
+  for (const s of all.scenes) {
+    try { await stageScene(s.key); } catch (e) { console.error(`${MOD} | scene ${s.key} failed`, e); }
+  }
   note?.remove?.();
   ui.notifications.info(`${ROOT}: ${all.scenes.length} scenes built.`);
 }
 
 async function setupAll() {
-  await installContent({ update: false });
-  await buildScenes();
+  try {
+    await installContent({ update: false });
+    await buildScenes();
+  } catch (e) {
+    console.error(`${MOD} | setup failed`, e);
+    ui.notifications.error(`${ROOT}: setup stopped (${e.message}). Open the Championship Manager to try again; press F12 for details.`, { permanent: true });
+    return null;
+  }
   await game.settings.set(MOD, "installedVersion", game.modules.get(MOD).version);
   const landing = game.scenes.get((await sceneData()).landing.id);
   ui.notifications.info(`${ROOT} is ready. Open Book I to begin.`);

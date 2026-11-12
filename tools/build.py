@@ -8,7 +8,7 @@ import j_toolkit, j_book1, j_book2, j_rest, j_scriptorium, jhelp
 ROOT = "/home/claude/ic"
 MODDIR = f"{ROOT}/module"
 SRC = f"{ROOT}/build/packs"
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 REPO = "https://github.com/pacts-and-polyhedrals/interplanal-champions"
 
 shutil.rmtree(SRC, ignore_errors=True)
@@ -190,12 +190,13 @@ module = {
               for n, t, l, o in packs],
     "packFolders": [{"name": "Interplanal Champions", "sorting": "m", "color": "#5e0b18",
                      "packs": [p[0] for p in packs], "folders": []}],
-    "media": [{"type": "cover", "url": f"modules/{MOD}/assets/art/title.webp"},
-              {"type": "icon", "url": f"modules/{MOD}/assets/icons/ic-title.webp"}],
+    # The Forge Bazaar and the setup screen read media from the manifest before the module is installed: absolute URLs.
+    "media": [{"type": "cover", "url": REPO.replace("https://github.com/", "https://raw.githubusercontent.com/") + "/main/module/assets/art/title.webp"},
+              {"type": "icon", "url": REPO.replace("https://github.com/", "https://raw.githubusercontent.com/") + "/main/module/assets/icons/ic-title.webp"}],
     "url": REPO, "manifest": f"{REPO}/releases/latest/download/module.json",
     "download": f"{REPO}/releases/download/v{VERSION}/{MOD}.zip",
     "readme": f"{REPO}/blob/main/README.md", "changelog": f"{REPO}/blob/main/CHANGELOG.md",
-    "bugs": f"{REPO}/issues", "license": "LICENSE", "flags": {}
+    "bugs": f"{REPO}/issues", "license": f"{REPO}/blob/main/LICENSE", "flags": {}
 }
 json.dump(module, open(f"{MODDIR}/module.json", "w"), indent=2, ensure_ascii=False)
 os.makedirs(f"{MODDIR}/lang", exist_ok=True)

@@ -2,7 +2,7 @@
   "id": "interplanal-champions",
   "title": "Interplanal Champions: The Throne of Avernus",
   "description": "<p>A level 12–17 D&amp;D 5e campaign of infernal succession, the sequel to <em>The Night of the Red Clause</em>. Asmodeus opens the throne of Avernus to challengers who can prove Survival, Deviousness and Dominion, and every crown is a contract. Twenty-two vector battlemaps (the six 2020 originals rebuilt, plus their keyed locations), a full bestiary with automation including Misty, Hell Hag Queen, six level-12 claimants, three new subclasses, seventeen contractual spells, fourteen relics, the Championship Charter and eight contract forms, roll tables, the Championship Board and arena, tribunal and mass-battle tools. One-click setup.</p>",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "Asmo, Pacts & Polyhedrals (Ben Vale)",
@@ -157,19 +157,19 @@
   "media": [
     {
       "type": "cover",
-      "url": "modules/interplanal-champions/assets/art/title.webp"
+      "url": "https://raw.githubusercontent.com/pacts-and-polyhedrals/interplanal-champions/main/module/assets/art/title.webp"
     },
     {
       "type": "icon",
-      "url": "modules/interplanal-champions/assets/icons/ic-title.webp"
+      "url": "https://raw.githubusercontent.com/pacts-and-polyhedrals/interplanal-champions/main/module/assets/icons/ic-title.webp"
     }
   ],
   "url": "https://github.com/pacts-and-polyhedrals/interplanal-champions",
   "manifest": "https://github.com/pacts-and-polyhedrals/interplanal-champions/releases/latest/download/module.json",
-  "download": "https://github.com/pacts-and-polyhedrals/interplanal-champions/releases/download/v1.0.0/interplanal-champions.zip",
+  "download": "https://github.com/pacts-and-polyhedrals/interplanal-champions/releases/download/v1.0.1/interplanal-champions.zip",
   "readme": "https://github.com/pacts-and-polyhedrals/interplanal-champions/blob/main/README.md",
   "changelog": "https://github.com/pacts-and-polyhedrals/interplanal-champions/blob/main/CHANGELOG.md",
   "bugs": "https://github.com/pacts-and-polyhedrals/interplanal-champions/issues",
-  "license": "LICENSE",
+  "license": "https://github.com/pacts-and-polyhedrals/interplanal-champions/blob/main/LICENSE",
   "flags": {}
 }

@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.1
+
+- Fixed the setup prompt so it can never hold up a world while it loads. The prompt appears a moment after the world is ready, is asked only once, and a reload part-way through no longer restarts setup.
+- Setup is faster, especially on The Forge: scene thumbnails are no longer generated one by one. If a step fails, it stops with a clear message instead of hanging, and one broken scene no longer stops the others.
+- The cover image and icon now show in The Forge's Bazaar and on Foundry's install screen (the manifest uses full web addresses for them).
+- Packs ship without LevelDB lock and log files.
+
 ## 1.0.0
 First release.
 - Tables never break mid-row. Tables of up to 18 rows stay whole, and a table's heading stays with it. Longer tables continue only between rows, with the header row repeated. When a table moves to the next column or page, the space it leaves gets a picture (or an ornament if the space is small) instead of an empty gap.

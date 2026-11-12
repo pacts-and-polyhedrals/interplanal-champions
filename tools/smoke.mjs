@@ -49,7 +49,7 @@ globalThis.ChatMessage = { create: async m => log.push("CHAT " + m.content.repla
 globalThis.canvas = { scene: null };
 globalThis.document = { createElement: () => ({ addEventListener() {}, remove() {} }), body: { appendChild() {} } };
 await import("../module/scripts/main.mjs");
-Hooks._h.init(); await Hooks._h.ready();
+Hooks._h.init(); await Hooks._h.ready(); await new Promise(r => setTimeout(r, 100)); await game.modules.get(MOD).api.setupAll?.() ?? null;
 const api = game.modules.get(MOD).api;
 const scenes = colls.Scene.contents;
 console.log("gen", game.release.generation, "| scenes", scenes.length, "| actors", colls.Actor.contents.length, "| items", colls.Item.contents.length,
